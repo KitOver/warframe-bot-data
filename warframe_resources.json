@@ -1,432 +1,782 @@
 {
+  "adramal_liga": {
+    "nome": "Adramal Liga",
+    "melhor_local": "Mineração em Deimos – Mina de Cambion Drift",
+    "detalhes": "Adramal Liga"
+  },
+  "aggristone": {
+    "nome": "Aggristone",
+    "melhor_local": "Duviri – Encontros de Oportunidade",
+    "detalhes": "Aggristone"
+  },
+  "placa_de_liga": {
+    "nome": "Placa de Liga",
+    "melhor_local": "Vênus – Tessera (Defesa)",
+    "detalhes": "Placa de Liga"
+  },
+  "anomaly_fragmento": {
+    "nome": "Anomaly Fragmento",
+    "melhor_local": "Railjack – Veil Proxima – Anomalia Sentient",
+    "detalhes": "Anomaly Fragmento"
+  },
+  "cristal_de_argon": {
+    "nome": "Cristal de Árgon",
+    "melhor_local": "Void – Hepit (Captura)",
+    "detalhes": "Cristal de Árgon"
+  },
+  "atmo_sistemas": {
+    "nome": "Atmo Sistemas",
+    "melhor_local": "Orb Vallis – Bounties de Eudico (Tier 3)",
+    "detalhes": "Atmo Sistemas"
+  },
+  "auroxium_liga": {
+    "nome": "Auroxium Liga",
+    "melhor_local": "Mineração em Deimos – Cambion Drift",
+    "detalhes": "Auroxium Liga"
+  },
+  "axidrol_liga": {
+    "nome": "Axidrol Liga",
+    "melhor_local": "Mineração em Deimos – Cambion Drift (subsolo)",
+    "detalhes": "Axidrol Liga"
+  },
+  "benign_infested_tumor": {
+    "nome": "Benign Infested Tumor",
+    "melhor_local": "Pesca em Deimos – Peixes: Amniophysi, Aquapulmo, Barbisteo, etc.",
+    "detalhes": "Benign Infested Tumor"
+  },
+  "bonewidow_capsule": {
+    "nome": "Bonewidow Capsule",
+    "melhor_local": "Recompensa de Bounties da Mãe em Deimos (Tier 5)",
+    "detalhes": "Bonewidow Capsule"
+  },
+  "bonewidow_casing": {
+    "nome": "Bonewidow Casing",
+    "melhor_local": "Deimos – Recompensas da Mãe (Tier 3-5)",
+    "detalhes": "Bonewidow Casing"
+  },
+  "bonewidow_engine": {
+    "nome": "Bonewidow Engine",
+    "melhor_local": "Deimos – Recompensas da Mãe (Tier 3-5)",
+    "detalhes": "Bonewidow Engine"
+  },
+  "bonewidow_weapon_pod": {
+    "nome": "Bonewidow Weapon Pod",
+    "melhor_local": "Deimos – Recompensas da Mãe (Tier 3-5)",
+    "detalhes": "Bonewidow Weapon Pod"
+  },
+  "breath_of_the_eidolon": {
+    "nome": "Breath Of The Eidolon",
+    "melhor_local": "Cetus – Bounties (Tier 1+)",
+    "detalhes": "Breath Of The Eidolon"
+  },
+  "brickie_muon_battery": {
+    "nome": "Brickie Muon Battery",
+    "melhor_local": "Orb Vallis – Derrotando inimigos Corpus perto do Spaceport",
+    "detalhes": "Brickie Muon Battery"
+  },
+  "cabochon_embolos": {
+    "nome": "Cabochon Embolos",
+    "melhor_local": "Deimos – Mineração no Cambion Drift",
+    "detalhes": "Cabochon Embolos"
+  },
+  "toroide_calda": {
+    "nome": "Toroide Calda",
+    "melhor_local": "Orb Vallis – Spaceport",
+    "detalhes": "Toroide Calda"
+  },
+  "carbides": {
+    "nome": "Carbides",
+    "melhor_local": "Railjack – Missões em Plutão e Vênus",
+    "detalhes": "Carbides"
+  },
+  "vulto_de_cetus": {
+    "nome": "Vulto de Cetus",
+    "melhor_local": "Planícies de Eidolon – Lago Principal (noite)",
+    "detalhes": "Vulto de Cetus"
+  },
+  "charamote_sagan_modulo": {
+    "nome": "Charamote Sagan Módulo",
+    "melhor_local": "Duviri – Pescando Charamote (Área: Estepes)",
+    "detalhes": "Charamote Sagan Módulo"
+  },
+  "charc_electroplax": {
+    "nome": "Charc Electroplax",
+    "melhor_local": "Orb Vallis – Pescando Charc Eel (em lagos durante tempestades elétricas)",
+    "detalhes": "Charc Electroplax"
+  },
+  "circuitos": {
+    "nome": "Circuitos",
+    "melhor_local": "Vênus – Malva (Defesa)",
+    "detalhes": "Circuitos"
+  },
+  "condroc_wing": {
+    "nome": "Condroc Wing",
+    "melhor_local": "Planícies de Eidolon – Caçando Condrocs",
+    "detalhes": "Condroc Wing"
+  },
+  "connla_sprout": {
+    "nome": "Connla Sprout",
+    "melhor_local": "Duviri – Encontros de Exploração",
+    "detalhes": "Connla Sprout"
+  },
+  "modulo_de_controle": {
+    "nome": "Módulo de Controle",
+    "melhor_local": "Netuno – Psamathe (Captura)",
+    "detalhes": "Módulo de Controle"
+  },
+  "coprite_liga": {
+    "nome": "Coprite Liga",
+    "melhor_local": "Deimos – Mineração no Cambion Drift (subsolo)",
+    "detalhes": "Coprite Liga"
+  },
+  "cranial_foremount": {
+    "nome": "Cranial Foremount",
+    "melhor_local": "Duviri – Recompensas da Aventura",
+    "detalhes": "Cranial Foremount"
+  },
+  "criotica": {
+    "nome": "Criótica",
+    "melhor_local": "Urano – Triton (Escavação)",
+    "detalhes": "Criótica"
+  },
+  "cuthol_tendrils": {
+    "nome": "Cuthol Tendrils",
+    "melhor_local": "Planícies de Eidolon – Pescando Cuthol (de noite)",
+    "detalhes": "Cuthol Tendrils"
+  },
+  "dendrite_blastoma": {
+    "nome": "Dendrite Blastoma",
+    "melhor_local": "Deimos – Processando peixe Aquapulmo",
+    "detalhes": "Dendrite Blastoma"
+  },
+  "detonite_injector": {
+    "nome": "Detonite Injector",
+    "melhor_local": "Dojo – Laboratório Químico",
+    "detalhes": "Detonite Injector"
+  },
+  "devolved_namalon": {
+    "nome": "Devolved Namalon",
+    "melhor_local": "Deimos – Mineração no Cambion Drift (subsolo)",
+    "detalhes": "Devolved Namalon"
+  },
+  "dracroot": {
+    "nome": "Dracroot",
+    "melhor_local": "Duviri – Encontros Aleatórios",
+    "detalhes": "Dracroot"
+  },
+  "echo_voca": {
+    "nome": "Echo Voca",
+    "melhor_local": "Duviri – Encontros Aleatórios / Circuito",
+    "detalhes": "Echo Voca"
+  },
+  "eevani": {
+    "nome": "Eevani",
+    "melhor_local": "Duviri – Encontros Aleatórios",
+    "detalhes": "Eevani"
+  },
+  "efervon_amostra": {
+    "nome": "Efervon Amostra",
+    "melhor_local": "Duviri – Encontros Aleatórios (coleta de flores brilhantes)",
+    "detalhes": "Efervon Amostra"
+  },
+  "eidolon_fragmento": {
+    "nome": "Eidolon Fragmento",
+    "melhor_local": "Planícies de Eidolon – Derrotando Eidolons",
+    "detalhes": "Eidolon Fragmento"
+  },
+  "entrati_lanthorn": {
+    "nome": "Entrati Lanthorn",
+    "melhor_local": "Zariman – Missões e Voidplumes",
+    "detalhes": "Entrati Lanthorn"
+  },
+  "entrati_obols": {
+    "nome": "Entrati Obols",
+    "melhor_local": "Zariman – Missões e Voidplumes",
+    "detalhes": "Entrati Obols"
+  },
+  "esher_devar": {
+    "nome": "Esher Devar",
+    "melhor_local": "Cetus – Mineração nas Planícies de Eidolon",
+    "detalhes": "Esher Devar"
+  },
+  "exceptional_sentient_nucleo": {
+    "nome": "Exceptional Sentient Núcleo",
+    "melhor_local": "Missões Sentient – Anomalias no Railjack (Veil Proxima)",
+    "detalhes": "Exceptional Sentient Núcleo"
+  },
+  "eyeeye_rotoblade": {
+    "nome": "Eye-Eye Rotoblade",
+    "melhor_local": "Duviri – Pescando Eye-Eye (Lagos de Duviri)",
+    "detalhes": "Eye-Eye Rotoblade"
+  },
+  "fate_perola": {
+    "nome": "Fate Pérola",
+    "melhor_local": "Duviri – Encontros Aleatórios",
+    "detalhes": "Fate Pérola"
+  },
   "ferrite": {
     "nome": "Ferrite",
-    "melhor_local": "Mercúrio – Tolstoj (Defesa) ou Terra – Tikal (Defesa)",
-    "detalhes": "Recurso Grineer mais comum do jogo. Encontrado em planetas iniciais e mid-game. Drops de inimigos e containers."
+    "melhor_local": "Mercúrio – Apollodorus (Sobrevivência)",
+    "detalhes": "Ferrite"
   },
-  "rubedo": {
-    "nome": "Rubedo",
-    "melhor_local": "Terra – Everest (Extermínio) ou Mariana (Defesa)",
-    "detalhes": "Recurso comum Grineer/Corpus. Encontrado em caixas e de inimigos em planetas iniciais. Abundante."
+  "fersteel_liga": {
+    "nome": "Fersteel Liga",
+    "melhor_local": "Deimos – Mineração em Cambion Drift",
+    "detalhes": "Fersteel Liga"
   },
-  "salvage": {
-    "nome": "Sucata",
-    "melhor_local": "Marte – Spear (Captura) ou Júpiter – IO (Defesa)",
-    "detalhes": "Comum em Marte e Júpiter de inimigos Grineer e Corpus. Abundante em missões de Defesa e Sobrevivência."
+  "fieldron": {
+    "nome": "Fieldron",
+    "melhor_local": "Dojo – Laboratório de Energia",
+    "detalhes": "Fieldron"
   },
-  "circuits": {
-    "nome": "Circuitos",
-    "melhor_local": "Vénus – Malva (Defesa) ou Ceres – Gabii (Defesa)",
-    "detalhes": "Drop comum de inimigos Corpus. Abundante em missões de defesa em Vénus e Ceres."
+  "fish_oleo": {
+    "nome": "Fish Óleo",
+    "melhor_local": "Cetus – Processando peixes pescados",
+    "detalhes": "Fish Óleo"
   },
-  "alloy_plate": {
-    "nome": "Placa de Liga",
-    "melhor_local": "Ceres – Gavini (Defesa) ou Júpiter – IO (Defesa)",
-    "detalhes": "Recurso comum em planetas Corpus e Grineer. Essencial para muitas construções de Warframes e Armas."
+  "fish_scales": {
+    "nome": "Fish Scales",
+    "melhor_local": "Cetus – Processando peixes pescados",
+    "detalhes": "Fish Scales"
   },
-  "plastids": {
-    "nome": "Plastids",
-    "melhor_local": "Eris – Akkad (Defesa) ou Saturno - Piscinas de Telesto (Defesa)",
-    "detalhes": "Boa fonte em Eris/Saturno, especialmente com Nekros ou Hydroid (Pilfering Swarm) para drops extra. Droppa de Infestados."
+  "forma": {
+    "nome": "Forma",
+    "melhor_local": "Relíquias Void / Recompensas Nightwave",
+    "detalhes": "Forma"
   },
-  "nano_spores": {
-    "nome": "Nano Spores",
-    "melhor_local": "Urano – Assur (Sobrevivência) ou Eris – Akkad (Defesa)",
-    "detalhes": "Muitos inimigos infestados em mapas de sobrevivência e defesa. Queda comum e abundante."
-  },
-  "morphics": {
-    "nome": "Mórficos",
-    "melhor_local": "Mercúrio – Tolstoj (Defesa) ou Marte – Spear (Captura)",
-    "detalhes": "Drop de vários planetas de baixo nível. Geralmente em missões curtas."
-  },
-  "gallium": {
+  "galio": {
     "nome": "Gálio",
-    "melhor_local": "Marte – Spear (Captura) ou Netuno - Triton (Escavação)",
-    "detalhes": "Drops de bosses, containers ou inimigos em Marte e Netuno. Raridade incomum."
+    "melhor_local": "Marte – Spear (Captura)",
+    "detalhes": "Gálio"
   },
-  "tellurium": {
-    "nome": "Telúrio",
-    "melhor_local": "Urano – Ophelia (Sobrevivência) ou Assur (Sobrevivência)",
-    "detalhes": "Recurso aquático raro. Melhor em missões de sobrevivência aquáticas com inimigos de alto spawn. Use Warframes que aumentam drops como Nekros."
+  "ganglion": {
+    "nome": "Ganglion",
+    "melhor_local": "Lua – Missões contra Corrupted (Ex: Tycho, Espionagem)",
+    "detalhes": "Ganglion"
+  },
+  "goblite_tears": {
+    "nome": "Goblite Tears",
+    "melhor_local": "Orb Vallis – Mineração em cavernas/montanhas",
+    "detalhes": "Goblite Tears"
+  },
+  "goopolla_spleen": {
+    "nome": "Goopolla Spleen",
+    "melhor_local": "Cetus – Pescando Goopolla (margens de água, dia)",
+    "detalhes": "Goopolla Spleen"
+  },
+  "gorgaricus_spore": {
+    "nome": "Gorgaricus Spore",
+    "melhor_local": "Deimos – Colheita perto de árvores infestadas",
+    "detalhes": "Gorgaricus Spore"
+  },
+  "grokdrul": {
+    "nome": "Grokdrul",
+    "melhor_local": "Planícies de Eidolon – Bounties Grineer",
+    "detalhes": "Grokdrul"
+  },
+  "gyromag_sistemas": {
+    "nome": "Gyromag Sistemas",
+    "melhor_local": "Orb Vallis – Bounties de Eudico (Tier 2+)",
+    "detalhes": "Gyromag Sistemas"
+  },
+  "heart_noctrul": {
+    "nome": "Heart Noctrul",
+    "melhor_local": "Planícies de Eidolon – Mineração (noite)",
+    "detalhes": "Heart Noctrul"
+  },
+  "hespazym_liga": {
+    "nome": "Hespazym Liga",
+    "melhor_local": "Deimos – Mineração subterrânea (Cambion Drift)",
+    "detalhes": "Hespazym Liga"
+  },
+  "hexenon": {
+    "nome": "Hexenon",
+    "melhor_local": "Júpiter – Ganimedes (Defesa)",
+    "detalhes": "Hexenon"
+  },
+  "hollvanian_pitchweave_fragment": {
+    "nome": "HöLlvanian Pitchweave Fragment",
+    "melhor_local": "Duviri – Encontros aleatórios / Circuito",
+    "detalhes": "HöLlvanian Pitchweave Fragment"
+  },
+  "intact_sentient_nucleo": {
+    "nome": "Intact Sentient Núcleo",
+    "melhor_local": "Veil Proxima – Anomalias Sentient / Eidolons (noite em Cetus)",
+    "detalhes": "Intact Sentient Núcleo"
+  },
+  "iradita": {
+    "nome": "Iradita",
+    "melhor_local": "Planícies de Eidolon – Veias Vermelhas",
+    "detalhes": "Iradita"
+  },
+  "isos": {
+    "nome": "Isos",
+    "melhor_local": "Railjack – Missões em Plutão, Saturno ou Veil Proxima",
+    "detalhes": "Isos"
+  },
+  "javlok_capacitor": {
+    "nome": "Javlok Capacitor",
+    "melhor_local": "Dojo – Laboratório de Energia",
+    "detalhes": "Javlok Capacitor"
+  },
+  "khutkhut_venom_sac": {
+    "nome": "Khut-Khut Venom Sac",
+    "melhor_local": "Deimos – Pescando Khut-Khut (cavernas)",
+    "detalhes": "Khut-Khut Venom Sac"
+  },
+  "kovnik": {
+    "nome": "Kovnik",
+    "melhor_local": "Duviri – Encontros Aleatórios / Circuito",
+    "detalhes": "Kovnik"
+  },
+  "kriller_thermal_laser": {
+    "nome": "Kriller Thermal Laser",
+    "melhor_local": "Orb Vallis – Pescando Kriller (águas frias, noite)",
+    "detalhes": "Kriller Thermal Laser"
+  },
+  "kuaka_spinal_claw": {
+    "nome": "Kuaka Spinal Claw",
+    "melhor_local": "Planícies de Eidolon – Caçando Kuakas (durante o dia)",
+    "detalhes": "Kuaka Spinal Claw"
+  },
+  "kuva": {
+    "nome": "Kuva",
+    "melhor_local": "Fortaleza Kuva – Inundação Kuva",
+    "detalhes": "Kuva"
+  },
+  "lamentus": {
+    "nome": "Lamentus",
+    "melhor_local": "Duviri – Recompensas da Aventura / Circuito",
+    "detalhes": "Lamentus"
+  },
+  "longwinder_lathe_coagulant": {
+    "nome": "Longwinder Lathe Coagulant",
+    "melhor_local": "Orb Vallis – Pescando Longwinder (rios rápidos, dia)",
+    "detalhes": "Longwinder Lathe Coagulant"
+  },
+  "lua_thrax_plasm": {
+    "nome": "Lua Thrax Plasm",
+    "melhor_local": "Lua – Missões com Thrax Centurions",
+    "detalhes": "Lua Thrax Plasm"
+  },
+  "mandachord": {
+    "nome": "Mandachord",
+    "melhor_local": "Missão de Quest Octavia’s Anthem",
+    "detalhes": "Mandachord"
+  },
+  "maprico": {
+    "nome": "Maprico",
+    "melhor_local": "Planícies de Eidolon – Coletado de arbustos laranja",
+    "detalhes": "Maprico"
+  },
+  "marquise_thyst": {
+    "nome": "Marquise Thyst",
+    "melhor_local": "Cetus – Lapidação de Thyst minerado nas Planícies de Eidolon",
+    "detalhes": "Marquise Thyst"
+  },
+  "marquise_veridos": {
+    "nome": "Marquise Veridos",
+    "melhor_local": "Cetus – Lapidação de Veridos minerado nas Planícies de Eidolon",
+    "detalhes": "Marquise Veridos"
+  },
+  "maw_fang": {
+    "nome": "Maw Fang",
+    "melhor_local": "Duviri – Jogo do Maw / Mini-jogos",
+    "detalhes": "Maw Fang"
+  },
+  "mawfish_bones": {
+    "nome": "Mawfish Bones",
+    "melhor_local": "Cetus – Pescando Mawfish (comum, durante o dia)",
+    "detalhes": "Mawfish Bones"
+  },
+  "mirewinder_parallel_biode": {
+    "nome": "Mirewinder Parallel Biode",
+    "melhor_local": "Duviri – Pescando Mirewinder (águas profundas)",
+    "detalhes": "Mirewinder Parallel Biode"
+  },
+  "morficos": {
+    "nome": "Mórficos",
+    "melhor_local": "Mercúrio – Apollodorus (Sobrevivência)",
+    "detalhes": "Mórficos"
+  },
+  "mortus_horn": {
+    "nome": "Mortus Horn",
+    "melhor_local": "Cetus – Pescando Mortus Lungfish (lagos, dia)",
+    "detalhes": "Mortus Horn"
+  },
+  "murkray_liver": {
+    "nome": "Murkray Liver",
+    "melhor_local": "Cetus – Pescando Murkray (oceano, noite)",
+    "detalhes": "Murkray Liver"
+  },
+  "mutagen_mass": {
+    "nome": "Mutagen Mass",
+    "melhor_local": "Dojo – Laboratório Biológico",
+    "detalhes": "Mutagen Mass"
+  },
+  "mytocardia_spore": {
+    "nome": "Mytocardia Spore",
+    "melhor_local": "Deimos – Pescando Barbisteo / Amniophysi",
+    "detalhes": "Mytocardia Spore"
+  },
+  "nacreous_pebble": {
+    "nome": "Nacreous Pebble",
+    "melhor_local": "Duviri – Coleta no campo / Recompensas",
+    "detalhes": "Nacreous Pebble"
+  },
+  "nano_esporos": {
+    "nome": "Nano Esporos",
+    "melhor_local": "Urano – Assur (Sobrevivência)",
+    "detalhes": "Nano Esporos"
+  },
+  "narmer_isoplast": {
+    "nome": "Narmer Isoplast",
+    "melhor_local": "Narmer – Missões de Resgate em Narmer (próximo a Erra)",
+    "detalhes": "Narmer Isoplast"
+  },
+  "necracoil": {
+    "nome": "Necracoil",
+    "melhor_local": "Deimos – Obtido com Necramech (desmantelando partes)",
+    "detalhes": "Necracoil"
+  },
+  "sensores_neurais": {
+    "nome": "Sensores Neurais",
+    "melhor_local": "Júpiter – Cameria (Sabotagem)",
+    "detalhes": "Sensores Neurais"
   },
   "neurodes": {
     "nome": "Neurodes",
-    "melhor_local": "Lua – Missão 'Tycho' (Espionagem) ou Lua – Stofler (Extermínio)",
-    "detalhes": "Alta chance em containers Orokin na Lua. Também dropa em missões de Earth e Eris. Recurso raro."
+    "melhor_local": "Lua – Tycho (Espionagem)",
+    "detalhes": "Neurodes"
   },
-  "neural_sensors": {
-    "nome": "Sensores Neurais",
-    "melhor_local": "Júpiter – IO (Defesa) ou Themisto (Captura)",
-    "detalhes": "Recurso raro de Júpiter. Dropa de inimigos Corpus e câmeras de segurança."
+  "nistlepod": {
+    "nome": "Nistlepod",
+    "melhor_local": "Planícies de Eidolon – Arbustos próximos à água",
+    "detalhes": "Nistlepod"
   },
-  "control_module": {
-    "nome": "Módulo de Controle",
-    "melhor_local": "Netuno – Salacia (Defesa Móvel) ou Void – Mot (Sobrevivência)",
-    "detalhes": "Drops de inimigos Corpus e containers do Void."
+  "extrato_de_nitain": {
+    "nome": "Extrato de Nitain",
+    "melhor_local": "Nightwave – Ofertas de Créditos",
+    "detalhes": "Extrato de Nitain"
   },
-  "orokin_cell": {
+  "norg_brain": {
+    "nome": "Norg Brain",
+    "melhor_local": "Cetus – Pescando Norg (águas profundas, noite)",
+    "detalhes": "Norg Brain"
+  },
+  "nullstones": {
+    "nome": "Nullstones",
+    "melhor_local": "Duviri – Encontros Aleatórios ou Circuito",
+    "detalhes": "Nullstones"
+  },
+  "ocular_stemroot": {
+    "nome": "Ocular Stem-Root",
+    "melhor_local": "Duviri – Encontrado em pontos de coleta no campo",
+    "detalhes": "Ocular Stem-Root"
+  },
+  "celula_orokin": {
     "nome": "Célula Orokin",
-    "melhor_local": "Saturno – Piscinas de Telesto (Defesa) ou Ceres - Kiste (Defesa Móvel)",
-    "detalhes": "Queda rara em Saturno e Ceres. Pode cair de bosses como Sargus Ruk. Recurso vital."
+    "melhor_local": "Saturno – Telesto (Defesa)",
+    "detalhes": "Célula Orokin"
+  },
+  "orokin_ducats": {
+    "nome": "Orokin Ducats",
+    "melhor_local": "Relays – Convertendo partes Prime nos Kiosques de Ducats",
+    "detalhes": "Orokin Ducats"
   },
   "oxium": {
     "nome": "Oxium",
     "melhor_local": "Júpiter – IO (Defesa)",
-    "detalhes": "Muitos Oxium Ospreys nas waves. Ideal com Nekros para drops extra."
+    "detalhes": "Oxium"
   },
-  "cryotic": {
-    "nome": "Criótica",
-    "melhor_local": "Qualquer missão de Escavação (Ex: Urano - Triton)",
-    "detalhes": "Obtido de cada escavadora completada. Missões de alto nível dão mais progresso."
+  "parasitic_tethermaw": {
+    "nome": "Parasitic Tethermaw",
+    "melhor_local": "Deimos – Pescando Tethermaw (em cavernas, noite)",
+    "detalhes": "Parasitic Tethermaw"
   },
-  "hexenon": {
-    "nome": "Hexenon",
-    "melhor_local": "Júpiter – Ganymede (Defesa) ou Amalthea (Sobrevivência)",
-    "detalhes": "Recurso exclusivo de Júpiter, introduzido com a atualização Jovian Concord."
+  "bracadeira_de_pathos": {
+    "nome": "Braçadeira de Pathos",
+    "melhor_local": "Duviri – Dominus Thrax (Aventura & Circuito)",
+    "detalhes": "Braçadeira de Pathos"
   },
-  "argon_crystal": {
-    "nome": "Cristal de Árgon",
-    "melhor_local": "Void – Hepit (Captura) ou Teshub (Extermínio)",
-    "detalhes": "**Desaparece após 24h em tempo real.** Queda rara de inimigos e containers do Void."
+  "plastidios": {
+    "nome": "Plastídios",
+    "melhor_local": "Urano – Ophelia (Sobrevivência)",
+    "detalhes": "Plastídios"
   },
-  "grokdrul": {
-    "nome": "Grokdrul",
-    "melhor_local": "Cetus (Planícies de Eidolon) - Missões Grineer/Containers",
-    "detalhes": "Recurso comum de Planícies de Eidolon. Dropa de inimigos e containers Grineer."
+  "pacote_de_polimeros": {
+    "nome": "Pacote de Polímeros",
+    "melhor_local": "Urano – Ophelia (Sobrevivência)",
+    "detalhes": "Pacote de Polímeros"
   },
-  "iradite": {
-    "nome": "Iradita",
-    "melhor_local": "Cetus (Planícies de Eidolon) - Nodos de Iradita (formações rochosas vermelhas)",
-    "detalhes": "Mineral de Planícies de Eidolon. Melhor encontrado em formações rochosas vermelhas nas montanhas e falésias."
+  "purified_heciphron": {
+    "nome": "Purified Heciphron",
+    "melhor_local": "Deimos – Processando Heciphron minerado no Cambion Drift",
+    "detalhes": "Purified Heciphron"
   },
-  "fersteel_alloy": {
-    "nome": "Liga Fersteels",
-    "melhor_local": "Cetus (Planícies de Eidolon) - Bounties de Konzu ou Veias de Metal",
-    "detalhes": "Recurso de Planícies de Eidolon. Obtido em bounties e veias de mineração (comum)."
+  "pustulite": {
+    "nome": "Pustulite",
+    "melhor_local": "Deimos – Quebrando colônias infestadas no solo",
+    "detalhes": "Pustulite"
   },
-  "eidolon_shards_radiant": {
-    "nome": "Fragmento Radiante de Eidolon",
-    "melhor_local": "Cetus (Planícies de Eidolon) - Captura de Teralyst",
-    "detalhes": "Obtido ao capturar um Teralyst. Essencial para Focus e reputação com Quills."
+  "pyrotic_liga": {
+    "nome": "Pyrotic Liga",
+    "melhor_local": "Deimos – Mineração em zonas vulcânicas (Cambion Drift)",
+    "detalhes": "Pyrotic Liga"
   },
-  "eidolon_shards_brilliant": {
-    "nome": "Fragmento Brilhante de Eidolon",
-    "melhor_local": "Cetus (Planícies de Eidolon) - Captura de Gantulyst",
-    "detalhes": "Obtido ao capturar um Gantulyst. Essencial para Focus e reputação com Quills."
+  "radian_sentirum": {
+    "nome": "Radian Sentirum",
+    "melhor_local": "Deimos – Mineração em zonas cristalinas (Cambion Drift)",
+    "detalhes": "Radian Sentirum"
   },
-  "eidolon_shards_corrupt": {
-    "nome": "Fragmento Corrompido de Eidolon",
-    "melhor_local": "Cetus (Planícies de Eidolon) - Captura de Hydrolyst",
-    "detalhes": "Obtido ao capturar um Hydrolyst. Essencial para Focus e reputação com Quills."
+  "radiant_zodian": {
+    "nome": "Radiant Zodian",
+    "melhor_local": "Deimos – Mineração em zonas cristalinas (Cambion Drift)",
+    "detalhes": "Radiant Zodian"
   },
-  "vitrios_shard": {
-    "nome": "Caco Vítreo",
-    "melhor_local": "Cetus (Planícies de Eidolon) - Derrota de Teralyst/Gantulyst/Hydrolyst",
-    "detalhes": "Dropa dos Eidolons (Teralyst, Gantulyst, Hydrolyst) nas Planícies de Eidolon durante a noite."
+  "recaster_neural_relay": {
+    "nome": "Recaster Neural Relay",
+    "melhor_local": "Duviri – Encontros de Oportunidade ou Circuito",
+    "detalhes": "Recaster Neural Relay"
   },
-  "fish_parts_cetus_mawfish": {
-    "nome": "Carne de Mawfish",
-    "melhor_local": "Cetus (Planícies de Eidolon) - Pesca (qualquer lança, água de dia)",
-    "detalhes": "Comum. Parte de peixe de água doce."
+  "repeller_sistemas": {
+    "nome": "Repeller Sistemas",
+    "melhor_local": "Orb Vallis – Recompensas de Bounties (Tier 5)",
+    "detalhes": "Repeller Sistemas"
   },
-  "fish_parts_cetus_charceel": {
-    "nome": "Escama de Charc Eel",
-    "melhor_local": "Cetus (Planícies de Eidolon) - Pesca (qualquer lança, água de dia)",
-    "detalhes": "Comum. Parte de peixe de água doce."
-  },
-  "fish_parts_cetus_karkina": {
-    "nome": "Carne de Karkina",
-    "melhor_local": "Cetus (Planícies de Eidolon) - Pesca (lança elétrica, água salgada de dia)",
-    "detalhes": "Incomum. Parte de peixe de água salgada."
-  },
-  "fish_parts_cetus_norg": {
-    "nome": "Gordura de Norg",
-    "melhor_local": "Cetus (Planícies de Eidolon) - Pesca (lança de Volt, água salgada de noite)",
-    "detalhes": "Raro. Parte de peixe de água salgada."
-  },
-  "gems_cetus_coprinite": {
-    "nome": "Coprinite",
-    "melhor_local": "Cetus (Planícies de Eidolon) - Mineração (veias de metal azul)",
-    "detalhes": "Comum."
-  },
-  "gems_cetus_aukaru": {
-    "nome": "Aukaru",
-    "melhor_local": "Cetus (Planícies de Eidolon) - Mineração (veias de gema vermelhas)",
-    "detalhes": "Comum."
-  },
-  "gems_cetus_nyth": {
-    "nome": "Nyth",
-    "melhor_local": "Cetus (Planícies de Eidolon) - Mineração (veias de gema vermelhas)",
-    "detalhes": "Incomum."
-  },
-  "gems_cetus_sentirum": {
-    "nome": "Sentirum",
-    "melhor_local": "Cetus (Planícies de Eidolon) - Mineração (veias de gema vermelhas)",
-    "detalhes": "Raro."
-  },
-  "brimstone_dust": {
-    "nome": "Pó de Enxofre",
-    "melhor_local": "Fortuna (Orb Vallis) - Bounties de Eudico ou inimigos Vasp",
-    "detalhes": "Recurso comum de Orb Vallis."
-  },
-  "thermal_sludge": {
-    "nome": "Lama Térmica",
-    "melhor_local": "Fortuna (Orb Vallis) - Bounties ou inimigos (ambientes quentes)",
-    "detalhes": "Recurso comum de Orb Vallis. Encontrado perto de áreas vulcânicas/quentes."
-  },
-  "medical_debts": {
-    "nome": "Dívidas Médicas",
-    "melhor_local": "Fortuna (Orb Vallis) - Bounties de Eudico",
-    "detalhes": "Recurso incomum de Orb Vallis. Usado para reputação com Solaris United."
-  },
-  "shelter_debt_bonds": {
-    "nome": "Bônus de Dívida de Abrigo",
-    "melhor_local": "Fortuna (Orb Vallis) - Bounties de Eudico",
-    "detalhes": "Recurso comum de Orb Vallis. Usado para reputação com Solaris United."
-  },
-  "training_debt_bonds": {
-    "nome": "Bônus de Dívida de Treino",
-    "melhor_local": "Fortuna (Orb Vallis) - Bounties de Eudico",
-    "detalhes": "Recurso incomum de Orb Vallis. Usado para reputação com Solaris United."
-  },
-  "advancement_debt_bonds": {
-    "nome": "Bônus de Dívida de Avanço",
-    "melhor_local": "Fortuna (Orb Vallis) - Bounties de Eudico",
-    "detalhes": "Recurso raro de Orb Vallis. Usado para reputação com Solaris United."
-  },
-  "familial_debt_bonds": {
-    "nome": "Bônus de Dívida Familiar",
-    "melhor_local": "Fortuna (Orb Vallis) - Bounties de Eudico (nível alto)",
-    "detalhes": "Recurso raro de Orb Vallis. Usado para reputação com Solaris United (Tier 5)."
-  },
-  "toroids_calda": {
-    "nome": "Toróide Calda",
-    "melhor_local": "Fortuna (Orb Vallis) - Espaçoporto (Spaceport)",
-    "detalhes": "Dropa de inimigos no Espaçoporto de Orb Vallis. Essencial para reputação Vox Solaris."
-  },
-  "toroids_sola": {
-    "nome": "Toróide Sola",
-    "melhor_local": "Fortuna (Orb Vallis) - Templo do Lucro (Temple of Profit)",
-    "detalhes": "Dropa de inimigos no Templo do Lucro de Orb Vallis. Essencial para reputação Vox Solaris."
-  },
-  "toroids_vega": {
-    "nome": "Toróide Vega",
-    "melhor_local": "Fortuna (Orb Vallis) - Base de Pesquisa (Research Base)",
-    "detalhes": "Dropa de inimigos na Base de Pesquisa de Orb Vallis. Essencial para reputação Vox Solaris."
-  },
-  "toroids_lazulite": {
-    "nome": "Toróide Lazulite",
-    "melhor_local": "Fortuna (Orb Vallis) - Exploiter Orb (Boss)",
-    "detalhes": "Dropa da Exploiter Orb. Essencial para crafteio e reputação Vox Solaris."
-  },
-  "toroids_crisma": {
-    "nome": "Toróide Crisma",
-    "melhor_local": "Fortuna (Orb Vallis) - Profit-Taker (Boss)",
-    "detalhes": "Dropa da Profit-Taker. Essencial para crafteio e reputação Vox Solaris."
-  },
-  "fish_parts_fortuna_synathid": {
-    "nome": "Óleo de Synathid",
-    "melhor_local": "Fortuna (Orb Vallis) - Pesca (águas quentes)",
-    "detalhes": "Comum. Parte de peixe de águas quentes."
-  },
-  "fish_parts_fortuna_eyeeye": {
-    "nome": "Olho de Eye-Eye",
-    "melhor_local": "Fortuna (Orb Vallis) - Pesca (águas frias)",
-    "detalhes": "Comum. Parte de peixe de águas frias."
-  },
-  "gems_fortuna_gorgaricus_spore": {
-    "nome": "Esporo de Gorgaricus",
-    "melhor_local": "Fortuna (Orb Vallis) - Plantas de Gelo",
-    "detalhes": "Comum."
-  },
-  "gems_fortuna_tepor_synthesis": {
-    "nome": "Síntese Tepor",
-    "melhor_local": "Fortuna (Orb Vallis) - Mineração (veias de metal azul)",
-    "detalhes": "Comum."
-  },
-  "gems_fortuna_venerdo_cobalt": {
-    "nome": "Cobalto Venerdo",
-    "melhor_local": "Fortuna (Orb Vallis) - Mineração (veias de gema vermelhas)",
-    "detalhes": "Incomum."
-  },
-  "gems_fortuna_zodian": {
-    "nome": "Zodian",
-    "melhor_local": "Fortuna (Orb Vallis) - Mineração (veias de gema vermelhas)",
-    "detalhes": "Raro."
-  },
-  "nistlepod": {
-    "nome": "Vagem Nistle",
-    "melhor_local": "Deimos - Cambion Drift - Plantas Específicas (coleta botânica)",
-    "detalhes": "Planta de Deimos. Encontrada em várias localizações na Deriva de Cambion."
-  },
-  "grotesque_bones": {
-    "nome": "Ossos Grotescos",
-    "melhor_local": "Deimos - Cambion Drift (Caça de Sentient/Incursões de Vome)",
-    "detalhes": "Recurso de Deimos. Dropa de inimigos Infestados específicos, especialmente durante as inundações de Vome."
-  },
-  "fascinating_fragments": {
-    "nome": "Fragmentos Fascinantes",
-    "melhor_local": "Deimos - Cambion Drift (Caça de Sentient/Incursões de Vome)",
-    "detalhes": "Recurso de Deimos. Dropa de inimigos Infestados específicos na Deriva de Cambion."
-  },
-  "spinal_cores": {
-    "nome": "Medulas Espinhais",
-    "melhor_local": "Deimos - Cambion Drift (Bounty de Father)",
-    "detalhes": "Recurso de Deimos. Geralmente em bounties de nível mais alto oferecidas por Father."
-  },
-  "vome_residue": {
-    "nome": "Resíduo de Vome",
-    "melhor_local": "Deimos - Cambion Drift (Durant's Reach ou áreas inundadas durante Vome)",
-    "detalhes": "Material de Deimos. Colhido em áreas específicas na superfície da Deriva de Cambion, principalmente durante o ciclo de Vome."
-  },
-  "adramal_alloy": {
-    "nome": "Liga Adramal",
-    "melhor_local": "Deimos - Cambion Drift (Mineração)",
-    "detalhes": "Comum. Mineral de Deimos."
-  },
-  "embolos": {
-    "nome": "Embolos",
-    "melhor_local": "Deimos - Cambion Drift (Mineração)",
-    "detalhes": "Incomum. Mineral de Deimos."
-  },
-  "thaumica": {
-    "nome": "Thaumica",
-    "melhor_local": "Deimos - Cambion Drift (Mineração)",
-    "detalhes": "Raro. Mineral de Deimos."
-  },
-  "fish_parts_deimos_sonnoid": {
-    "nome": "Carne de Sonnoid",
-    "melhor_local": "Deimos - Cambion Drift - Pesca (águas de muco)",
-    "detalhes": "Comum. Peixe de Deimos."
-  },
-  "fish_parts_deimos_duroid": {
-    "nome": "Entranhas de Duroid",
-    "melhor_local": "Deimos - Cambion Drift - Pesca (águas de muco)",
-    "detalhes": "Incomum. Peixe de Deimos."
-  },
-  "fish_parts_deimos_chitinous_gristle": {
-    "nome": "Gristle Quitinoso",
-    "melhor_local": "Deimos - Cambion Drift - Pesca (águas de muco)",
-    "detalhes": "Raro. Peixe de Deimos."
-  },
-  "kuva": {
-    "nome": "Kuva",
-    "melhor_local": "Fortaleza Kuva (Sifão Kuva/Inundação Kuva) ou Requiem Lich/Sister",
-    "detalhes": "Recurso essencial para rolar mods Riven e craftear armas Kuva. Obtido em missões de Sifão Kuva e Inundação Kuva, ou derrotando Requiem Liches e Sisters."
-  },
-  "nitain_extract": {
-    "nome": "Extrato de Nitain",
-    "melhor_local": "Ofertas de Nightwave Creds",
-    "detalhes": "**Não dropa em missões.** Obtido exclusivamente nas ofertas da Nightwave (créditos). A quantidade é limitada por semana."
-  },
-  "calda_de_sentient": {
-    "nome": "Caldos de Sentient",
-    "melhor_local": "Missões de Emissário Sentient (Quests Especiais), Orphix Venom, Murex",
-    "detalhes": "Recursos de Sentient. Obtidos em missões especiais relacionadas a Sentients (ex: Emissary, Orphix). Usados para crafteio de itens específicos Sentient."
-  },
-  "blood_samples": {
-    "nome": "Amostras de Sangue",
-    "melhor_local": "Planetas Infestados - Missões de Infestação (Ex: Eris - Kela de Thaym)",
-    "detalhes": "Drop de inimigos Infestados durante certos eventos de Pragas de Infestados. Usado para Hemocyte Cystolith e Ghoulsaw."
-  },
-  "granum_crowns_zenith": {
-    "nome": "Coroa Granum Zenith",
-    "melhor_local": "Void de Granum (Qualquer nível)",
-    "detalhes": "Obtida ao derrotar Treasurer no Void de Granum. Necessária para o Warframe Protea e certos itens."
-  },
-  "granum_crowns_exemplar": {
-    "nome": "Coroa Granum Exemplar",
-    "melhor_local": "Void de Granum (Nível Intermediário)",
-    "detalhes": "Obtida ao derrotar Treasurer no Void de Granum (Corrupted). Necessária para o Warframe Protea e certos itens."
-  },
-  "granum_crowns_tempered": {
-    "nome": "Coroa Granum Temperada",
-    "melhor_local": "Void de Granum (Nível Avançado)",
-    "detalhes": "Obtida ao derrotar Treasurer no Void de Granum (Sistine). Necessária para o Warframe Protea e certos itens."
-  },
-  "vestigios_de_void": {
-    "nome": "Vestígios de Void",
-    "melhor_local": "Qualquer missão Void Fissure (Recompensa de Missão)",
-    "detalhes": "Obtido ao completar missões Void Fissure com a relíquia equipada. Usado para refinar relíquias e aumentar a chance de drops raros de Prime Parts."
-  },
-  "voca": {
-    "nome": "Voca",
-    "melhor_local": "Rede Murmur - Netracells, Inimigos Murmur de alto nível",
-    "detalhes": "Recurso raro da Rede Murmur (Whispers in the Walls). Essencial para construir itens e arcanos da facção dos Entrati (Necracell)."
-  },
-  "entrati_lanthorn": {
-    "nome": "Lanterna Entrati",
-    "melhor_local": "Rede Murmur - Netracells, Inimigos Murmur (Anatomizer, Necramite)",
-    "detalhes": "Recurso incomum da Rede Murmur. Obtido ao derrotar certos inimigos Murmur e em Netracells. Necessário para itens da facção dos Entrati (Necracell)."
-  },
-  "pathos_prime_glands": {
-    "nome": "Glandulas Primevas de Pathos",
-    "melhor_local": "Duviri - Caça ao Dominus Thrax (Aventura e Circuito)",
-    "detalhes": "Recurso principal para itens do Duviri, obtido ao derrotar o Dominus Thrax."
-  },
-  "sorrowful_edict": {
-    "nome": "Édito Lamentoso",
-    "melhor_local": "Duviri - Circuito, Ondas de Extermínio, Caixas de Recurso",
-    "detalhes": "Recurso comum de Duviri. Usado para crafteio e upgrades de itens Duviri."
-  },
-  "woven_thorn": {
-    "nome": "Espinho Tecido",
-    "melhor_local": "Duviri - Colecionáveis de Plantas (Coleta Botânica), Encontros de Aventura",
-    "detalhes": "Recurso comum de Duviri. Usado para crafteio e upgrades de itens Duviri."
-  },
-  "aggristone": {
-    "nome": "Aggristone",
-    "melhor_local": "Duviri - Encontros de Oportunidade, Caixas de Recurso",
-    "detalhes": "Recurso comum de Duviri. Usado para crafteio e upgrades de itens Duviri."
+  "rubedo": {
+    "nome": "Rubedo",
+    "melhor_local": "Phobos – Zeugma (Sobrevivência)",
+    "detalhes": "Rubedo"
   },
   "rune_marrow": {
-    "nome": "Medula Rúnica",
-    "melhor_local": "Duviri - Derrota de Inimigos Dominados, Caixas de Recurso",
-    "detalhes": "Recurso comum de Duviri. Usado para crafteio e upgrades de itens Duviri."
+    "nome": "Rune Marrow",
+    "melhor_local": "Duviri – Encontros / Circuito",
+    "detalhes": "Rune Marrow"
   },
-  "cavum_synthesis": {
-    "nome": "Síntese Cavum",
-    "melhor_local": "Duviri - Mineração de Veias de Metal",
-    "detalhes": "Comum. Mineral de Duviri."
+  "saggen_perola": {
+    "nome": "Saggen Pérola",
+    "melhor_local": "Duviri – Coleta no campo em pontos brilhantes",
+    "detalhes": "Saggen Pérola"
   },
-  "eusocial_crystallite": {
-    "nome": "Cristalite Eussocial",
-    "melhor_local": "Duviri - Mineração de Veias de Gema",
-    "detalhes": "Incomum. Mineral de Duviri."
+  "sucata": {
+    "nome": "Sucata",
+    "melhor_local": "Marte – Alator (Defesa)",
+    "detalhes": "Sucata"
   },
-  "sunken_oxxium": {
-    "nome": "Oxxium Submerso",
-    "melhor_local": "Duviri - Mineração de Veias de Gema",
-    "detalhes": "Raro. Mineral de Duviri."
+  "sapcaddy_venedo_case": {
+    "nome": "Sapcaddy Venedo Case",
+    "melhor_local": "Duviri – Pescando Sapcaddy (rios com névoa, noite)",
+    "detalhes": "Sapcaddy Venedo Case"
   },
-  "credits": {
-    "nome": "Créditos",
-    "melhor_local": "The Index (Netuno), Gabii (Ceres - Defesa), Assur (Urano - Sobrevivência)",
-    "detalhes": "A moeda principal do jogo. Essencial para tudo: crafteio, comércio, upgrades. The Index é o melhor lugar para farmar grandes quantidades rapidamente."
+  "scintillant": {
+    "nome": "Scintillant",
+    "melhor_local": "Deimos – Necralisk (flutuando) ou Bounties Tier 4+",
+    "detalhes": "Scintillant"
   },
-  "endo": {
-    "nome": "Endo",
-    "melhor_local": "Arena (Sedna - Rathuum), Arbitrations, Sanctuary Onslaught, Dissolver Mods",
-    "detalhes": "Recurso usado para rank-up (aprimorar) mods. Essencial para aumentar o poder dos seus Warframes e armas."
+  "scrap": {
+    "nome": "Scrap",
+    "melhor_local": "Railjack – Drop de inimigos e destroços",
+    "detalhes": "Scrap"
   },
-  "synthesis_scan": {
-    "nome": "Escaneamentos de Síntese",
-    "melhor_local": "Missões de Síntese do Simaris (Santuário Onslaught)",
-    "detalhes": "Não é um recurso de drop para crafteio, mas é a 'moeda' para o Sindicato de Síntese. Requer scans de alvos específicos fornecidos por Simaris."
+  "scrubber_exa_brain": {
+    "nome": "Scrubber Exa Brain",
+    "melhor_local": "Duviri – Pescando Scrubber (águas profundas, dia)",
+    "detalhes": "Scrubber Exa Brain"
   },
-  "standing_sindicato": {
-    "nome": "Reputação de Sindicato",
-    "melhor_local": "Missões de Sindicato, Coleta de Medalhões, Doação de Relíquias (Cephalon Simaris)",
-    "detalhes": "Não é um item, mas uma 'moeda' vital. Obtida ao completar missões para sindicatos ou entregando medalhões. Usado para comprar mods, armas e componentes."
+  "seram_beetle_shell": {
+    "nome": "Seram Beetle Shell",
+    "melhor_local": "Duviri – Derrotando beetles ou coleta no campo",
+    "detalhes": "Seram Beetle Shell"
   },
-  "ducats": {
-    "nome": "Ducats",
-    "melhor_local": "Venda de Prime Parts no Kiosk do Ducat",
-    "detalhes": "Moeda especial usada para comprar itens de Baro Ki'Teer, o Comerciante do Void. Obtida trocando Prime Parts extras ou indesejadas em qualquer Relay."
+  "seriglass_fragmento": {
+    "nome": "Seriglass Fragmento",
+    "melhor_local": "Deimos – Bounties Tier 5 ou ofertas Nightwave",
+    "detalhes": "Seriglass Fragmento"
   },
-  "platinum": {
-    "nome": "Platina",
-    "melhor_local": "Comprar com dinheiro real ou Troca com outros jogadores",
-    "detalhes": "Moeda premium do jogo. Usada para comprar Warframes, armas, slots, cosméticos, reforjar Rivens, etc. A forma mais comum de obter é através de trocas seguras com outros jogadores por itens valiosos."
+  "shrill_voca": {
+    "nome": "Shrill Voca",
+    "melhor_local": "Duviri – Encontros Aleatórios / Recompensas do Circuito",
+    "detalhes": "Shrill Voca"
+  },
+  "silphsela": {
+    "nome": "Silphsela",
+    "melhor_local": "Duviri – Coletado em árvores luminosas em Encontros",
+    "detalhes": "Silphsela"
+  },
+  "smooth_phasmin": {
+    "nome": "Smooth Phasmin",
+    "melhor_local": "Deimos – Mineração em zonas lisas e minerais roxos",
+    "detalhes": "Smooth Phasmin"
+  },
+  "toroide_sola": {
+    "nome": "Toroide Sola",
+    "melhor_local": "Orb Vallis – Templo do Lucro",
+    "detalhes": "Toroide Sola"
+  },
+  "spectral_debris": {
+    "nome": "Spectral Debris",
+    "melhor_local": "Railjack – Missões de defesa em Derelict",
+    "detalhes": "Spectral Debris"
+  },
+  "spinal_nucleo_section": {
+    "nome": "Spinal Núcleo Section",
+    "melhor_local": "Deimos – Pescando Barbisteo ou Vomefish",
+    "detalhes": "Spinal Núcleo Section"
+  },
+  "sporulate_sac": {
+    "nome": "Sporulate Sac",
+    "melhor_local": "Deimos – Processando peixe Aquapulmo / Barbisteo",
+    "detalhes": "Sporulate Sac"
+  },
+  "star_amarast": {
+    "nome": "Star Amarast",
+    "melhor_local": "Cetus – Mineração nas Planícies de Eidolon (rochas vermelhas)",
+    "detalhes": "Star Amarast"
+  },
+  "star_crimzian": {
+    "nome": "Star Crimzian",
+    "melhor_local": "Cetus – Mineração nas Planícies de Eidolon (rochas azuis)",
+    "detalhes": "Star Crimzian"
+  },
+  "stellated_necrathene": {
+    "nome": "Stellated Necrathene",
+    "melhor_local": "Deimos – Cambion Drift – Bounties / Exploração",
+    "detalhes": "Stellated Necrathene"
+  },
+  "tasoma_extrato": {
+    "nome": "Tasoma Extrato",
+    "melhor_local": "Lua – Encontrado em cavernas ocultas (Exploração livre)",
+    "detalhes": "Tasoma Extrato"
+  },
+  "lagrima_azurite": {
+    "nome": "Lágrima Azurite",
+    "melhor_local": "Cetus – Lapidação de Azurite minerado",
+    "detalhes": "Lágrima Azurite"
+  },
+  "techrot_chitin": {
+    "nome": "Techrot Chitin",
+    "melhor_local": "Duviri – Drop de inimigos 'Techrot' ou recompensas",
+    "detalhes": "Techrot Chitin"
+  },
+  "techrot_motherboard": {
+    "nome": "Techrot Motherboard",
+    "melhor_local": "Duviri – Drop de inimigos 'Techrot' ou recompensas",
+    "detalhes": "Techrot Motherboard"
+  },
+  "tellurio": {
+    "nome": "Tellúrio",
+    "melhor_local": "Urano – Ophelia (Sobrevivência)",
+    "detalhes": "Tellúrio"
+  },
+  "tempered_bapholite": {
+    "nome": "Tempered Bapholite",
+    "melhor_local": "Deimos – Forja de Bapholite minerado (Necralisk)",
+    "detalhes": "Tempered Bapholite"
+  },
+  "tepa_nodule": {
+    "nome": "Tepa Nodule",
+    "melhor_local": "Orb Vallis – Coletado próximo a rochas e géis congelados",
+    "detalhes": "Tepa Nodule"
+  },
+  "thaumic_distillate": {
+    "nome": "Thaumic Distillate",
+    "melhor_local": "Deimos – Cambion Drift – Bounties / Exploração",
+    "detalhes": "Thaumic Distillate"
+  },
+  "lama_termica": {
+    "nome": "Lama Térmica",
+    "melhor_local": "Orb Vallis – Bounties de Eudico (Tier 1‑2)",
+    "detalhes": "Lama Térmica"
+  },
+  "thrax_plasm": {
+    "nome": "Thrax Plasm",
+    "melhor_local": "Zariman – Derrotando Thrax ou recompensas do Void Armageddon",
+    "detalhes": "Thrax Plasm"
+  },
+  "tink_dissipator_coil": {
+    "nome": "Tink Dissipator Coil",
+    "melhor_local": "Duviri – Pescando Tinks (áreas tecnológicas, raro)",
+    "detalhes": "Tink Dissipator Coil"
+  },
+  "titanium": {
+    "nome": "Titanium",
+    "melhor_local": "Railjack – Drop em missões destruindo naves ou containers",
+    "detalhes": "Titanium"
+  },
+  "tralok_eyes": {
+    "nome": "Tralok Eyes",
+    "melhor_local": "Cetus – Pescando Tralok (oceano, dia/noite)",
+    "detalhes": "Tralok Eyes"
+  },
+  "trapezium_xenorhast": {
+    "nome": "Trapezium Xenorhast",
+    "melhor_local": "Deimos – Lapidação de Xenorhast minerado",
+    "detalhes": "Trapezium Xenorhast"
+  },
+  "travocyte_liga": {
+    "nome": "Travocyte Liga",
+    "melhor_local": "Deimos – Forjado no Necralisk com Travocyte Alloy",
+    "detalhes": "Travocyte Liga"
+  },
+  "tromyzon_entroplasma": {
+    "nome": "Tromyzon Entroplasma",
+    "melhor_local": "Orb Vallis – Pescando Tromyzon (rios calmos, dia)",
+    "detalhes": "Tromyzon Entroplasma"
+  },
+  "toroide_vega": {
+    "nome": "Toroide Vega",
+    "melhor_local": "Orb Vallis – Base de Pesquisa",
+    "detalhes": "Toroide Vega"
+  },
+  "venerdo_liga": {
+    "nome": "Venerdo Liga",
+    "melhor_local": "Orb Vallis – Mineração em zonas cristalinas",
+    "detalhes": "Venerdo Liga"
+  },
+  "voidgel_orb": {
+    "nome": "Voidgel Orb",
+    "melhor_local": "Zariman – Missões ou containers do Void",
+    "detalhes": "Voidgel Orb"
+  },
+  "voidplume_pinion": {
+    "nome": "Voidplume Pinion",
+    "melhor_local": "Zariman – Missões & Voidplumes",
+    "detalhes": "Voidplume Pinion"
+  },
+  "voidplume_quill": {
+    "nome": "Voidplume Quill",
+    "melhor_local": "Zariman – Missões & Voidplumes",
+    "detalhes": "Voidplume Quill"
+  },
+  "voidrig_capsule": {
+    "nome": "Voidrig Capsule",
+    "melhor_local": "Deimos – Bounties Tier 5 da Mãe (Necramech Voidrig)",
+    "detalhes": "Voidrig Capsule"
+  },
+  "voidrig_casing": {
+    "nome": "Voidrig Casing",
+    "melhor_local": "Deimos – Bounties Tier 5 da Mãe (Necramech Voidrig)",
+    "detalhes": "Voidrig Casing"
+  },
+  "voidrig_engine": {
+    "nome": "Voidrig Engine",
+    "melhor_local": "Deimos – Bounties Tier 5 da Mãe (Necramech Voidrig)",
+    "detalhes": "Voidrig Engine"
+  },
+  "voidrig_weapon_pod": {
+    "nome": "Voidrig Weapon Pod",
+    "melhor_local": "Deimos – Bounties Tier 5 da Mãe (Necramech Voidrig)",
+    "detalhes": "Voidrig Weapon Pod"
+  },
+  "yao_shrub": {
+    "nome": "Yao Shrub",
+    "melhor_local": "Duviri – Coleta de plantas em áreas verdes/florestas",
+    "detalhes": "Yao Shrub"
+  },
+  "yogwun_stomach": {
+    "nome": "Yogwun Stomach",
+    "melhor_local": "Cetus – Pescando Yogwun (lagoas, dia/noite)",
+    "detalhes": "Yogwun Stomach"
   }
 }
