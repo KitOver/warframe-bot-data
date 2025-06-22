@@ -2,781 +2,781 @@
   "adramal_liga": {
     "nome": "Adramal Liga",
     "melhor_local": "Mineração em Deimos – Mina de Cambion Drift",
-    "detalhes": "Adramal Liga"
+    "detalhes": "Liga metálica refinada usada na construção de equipamentos avançados."
   },
   "aggristone": {
     "nome": "Aggristone",
     "melhor_local": "Duviri – Encontros de Oportunidade",
-    "detalhes": "Aggristone"
+    "detalhes": "Cristal raro encontrado em Duviri, geralmente durante encontros de oportunidade."
   },
-  "Chapa_Metálica": {
-    "nome": "Chapa Metálica",
+  "placa_de_liga": {
+    "nome": "Placa de Liga",
     "melhor_local": "Vênus – Tessera (Defesa)",
-    "detalhes": "liga metalica"
+    "detalhes": "Liga metálica refinada usada na construção de equipamentos avançados."
   },
   "anomaly_fragmento": {
     "nome": "Anomaly Fragmento",
     "melhor_local": "Railjack – Veil Proxima – Anomalia Sentient",
-    "detalhes": "Anomaly Fragmento"
+    "detalhes": "Fragmento de material raro usado em tecnologia avançada."
   },
   "cristal_de_argon": {
     "nome": "Cristal de Árgon",
     "melhor_local": "Void – Hepit (Captura)",
-    "detalhes": "Cristal de Árgon"
+    "detalhes": "Cristal energético raro coletado em regiões específicas."
   },
   "atmo_sistemas": {
     "nome": "Atmo Sistemas",
     "melhor_local": "Orb Vallis – Bounties de Eudico (Tier 3)",
-    "detalhes": "Atmo Sistemas"
+    "detalhes": "Componentes avançados usados em construções de tecnologia de campo Atmos."
   },
   "auroxium_liga": {
     "nome": "Auroxium Liga",
     "melhor_local": "Mineração em Deimos – Cambion Drift",
-    "detalhes": "Auroxium Liga"
+    "detalhes": "Liga metálica refinada usada na construção de equipamentos avançados."
   },
   "axidrol_liga": {
     "nome": "Axidrol Liga",
     "melhor_local": "Mineração em Deimos – Cambion Drift (subsolo)",
-    "detalhes": "Axidrol Liga"
+    "detalhes": "Liga metálica refinada usada na construção de equipamentos avançados."
   },
   "benign_infested_tumor": {
     "nome": "Benign Infested Tumor",
     "melhor_local": "Pesca em Deimos – Peixes: Amniophysi, Aquapulmo, Barbisteo, etc.",
-    "detalhes": "Benign Infested Tumor"
+    "detalhes": "Material extraído de peixes infestados em Deimos, usado para pesquisas biológicas."
   },
   "bonewidow_capsule": {
     "nome": "Bonewidow Capsule",
     "melhor_local": "Recompensa de Bounties da Mãe em Deimos (Tier 5)",
-    "detalhes": "Bonewidow Capsule"
+    "detalhes": "Contêiner de energia ou partes tecnológicas."
   },
   "bonewidow_casing": {
     "nome": "Bonewidow Casing",
     "melhor_local": "Deimos – Recompensas da Mãe (Tier 3-5)",
-    "detalhes": "Bonewidow Casing"
+    "detalhes": "Carcaça externa de Necramechs ou equipamentos pesados."
   },
   "bonewidow_engine": {
     "nome": "Bonewidow Engine",
     "melhor_local": "Deimos – Recompensas da Mãe (Tier 3-5)",
-    "detalhes": "Bonewidow Engine"
+    "detalhes": "Mecanismo de propulsão para dispositivos pesados."
   },
   "bonewidow_weapon_pod": {
     "nome": "Bonewidow Weapon Pod",
     "melhor_local": "Deimos – Recompensas da Mãe (Tier 3-5)",
-    "detalhes": "Bonewidow Weapon Pod"
+    "detalhes": "Arma integrada usada pela Necramech Bonewidow em combate."
   },
   "breath_of_the_eidolon": {
     "nome": "Breath Of The Eidolon",
     "melhor_local": "Cetus – Bounties (Tier 1+)",
-    "detalhes": "Breath Of The Eidolon"
+    "detalhes": "Essência espiritual coletada nas Planícies de Eidolon. Usada em construções místicas."
   },
   "brickie_muon_battery": {
     "nome": "Brickie Muon Battery",
     "melhor_local": "Orb Vallis – Derrotando inimigos Corpus perto do Spaceport",
-    "detalhes": "Brickie Muon Battery"
+    "detalhes": "Unidade de armazenamento de energia portátil."
   },
   "cabochon_embolos": {
     "nome": "Cabochon Embolos",
     "melhor_local": "Deimos – Mineração no Cambion Drift",
-    "detalhes": "Cabochon Embolos"
+    "detalhes": "Cristal facetado refinado a partir de Embolos. Utilizado para criar itens de Deimos."
   },
   "toroide_calda": {
     "nome": "Toroide Calda",
     "melhor_local": "Orb Vallis – Spaceport",
-    "detalhes": "Toroide Calda"
+    "detalhes": "Toroide obtido ao derrotar inimigos próximos ao Spaceport em Orb Vallis."
   },
   "carbides": {
     "nome": "Carbides",
     "melhor_local": "Railjack – Missões em Plutão e Vênus",
-    "detalhes": "Carbides"
+    "detalhes": "Material resistente encontrado em missões Railjack, essencial para construção de armas."
   },
   "vulto_de_cetus": {
     "nome": "Vulto de Cetus",
     "melhor_local": "Planícies de Eidolon – Lago Principal (noite)",
-    "detalhes": "Vulto de Cetus"
+    "detalhes": "Peixe espectral encontrado nas águas de Eidolon durante a noite."
   },
   "charamote_sagan_modulo": {
     "nome": "Charamote Sagan Módulo",
     "melhor_local": "Duviri – Pescando Charamote (Área: Estepes)",
-    "detalhes": "Charamote Sagan Módulo"
+    "detalhes": "Componente eletrônico usado em equipamentos especiais."
   },
   "charc_electroplax": {
     "nome": "Charc Electroplax",
     "melhor_local": "Orb Vallis – Pescando Charc Eel (em lagos durante tempestades elétricas)",
-    "detalhes": "Charc Electroplax"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "circuitos": {
     "nome": "Circuitos",
     "melhor_local": "Vênus – Malva (Defesa)",
-    "detalhes": "Circuitos"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "condroc_wing": {
     "nome": "Condroc Wing",
     "melhor_local": "Planícies de Eidolon – Caçando Condrocs",
-    "detalhes": "Condroc Wing"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "connla_sprout": {
     "nome": "Connla Sprout",
     "melhor_local": "Duviri – Encontros de Exploração",
-    "detalhes": "Connla Sprout"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "modulo_de_controle": {
     "nome": "Módulo de Controle",
     "melhor_local": "Netuno – Psamathe (Captura)",
-    "detalhes": "Módulo de Controle"
+    "detalhes": "Componente eletrônico usado em equipamentos especiais."
   },
   "coprite_liga": {
     "nome": "Coprite Liga",
     "melhor_local": "Deimos – Mineração no Cambion Drift (subsolo)",
-    "detalhes": "Coprite Liga"
+    "detalhes": "Liga metálica refinada usada na construção de equipamentos avançados."
   },
   "cranial_foremount": {
     "nome": "Cranial Foremount",
     "melhor_local": "Duviri – Recompensas da Aventura",
-    "detalhes": "Cranial Foremount"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "criotica": {
     "nome": "Criótica",
     "melhor_local": "Urano – Triton (Escavação)",
-    "detalhes": "Criótica"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "cuthol_tendrils": {
     "nome": "Cuthol Tendrils",
     "melhor_local": "Planícies de Eidolon – Pescando Cuthol (de noite)",
-    "detalhes": "Cuthol Tendrils"
+    "detalhes": "Tentáculos retirados de peixes raros."
   },
   "dendrite_blastoma": {
     "nome": "Dendrite Blastoma",
     "melhor_local": "Deimos – Processando peixe Aquapulmo",
-    "detalhes": "Dendrite Blastoma"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "detonite_injector": {
     "nome": "Detonite Injector",
     "melhor_local": "Dojo – Laboratório Químico",
-    "detalhes": "Detonite Injector"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "devolved_namalon": {
     "nome": "Devolved Namalon",
     "melhor_local": "Deimos – Mineração no Cambion Drift (subsolo)",
-    "detalhes": "Devolved Namalon"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "dracroot": {
     "nome": "Dracroot",
     "melhor_local": "Duviri – Encontros Aleatórios",
-    "detalhes": "Dracroot"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "echo_voca": {
     "nome": "Echo Voca",
     "melhor_local": "Duviri – Encontros Aleatórios / Circuito",
-    "detalhes": "Echo Voca"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "eevani": {
     "nome": "Eevani",
     "melhor_local": "Duviri – Encontros Aleatórios",
-    "detalhes": "Eevani"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "efervon_amostra": {
     "nome": "Efervon Amostra",
     "melhor_local": "Duviri – Encontros Aleatórios (coleta de flores brilhantes)",
-    "detalhes": "Efervon Amostra"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "eidolon_fragmento": {
     "nome": "Eidolon Fragmento",
     "melhor_local": "Planícies de Eidolon – Derrotando Eidolons",
-    "detalhes": "Eidolon Fragmento"
+    "detalhes": "Fragmento de material raro usado em tecnologia avançada."
   },
   "entrati_lanthorn": {
     "nome": "Entrati Lanthorn",
     "melhor_local": "Zariman – Missões e Voidplumes",
-    "detalhes": "Entrati Lanthorn"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "entrati_obols": {
     "nome": "Entrati Obols",
     "melhor_local": "Zariman – Missões e Voidplumes",
-    "detalhes": "Entrati Obols"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "esher_devar": {
     "nome": "Esher Devar",
     "melhor_local": "Cetus – Mineração nas Planícies de Eidolon",
-    "detalhes": "Esher Devar"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "exceptional_sentient_nucleo": {
     "nome": "Exceptional Sentient Núcleo",
     "melhor_local": "Missões Sentient – Anomalias no Railjack (Veil Proxima)",
-    "detalhes": "Exceptional Sentient Núcleo"
+    "detalhes": "Parte energética central de criaturas ou equipamentos."
   },
   "eyeeye_rotoblade": {
     "nome": "Eye-Eye Rotoblade",
     "melhor_local": "Duviri – Pescando Eye-Eye (Lagos de Duviri)",
-    "detalhes": "Eye-Eye Rotoblade"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "fate_perola": {
     "nome": "Fate Pérola",
     "melhor_local": "Duviri – Encontros Aleatórios",
-    "detalhes": "Fate Pérola"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "ferrite": {
     "nome": "Ferrite",
     "melhor_local": "Mercúrio – Apollodorus (Sobrevivência)",
-    "detalhes": "Ferrite"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "fersteel_liga": {
     "nome": "Fersteel Liga",
     "melhor_local": "Deimos – Mineração em Cambion Drift",
-    "detalhes": "Fersteel Liga"
+    "detalhes": "Liga metálica refinada usada na construção de equipamentos avançados."
   },
   "fieldron": {
     "nome": "Fieldron",
     "melhor_local": "Dojo – Laboratório de Energia",
-    "detalhes": "Fieldron"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "fish_oleo": {
     "nome": "Fish Óleo",
     "melhor_local": "Cetus – Processando peixes pescados",
-    "detalhes": "Fish Óleo"
+    "detalhes": "Substância oleosa extraída de peixes, usada em construções."
   },
   "fish_scales": {
     "nome": "Fish Scales",
     "melhor_local": "Cetus – Processando peixes pescados",
-    "detalhes": "Fish Scales"
+    "detalhes": "Parte biológica de peixe usada em construções."
   },
   "forma": {
     "nome": "Forma",
     "melhor_local": "Relíquias Void / Recompensas Nightwave",
-    "detalhes": "Forma"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "galio": {
     "nome": "Gálio",
     "melhor_local": "Marte – Spear (Captura)",
-    "detalhes": "Gálio"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "ganglion": {
     "nome": "Ganglion",
     "melhor_local": "Lua – Missões contra Corrupted (Ex: Tycho, Espionagem)",
-    "detalhes": "Ganglion"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "goblite_tears": {
     "nome": "Goblite Tears",
     "melhor_local": "Orb Vallis – Mineração em cavernas/montanhas",
-    "detalhes": "Goblite Tears"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "goopolla_spleen": {
     "nome": "Goopolla Spleen",
     "melhor_local": "Cetus – Pescando Goopolla (margens de água, dia)",
-    "detalhes": "Goopolla Spleen"
+    "detalhes": "Órgão retirado de peixes para refino biológico."
   },
   "gorgaricus_spore": {
     "nome": "Gorgaricus Spore",
     "melhor_local": "Deimos – Colheita perto de árvores infestadas",
-    "detalhes": "Gorgaricus Spore"
+    "detalhes": "Esporos orgânicos colhidos de seres infestados."
   },
   "grokdrul": {
     "nome": "Grokdrul",
     "melhor_local": "Planícies de Eidolon – Bounties Grineer",
-    "detalhes": "Grokdrul"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "gyromag_sistemas": {
     "nome": "Gyromag Sistemas",
     "melhor_local": "Orb Vallis – Bounties de Eudico (Tier 2+)",
-    "detalhes": "Gyromag Sistemas"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "heart_noctrul": {
     "nome": "Heart Noctrul",
     "melhor_local": "Planícies de Eidolon – Mineração (noite)",
-    "detalhes": "Heart Noctrul"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "hespazym_liga": {
     "nome": "Hespazym Liga",
     "melhor_local": "Deimos – Mineração subterrânea (Cambion Drift)",
-    "detalhes": "Hespazym Liga"
+    "detalhes": "Liga metálica refinada usada na construção de equipamentos avançados."
   },
   "hexenon": {
     "nome": "Hexenon",
     "melhor_local": "Júpiter – Ganimedes (Defesa)",
-    "detalhes": "Hexenon"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "hollvanian_pitchweave_fragment": {
     "nome": "HöLlvanian Pitchweave Fragment",
     "melhor_local": "Duviri – Encontros aleatórios / Circuito",
-    "detalhes": "HöLlvanian Pitchweave Fragment"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "intact_sentient_nucleo": {
     "nome": "Intact Sentient Núcleo",
     "melhor_local": "Veil Proxima – Anomalias Sentient / Eidolons (noite em Cetus)",
-    "detalhes": "Intact Sentient Núcleo"
+    "detalhes": "Parte energética central de criaturas ou equipamentos."
   },
   "iradita": {
     "nome": "Iradita",
     "melhor_local": "Planícies de Eidolon – Veias Vermelhas",
-    "detalhes": "Iradita"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "isos": {
     "nome": "Isos",
     "melhor_local": "Railjack – Missões em Plutão, Saturno ou Veil Proxima",
-    "detalhes": "Isos"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "javlok_capacitor": {
     "nome": "Javlok Capacitor",
     "melhor_local": "Dojo – Laboratório de Energia",
-    "detalhes": "Javlok Capacitor"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "khutkhut_venom_sac": {
     "nome": "Khut-Khut Venom Sac",
     "melhor_local": "Deimos – Pescando Khut-Khut (cavernas)",
-    "detalhes": "Khut-Khut Venom Sac"
+    "detalhes": "Bolsa orgânica contendo enzimas ou toxinas."
   },
   "kovnik": {
     "nome": "Kovnik",
     "melhor_local": "Duviri – Encontros Aleatórios / Circuito",
-    "detalhes": "Kovnik"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "kriller_thermal_laser": {
     "nome": "Kriller Thermal Laser",
     "melhor_local": "Orb Vallis – Pescando Kriller (águas frias, noite)",
-    "detalhes": "Kriller Thermal Laser"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "kuaka_spinal_claw": {
     "nome": "Kuaka Spinal Claw",
     "melhor_local": "Planícies de Eidolon – Caçando Kuakas (durante o dia)",
-    "detalhes": "Kuaka Spinal Claw"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "kuva": {
     "nome": "Kuva",
     "melhor_local": "Fortaleza Kuva – Inundação Kuva",
-    "detalhes": "Kuva"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "lamentus": {
     "nome": "Lamentus",
     "melhor_local": "Duviri – Recompensas da Aventura / Circuito",
-    "detalhes": "Lamentus"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "longwinder_lathe_coagulant": {
     "nome": "Longwinder Lathe Coagulant",
     "melhor_local": "Orb Vallis – Pescando Longwinder (rios rápidos, dia)",
-    "detalhes": "Longwinder Lathe Coagulant"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "lua_thrax_plasm": {
     "nome": "Lua Thrax Plasm",
     "melhor_local": "Lua – Missões com Thrax Centurions",
-    "detalhes": "Lua Thrax Plasm"
+    "detalhes": "Plasma energético concentrado."
   },
   "mandachord": {
     "nome": "Mandachord",
     "melhor_local": "Missão de Quest Octavia’s Anthem",
-    "detalhes": "Mandachord"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "maprico": {
     "nome": "Maprico",
     "melhor_local": "Planícies de Eidolon – Coletado de arbustos laranja",
-    "detalhes": "Maprico"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "marquise_thyst": {
     "nome": "Marquise Thyst",
     "melhor_local": "Cetus – Lapidação de Thyst minerado nas Planícies de Eidolon",
-    "detalhes": "Marquise Thyst"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "marquise_veridos": {
     "nome": "Marquise Veridos",
     "melhor_local": "Cetus – Lapidação de Veridos minerado nas Planícies de Eidolon",
-    "detalhes": "Marquise Veridos"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "maw_fang": {
     "nome": "Maw Fang",
     "melhor_local": "Duviri – Jogo do Maw / Mini-jogos",
-    "detalhes": "Maw Fang"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "mawfish_bones": {
     "nome": "Mawfish Bones",
     "melhor_local": "Cetus – Pescando Mawfish (comum, durante o dia)",
-    "detalhes": "Mawfish Bones"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "mirewinder_parallel_biode": {
     "nome": "Mirewinder Parallel Biode",
     "melhor_local": "Duviri – Pescando Mirewinder (águas profundas)",
-    "detalhes": "Mirewinder Parallel Biode"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "morficos": {
     "nome": "Mórficos",
     "melhor_local": "Mercúrio – Apollodorus (Sobrevivência)",
-    "detalhes": "Mórficos"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "mortus_horn": {
     "nome": "Mortus Horn",
     "melhor_local": "Cetus – Pescando Mortus Lungfish (lagos, dia)",
-    "detalhes": "Mortus Horn"
+    "detalhes": "Chifre extraído de espécies raras."
   },
   "murkray_liver": {
     "nome": "Murkray Liver",
     "melhor_local": "Cetus – Pescando Murkray (oceano, noite)",
-    "detalhes": "Murkray Liver"
+    "detalhes": "Fígado de peixe raro, usado em refinamentos."
   },
   "mutagen_mass": {
     "nome": "Mutagen Mass",
     "melhor_local": "Dojo – Laboratório Biológico",
-    "detalhes": "Mutagen Mass"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "mytocardia_spore": {
     "nome": "Mytocardia Spore",
     "melhor_local": "Deimos – Pescando Barbisteo / Amniophysi",
-    "detalhes": "Mytocardia Spore"
+    "detalhes": "Esporos orgânicos colhidos de seres infestados."
   },
   "nacreous_pebble": {
     "nome": "Nacreous Pebble",
     "melhor_local": "Duviri – Coleta no campo / Recompensas",
-    "detalhes": "Nacreous Pebble"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "nano_esporos": {
     "nome": "Nano Esporos",
     "melhor_local": "Urano – Assur (Sobrevivência)",
-    "detalhes": "Nano Esporos"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "narmer_isoplast": {
     "nome": "Narmer Isoplast",
     "melhor_local": "Narmer – Missões de Resgate em Narmer (próximo a Erra)",
-    "detalhes": "Narmer Isoplast"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "necracoil": {
     "nome": "Necracoil",
     "melhor_local": "Deimos – Obtido com Necramech (desmantelando partes)",
-    "detalhes": "Necracoil"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "sensores_neurais": {
     "nome": "Sensores Neurais",
     "melhor_local": "Júpiter – Cameria (Sabotagem)",
-    "detalhes": "Sensores Neurais"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "neurodes": {
     "nome": "Neurodes",
     "melhor_local": "Lua – Tycho (Espionagem)",
-    "detalhes": "Neurodes"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "nistlepod": {
     "nome": "Nistlepod",
     "melhor_local": "Planícies de Eidolon – Arbustos próximos à água",
-    "detalhes": "Nistlepod"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "extrato_de_nitain": {
     "nome": "Extrato de Nitain",
     "melhor_local": "Nightwave – Ofertas de Créditos",
-    "detalhes": "Extrato de Nitain"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "norg_brain": {
     "nome": "Norg Brain",
     "melhor_local": "Cetus – Pescando Norg (águas profundas, noite)",
-    "detalhes": "Norg Brain"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "nullstones": {
     "nome": "Nullstones",
     "melhor_local": "Duviri – Encontros Aleatórios ou Circuito",
-    "detalhes": "Nullstones"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "ocular_stemroot": {
     "nome": "Ocular Stem-Root",
     "melhor_local": "Duviri – Encontrado em pontos de coleta no campo",
-    "detalhes": "Ocular Stem-Root"
+    "detalhes": "Raiz utilizada em infusões e construções naturais."
   },
   "celula_orokin": {
     "nome": "Célula Orokin",
     "melhor_local": "Saturno – Telesto (Defesa)",
-    "detalhes": "Célula Orokin"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "orokin_ducats": {
     "nome": "Orokin Ducats",
     "melhor_local": "Relays – Convertendo partes Prime nos Kiosques de Ducats",
-    "detalhes": "Orokin Ducats"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "oxium": {
     "nome": "Oxium",
     "melhor_local": "Júpiter – IO (Defesa)",
-    "detalhes": "Oxium"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "parasitic_tethermaw": {
     "nome": "Parasitic Tethermaw",
     "melhor_local": "Deimos – Pescando Tethermaw (em cavernas, noite)",
-    "detalhes": "Parasitic Tethermaw"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "bracadeira_de_pathos": {
     "nome": "Braçadeira de Pathos",
     "melhor_local": "Duviri – Dominus Thrax (Aventura & Circuito)",
-    "detalhes": "Braçadeira de Pathos"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "plastidios": {
     "nome": "Plastídios",
     "melhor_local": "Urano – Ophelia (Sobrevivência)",
-    "detalhes": "Plastídios"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "pacote_de_polimeros": {
     "nome": "Pacote de Polímeros",
     "melhor_local": "Urano – Ophelia (Sobrevivência)",
-    "detalhes": "Pacote de Polímeros"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "purified_heciphron": {
     "nome": "Purified Heciphron",
     "melhor_local": "Deimos – Processando Heciphron minerado no Cambion Drift",
-    "detalhes": "Purified Heciphron"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "pustulite": {
     "nome": "Pustulite",
     "melhor_local": "Deimos – Quebrando colônias infestadas no solo",
-    "detalhes": "Pustulite"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "pyrotic_liga": {
     "nome": "Pyrotic Liga",
     "melhor_local": "Deimos – Mineração em zonas vulcânicas (Cambion Drift)",
-    "detalhes": "Pyrotic Liga"
+    "detalhes": "Liga metálica refinada usada na construção de equipamentos avançados."
   },
   "radian_sentirum": {
     "nome": "Radian Sentirum",
     "melhor_local": "Deimos – Mineração em zonas cristalinas (Cambion Drift)",
-    "detalhes": "Radian Sentirum"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "radiant_zodian": {
     "nome": "Radiant Zodian",
     "melhor_local": "Deimos – Mineração em zonas cristalinas (Cambion Drift)",
-    "detalhes": "Radiant Zodian"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "recaster_neural_relay": {
     "nome": "Recaster Neural Relay",
     "melhor_local": "Duviri – Encontros de Oportunidade ou Circuito",
-    "detalhes": "Recaster Neural Relay"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "repeller_sistemas": {
     "nome": "Repeller Sistemas",
     "melhor_local": "Orb Vallis – Recompensas de Bounties (Tier 5)",
-    "detalhes": "Repeller Sistemas"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "rubedo": {
     "nome": "Rubedo",
     "melhor_local": "Phobos – Zeugma (Sobrevivência)",
-    "detalhes": "Rubedo"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "rune_marrow": {
     "nome": "Rune Marrow",
     "melhor_local": "Duviri – Encontros / Circuito",
-    "detalhes": "Rune Marrow"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "saggen_perola": {
     "nome": "Saggen Pérola",
     "melhor_local": "Duviri – Coleta no campo em pontos brilhantes",
-    "detalhes": "Saggen Pérola"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "sucata": {
     "nome": "Sucata",
     "melhor_local": "Marte – Alator (Defesa)",
-    "detalhes": "Sucata"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "sapcaddy_venedo_case": {
     "nome": "Sapcaddy Venedo Case",
     "melhor_local": "Duviri – Pescando Sapcaddy (rios com névoa, noite)",
-    "detalhes": "Sapcaddy Venedo Case"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "scintillant": {
     "nome": "Scintillant",
     "melhor_local": "Deimos – Necralisk (flutuando) ou Bounties Tier 4+",
-    "detalhes": "Scintillant"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "scrap": {
     "nome": "Scrap",
     "melhor_local": "Railjack – Drop de inimigos e destroços",
-    "detalhes": "Scrap"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "scrubber_exa_brain": {
     "nome": "Scrubber Exa Brain",
     "melhor_local": "Duviri – Pescando Scrubber (águas profundas, dia)",
-    "detalhes": "Scrubber Exa Brain"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "seram_beetle_shell": {
     "nome": "Seram Beetle Shell",
     "melhor_local": "Duviri – Derrotando beetles ou coleta no campo",
-    "detalhes": "Seram Beetle Shell"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "seriglass_fragmento": {
     "nome": "Seriglass Fragmento",
     "melhor_local": "Deimos – Bounties Tier 5 ou ofertas Nightwave",
-    "detalhes": "Seriglass Fragmento"
+    "detalhes": "Fragmento de material raro usado em tecnologia avançada."
   },
   "shrill_voca": {
     "nome": "Shrill Voca",
     "melhor_local": "Duviri – Encontros Aleatórios / Recompensas do Circuito",
-    "detalhes": "Shrill Voca"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "silphsela": {
     "nome": "Silphsela",
     "melhor_local": "Duviri – Coletado em árvores luminosas em Encontros",
-    "detalhes": "Silphsela"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "smooth_phasmin": {
     "nome": "Smooth Phasmin",
     "melhor_local": "Deimos – Mineração em zonas lisas e minerais roxos",
-    "detalhes": "Smooth Phasmin"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "toroide_sola": {
     "nome": "Toroide Sola",
     "melhor_local": "Orb Vallis – Templo do Lucro",
-    "detalhes": "Toroide Sola"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "spectral_debris": {
     "nome": "Spectral Debris",
     "melhor_local": "Railjack – Missões de defesa em Derelict",
-    "detalhes": "Spectral Debris"
+    "detalhes": "Detritos tecnológicos recuperados de batalhas."
   },
   "spinal_nucleo_section": {
     "nome": "Spinal Núcleo Section",
     "melhor_local": "Deimos – Pescando Barbisteo ou Vomefish",
-    "detalhes": "Spinal Núcleo Section"
+    "detalhes": "Parte energética central de criaturas ou equipamentos."
   },
   "sporulate_sac": {
     "nome": "Sporulate Sac",
     "melhor_local": "Deimos – Processando peixe Aquapulmo / Barbisteo",
-    "detalhes": "Sporulate Sac"
+    "detalhes": "Bolsa orgânica contendo enzimas ou toxinas."
   },
   "star_amarast": {
     "nome": "Star Amarast",
     "melhor_local": "Cetus – Mineração nas Planícies de Eidolon (rochas vermelhas)",
-    "detalhes": "Star Amarast"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "star_crimzian": {
     "nome": "Star Crimzian",
     "melhor_local": "Cetus – Mineração nas Planícies de Eidolon (rochas azuis)",
-    "detalhes": "Star Crimzian"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "stellated_necrathene": {
     "nome": "Stellated Necrathene",
     "melhor_local": "Deimos – Cambion Drift – Bounties / Exploração",
-    "detalhes": "Stellated Necrathene"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "tasoma_extrato": {
     "nome": "Tasoma Extrato",
     "melhor_local": "Lua – Encontrado em cavernas ocultas (Exploração livre)",
-    "detalhes": "Tasoma Extrato"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "lagrima_azurite": {
     "nome": "Lágrima Azurite",
     "melhor_local": "Cetus – Lapidação de Azurite minerado",
-    "detalhes": "Lágrima Azurite"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "techrot_chitin": {
     "nome": "Techrot Chitin",
     "melhor_local": "Duviri – Drop de inimigos 'Techrot' ou recompensas",
-    "detalhes": "Techrot Chitin"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "techrot_motherboard": {
     "nome": "Techrot Motherboard",
     "melhor_local": "Duviri – Drop de inimigos 'Techrot' ou recompensas",
-    "detalhes": "Techrot Motherboard"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "tellurio": {
     "nome": "Tellúrio",
     "melhor_local": "Urano – Ophelia (Sobrevivência)",
-    "detalhes": "Tellúrio"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "tempered_bapholite": {
     "nome": "Tempered Bapholite",
     "melhor_local": "Deimos – Forja de Bapholite minerado (Necralisk)",
-    "detalhes": "Tempered Bapholite"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "tepa_nodule": {
     "nome": "Tepa Nodule",
     "melhor_local": "Orb Vallis – Coletado próximo a rochas e géis congelados",
-    "detalhes": "Tepa Nodule"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "thaumic_distillate": {
     "nome": "Thaumic Distillate",
     "melhor_local": "Deimos – Cambion Drift – Bounties / Exploração",
-    "detalhes": "Thaumic Distillate"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "lama_termica": {
     "nome": "Lama Térmica",
     "melhor_local": "Orb Vallis – Bounties de Eudico (Tier 1‑2)",
-    "detalhes": "Lama Térmica"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "thrax_plasm": {
     "nome": "Thrax Plasm",
     "melhor_local": "Zariman – Derrotando Thrax ou recompensas do Void Armageddon",
-    "detalhes": "Thrax Plasm"
+    "detalhes": "Plasma energético concentrado."
   },
   "tink_dissipator_coil": {
     "nome": "Tink Dissipator Coil",
     "melhor_local": "Duviri – Pescando Tinks (áreas tecnológicas, raro)",
-    "detalhes": "Tink Dissipator Coil"
+    "detalhes": "Componente em espiral utilizado em sistemas elétricos."
   },
   "titanium": {
     "nome": "Titanium",
     "melhor_local": "Railjack – Drop em missões destruindo naves ou containers",
-    "detalhes": "Titanium"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "tralok_eyes": {
     "nome": "Tralok Eyes",
     "melhor_local": "Cetus – Pescando Tralok (oceano, dia/noite)",
-    "detalhes": "Tralok Eyes"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "trapezium_xenorhast": {
     "nome": "Trapezium Xenorhast",
     "melhor_local": "Deimos – Lapidação de Xenorhast minerado",
-    "detalhes": "Trapezium Xenorhast"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "travocyte_liga": {
     "nome": "Travocyte Liga",
     "melhor_local": "Deimos – Forjado no Necralisk com Travocyte Alloy",
-    "detalhes": "Travocyte Liga"
+    "detalhes": "Liga metálica refinada usada na construção de equipamentos avançados."
   },
   "tromyzon_entroplasma": {
     "nome": "Tromyzon Entroplasma",
     "melhor_local": "Orb Vallis – Pescando Tromyzon (rios calmos, dia)",
-    "detalhes": "Tromyzon Entroplasma"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "toroide_vega": {
     "nome": "Toroide Vega",
     "melhor_local": "Orb Vallis – Base de Pesquisa",
-    "detalhes": "Toroide Vega"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "venerdo_liga": {
     "nome": "Venerdo Liga",
     "melhor_local": "Orb Vallis – Mineração em zonas cristalinas",
-    "detalhes": "Venerdo Liga"
+    "detalhes": "Liga metálica refinada usada na construção de equipamentos avançados."
   },
   "voidgel_orb": {
     "nome": "Voidgel Orb",
     "melhor_local": "Zariman – Missões ou containers do Void",
-    "detalhes": "Voidgel Orb"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "voidplume_pinion": {
     "nome": "Voidplume Pinion",
     "melhor_local": "Zariman – Missões & Voidplumes",
-    "detalhes": "Voidplume Pinion"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "voidplume_quill": {
     "nome": "Voidplume Quill",
     "melhor_local": "Zariman – Missões & Voidplumes",
-    "detalhes": "Voidplume Quill"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "voidrig_capsule": {
     "nome": "Voidrig Capsule",
     "melhor_local": "Deimos – Bounties Tier 5 da Mãe (Necramech Voidrig)",
-    "detalhes": "Voidrig Capsule"
+    "detalhes": "Contêiner de energia ou partes tecnológicas."
   },
   "voidrig_casing": {
     "nome": "Voidrig Casing",
     "melhor_local": "Deimos – Bounties Tier 5 da Mãe (Necramech Voidrig)",
-    "detalhes": "Voidrig Casing"
+    "detalhes": "Carcaça externa de Necramechs ou equipamentos pesados."
   },
   "voidrig_engine": {
     "nome": "Voidrig Engine",
     "melhor_local": "Deimos – Bounties Tier 5 da Mãe (Necramech Voidrig)",
-    "detalhes": "Voidrig Engine"
+    "detalhes": "Mecanismo de propulsão para dispositivos pesados."
   },
   "voidrig_weapon_pod": {
     "nome": "Voidrig Weapon Pod",
     "melhor_local": "Deimos – Bounties Tier 5 da Mãe (Necramech Voidrig)",
-    "detalhes": "Voidrig Weapon Pod"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "yao_shrub": {
     "nome": "Yao Shrub",
     "melhor_local": "Duviri – Coleta de plantas em áreas verdes/florestas",
-    "detalhes": "Yao Shrub"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "yogwun_stomach": {
     "nome": "Yogwun Stomach",
     "melhor_local": "Cetus – Pescando Yogwun (lagoas, dia/noite)",
-    "detalhes": "Yogwun Stomach"
+    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   }
 }
