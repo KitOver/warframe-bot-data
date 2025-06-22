@@ -1,0 +1,432 @@
+{
+  "ferrite": {
+    "nome": "Ferrite",
+    "melhor_local": "Mercúrio – Tolstoj (Defesa) ou Terra – Tikal (Defesa)",
+    "detalhes": "Recurso Grineer mais comum do jogo. Encontrado em planetas iniciais e mid-game. Drops de inimigos e containers."
+  },
+  "rubedo": {
+    "nome": "Rubedo",
+    "melhor_local": "Terra – Everest (Extermínio) ou Mariana (Defesa)",
+    "detalhes": "Recurso comum Grineer/Corpus. Encontrado em caixas e de inimigos em planetas iniciais. Abundante."
+  },
+  "salvage": {
+    "nome": "Sucata",
+    "melhor_local": "Marte – Spear (Captura) ou Júpiter – IO (Defesa)",
+    "detalhes": "Comum em Marte e Júpiter de inimigos Grineer e Corpus. Abundante em missões de Defesa e Sobrevivência."
+  },
+  "circuits": {
+    "nome": "Circuitos",
+    "melhor_local": "Vénus – Malva (Defesa) ou Ceres – Gabii (Defesa)",
+    "detalhes": "Drop comum de inimigos Corpus. Abundante em missões de defesa em Vénus e Ceres."
+  },
+  "alloy_plate": {
+    "nome": "Placa de Liga",
+    "melhor_local": "Ceres – Gavini (Defesa) ou Júpiter – IO (Defesa)",
+    "detalhes": "Recurso comum em planetas Corpus e Grineer. Essencial para muitas construções de Warframes e Armas."
+  },
+  "plastids": {
+    "nome": "Plastids",
+    "melhor_local": "Eris – Akkad (Defesa) ou Saturno - Piscinas de Telesto (Defesa)",
+    "detalhes": "Boa fonte em Eris/Saturno, especialmente com Nekros ou Hydroid (Pilfering Swarm) para drops extra. Droppa de Infestados."
+  },
+  "nano_spores": {
+    "nome": "Nano Spores",
+    "melhor_local": "Urano – Assur (Sobrevivência) ou Eris – Akkad (Defesa)",
+    "detalhes": "Muitos inimigos infestados em mapas de sobrevivência e defesa. Queda comum e abundante."
+  },
+  "morphics": {
+    "nome": "Mórficos",
+    "melhor_local": "Mercúrio – Tolstoj (Defesa) ou Marte – Spear (Captura)",
+    "detalhes": "Drop de vários planetas de baixo nível. Geralmente em missões curtas."
+  },
+  "gallium": {
+    "nome": "Gálio",
+    "melhor_local": "Marte – Spear (Captura) ou Netuno - Triton (Escavação)",
+    "detalhes": "Drops de bosses, containers ou inimigos em Marte e Netuno. Raridade incomum."
+  },
+  "tellurium": {
+    "nome": "Telúrio",
+    "melhor_local": "Urano – Ophelia (Sobrevivência) ou Assur (Sobrevivência)",
+    "detalhes": "Recurso aquático raro. Melhor em missões de sobrevivência aquáticas com inimigos de alto spawn. Use Warframes que aumentam drops como Nekros."
+  },
+  "neurodes": {
+    "nome": "Neurodes",
+    "melhor_local": "Lua – Missão 'Tycho' (Espionagem) ou Lua – Stofler (Extermínio)",
+    "detalhes": "Alta chance em containers Orokin na Lua. Também dropa em missões de Earth e Eris. Recurso raro."
+  },
+  "neural_sensors": {
+    "nome": "Sensores Neurais",
+    "melhor_local": "Júpiter – IO (Defesa) ou Themisto (Captura)",
+    "detalhes": "Recurso raro de Júpiter. Dropa de inimigos Corpus e câmeras de segurança."
+  },
+  "control_module": {
+    "nome": "Módulo de Controle",
+    "melhor_local": "Netuno – Salacia (Defesa Móvel) ou Void – Mot (Sobrevivência)",
+    "detalhes": "Drops de inimigos Corpus e containers do Void."
+  },
+  "orokin_cell": {
+    "nome": "Célula Orokin",
+    "melhor_local": "Saturno – Piscinas de Telesto (Defesa) ou Ceres - Kiste (Defesa Móvel)",
+    "detalhes": "Queda rara em Saturno e Ceres. Pode cair de bosses como Sargus Ruk. Recurso vital."
+  },
+  "oxium": {
+    "nome": "Oxium",
+    "melhor_local": "Júpiter – IO (Defesa)",
+    "detalhes": "Muitos Oxium Ospreys nas waves. Ideal com Nekros para drops extra."
+  },
+  "cryotic": {
+    "nome": "Criótica",
+    "melhor_local": "Qualquer missão de Escavação (Ex: Urano - Triton)",
+    "detalhes": "Obtido de cada escavadora completada. Missões de alto nível dão mais progresso."
+  },
+  "hexenon": {
+    "nome": "Hexenon",
+    "melhor_local": "Júpiter – Ganymede (Defesa) ou Amalthea (Sobrevivência)",
+    "detalhes": "Recurso exclusivo de Júpiter, introduzido com a atualização Jovian Concord."
+  },
+  "argon_crystal": {
+    "nome": "Cristal de Árgon",
+    "melhor_local": "Void – Hepit (Captura) ou Teshub (Extermínio)",
+    "detalhes": "**Desaparece após 24h em tempo real.** Queda rara de inimigos e containers do Void."
+  },
+  "grokdrul": {
+    "nome": "Grokdrul",
+    "melhor_local": "Cetus (Planícies de Eidolon) - Missões Grineer/Containers",
+    "detalhes": "Recurso comum de Planícies de Eidolon. Dropa de inimigos e containers Grineer."
+  },
+  "iradite": {
+    "nome": "Iradita",
+    "melhor_local": "Cetus (Planícies de Eidolon) - Nodos de Iradita (formações rochosas vermelhas)",
+    "detalhes": "Mineral de Planícies de Eidolon. Melhor encontrado em formações rochosas vermelhas nas montanhas e falésias."
+  },
+  "fersteel_alloy": {
+    "nome": "Liga Fersteels",
+    "melhor_local": "Cetus (Planícies de Eidolon) - Bounties de Konzu ou Veias de Metal",
+    "detalhes": "Recurso de Planícies de Eidolon. Obtido em bounties e veias de mineração (comum)."
+  },
+  "eidolon_shards_radiant": {
+    "nome": "Fragmento Radiante de Eidolon",
+    "melhor_local": "Cetus (Planícies de Eidolon) - Captura de Teralyst",
+    "detalhes": "Obtido ao capturar um Teralyst. Essencial para Focus e reputação com Quills."
+  },
+  "eidolon_shards_brilliant": {
+    "nome": "Fragmento Brilhante de Eidolon",
+    "melhor_local": "Cetus (Planícies de Eidolon) - Captura de Gantulyst",
+    "detalhes": "Obtido ao capturar um Gantulyst. Essencial para Focus e reputação com Quills."
+  },
+  "eidolon_shards_corrupt": {
+    "nome": "Fragmento Corrompido de Eidolon",
+    "melhor_local": "Cetus (Planícies de Eidolon) - Captura de Hydrolyst",
+    "detalhes": "Obtido ao capturar um Hydrolyst. Essencial para Focus e reputação com Quills."
+  },
+  "vitrios_shard": {
+    "nome": "Caco Vítreo",
+    "melhor_local": "Cetus (Planícies de Eidolon) - Derrota de Teralyst/Gantulyst/Hydrolyst",
+    "detalhes": "Dropa dos Eidolons (Teralyst, Gantulyst, Hydrolyst) nas Planícies de Eidolon durante a noite."
+  },
+  "fish_parts_cetus_mawfish": {
+    "nome": "Carne de Mawfish",
+    "melhor_local": "Cetus (Planícies de Eidolon) - Pesca (qualquer lança, água de dia)",
+    "detalhes": "Comum. Parte de peixe de água doce."
+  },
+  "fish_parts_cetus_charceel": {
+    "nome": "Escama de Charc Eel",
+    "melhor_local": "Cetus (Planícies de Eidolon) - Pesca (qualquer lança, água de dia)",
+    "detalhes": "Comum. Parte de peixe de água doce."
+  },
+  "fish_parts_cetus_karkina": {
+    "nome": "Carne de Karkina",
+    "melhor_local": "Cetus (Planícies de Eidolon) - Pesca (lança elétrica, água salgada de dia)",
+    "detalhes": "Incomum. Parte de peixe de água salgada."
+  },
+  "fish_parts_cetus_norg": {
+    "nome": "Gordura de Norg",
+    "melhor_local": "Cetus (Planícies de Eidolon) - Pesca (lança de Volt, água salgada de noite)",
+    "detalhes": "Raro. Parte de peixe de água salgada."
+  },
+  "gems_cetus_coprinite": {
+    "nome": "Coprinite",
+    "melhor_local": "Cetus (Planícies de Eidolon) - Mineração (veias de metal azul)",
+    "detalhes": "Comum."
+  },
+  "gems_cetus_aukaru": {
+    "nome": "Aukaru",
+    "melhor_local": "Cetus (Planícies de Eidolon) - Mineração (veias de gema vermelhas)",
+    "detalhes": "Comum."
+  },
+  "gems_cetus_nyth": {
+    "nome": "Nyth",
+    "melhor_local": "Cetus (Planícies de Eidolon) - Mineração (veias de gema vermelhas)",
+    "detalhes": "Incomum."
+  },
+  "gems_cetus_sentirum": {
+    "nome": "Sentirum",
+    "melhor_local": "Cetus (Planícies de Eidolon) - Mineração (veias de gema vermelhas)",
+    "detalhes": "Raro."
+  },
+  "brimstone_dust": {
+    "nome": "Pó de Enxofre",
+    "melhor_local": "Fortuna (Orb Vallis) - Bounties de Eudico ou inimigos Vasp",
+    "detalhes": "Recurso comum de Orb Vallis."
+  },
+  "thermal_sludge": {
+    "nome": "Lama Térmica",
+    "melhor_local": "Fortuna (Orb Vallis) - Bounties ou inimigos (ambientes quentes)",
+    "detalhes": "Recurso comum de Orb Vallis. Encontrado perto de áreas vulcânicas/quentes."
+  },
+  "medical_debts": {
+    "nome": "Dívidas Médicas",
+    "melhor_local": "Fortuna (Orb Vallis) - Bounties de Eudico",
+    "detalhes": "Recurso incomum de Orb Vallis. Usado para reputação com Solaris United."
+  },
+  "shelter_debt_bonds": {
+    "nome": "Bônus de Dívida de Abrigo",
+    "melhor_local": "Fortuna (Orb Vallis) - Bounties de Eudico",
+    "detalhes": "Recurso comum de Orb Vallis. Usado para reputação com Solaris United."
+  },
+  "training_debt_bonds": {
+    "nome": "Bônus de Dívida de Treino",
+    "melhor_local": "Fortuna (Orb Vallis) - Bounties de Eudico",
+    "detalhes": "Recurso incomum de Orb Vallis. Usado para reputação com Solaris United."
+  },
+  "advancement_debt_bonds": {
+    "nome": "Bônus de Dívida de Avanço",
+    "melhor_local": "Fortuna (Orb Vallis) - Bounties de Eudico",
+    "detalhes": "Recurso raro de Orb Vallis. Usado para reputação com Solaris United."
+  },
+  "familial_debt_bonds": {
+    "nome": "Bônus de Dívida Familiar",
+    "melhor_local": "Fortuna (Orb Vallis) - Bounties de Eudico (nível alto)",
+    "detalhes": "Recurso raro de Orb Vallis. Usado para reputação com Solaris United (Tier 5)."
+  },
+  "toroids_calda": {
+    "nome": "Toróide Calda",
+    "melhor_local": "Fortuna (Orb Vallis) - Espaçoporto (Spaceport)",
+    "detalhes": "Dropa de inimigos no Espaçoporto de Orb Vallis. Essencial para reputação Vox Solaris."
+  },
+  "toroids_sola": {
+    "nome": "Toróide Sola",
+    "melhor_local": "Fortuna (Orb Vallis) - Templo do Lucro (Temple of Profit)",
+    "detalhes": "Dropa de inimigos no Templo do Lucro de Orb Vallis. Essencial para reputação Vox Solaris."
+  },
+  "toroids_vega": {
+    "nome": "Toróide Vega",
+    "melhor_local": "Fortuna (Orb Vallis) - Base de Pesquisa (Research Base)",
+    "detalhes": "Dropa de inimigos na Base de Pesquisa de Orb Vallis. Essencial para reputação Vox Solaris."
+  },
+  "toroids_lazulite": {
+    "nome": "Toróide Lazulite",
+    "melhor_local": "Fortuna (Orb Vallis) - Exploiter Orb (Boss)",
+    "detalhes": "Dropa da Exploiter Orb. Essencial para crafteio e reputação Vox Solaris."
+  },
+  "toroids_crisma": {
+    "nome": "Toróide Crisma",
+    "melhor_local": "Fortuna (Orb Vallis) - Profit-Taker (Boss)",
+    "detalhes": "Dropa da Profit-Taker. Essencial para crafteio e reputação Vox Solaris."
+  },
+  "fish_parts_fortuna_synathid": {
+    "nome": "Óleo de Synathid",
+    "melhor_local": "Fortuna (Orb Vallis) - Pesca (águas quentes)",
+    "detalhes": "Comum. Parte de peixe de águas quentes."
+  },
+  "fish_parts_fortuna_eyeeye": {
+    "nome": "Olho de Eye-Eye",
+    "melhor_local": "Fortuna (Orb Vallis) - Pesca (águas frias)",
+    "detalhes": "Comum. Parte de peixe de águas frias."
+  },
+  "gems_fortuna_gorgaricus_spore": {
+    "nome": "Esporo de Gorgaricus",
+    "melhor_local": "Fortuna (Orb Vallis) - Plantas de Gelo",
+    "detalhes": "Comum."
+  },
+  "gems_fortuna_tepor_synthesis": {
+    "nome": "Síntese Tepor",
+    "melhor_local": "Fortuna (Orb Vallis) - Mineração (veias de metal azul)",
+    "detalhes": "Comum."
+  },
+  "gems_fortuna_venerdo_cobalt": {
+    "nome": "Cobalto Venerdo",
+    "melhor_local": "Fortuna (Orb Vallis) - Mineração (veias de gema vermelhas)",
+    "detalhes": "Incomum."
+  },
+  "gems_fortuna_zodian": {
+    "nome": "Zodian",
+    "melhor_local": "Fortuna (Orb Vallis) - Mineração (veias de gema vermelhas)",
+    "detalhes": "Raro."
+  },
+  "nistlepod": {
+    "nome": "Vagem Nistle",
+    "melhor_local": "Deimos - Cambion Drift - Plantas Específicas (coleta botânica)",
+    "detalhes": "Planta de Deimos. Encontrada em várias localizações na Deriva de Cambion."
+  },
+  "grotesque_bones": {
+    "nome": "Ossos Grotescos",
+    "melhor_local": "Deimos - Cambion Drift (Caça de Sentient/Incursões de Vome)",
+    "detalhes": "Recurso de Deimos. Dropa de inimigos Infestados específicos, especialmente durante as inundações de Vome."
+  },
+  "fascinating_fragments": {
+    "nome": "Fragmentos Fascinantes",
+    "melhor_local": "Deimos - Cambion Drift (Caça de Sentient/Incursões de Vome)",
+    "detalhes": "Recurso de Deimos. Dropa de inimigos Infestados específicos na Deriva de Cambion."
+  },
+  "spinal_cores": {
+    "nome": "Medulas Espinhais",
+    "melhor_local": "Deimos - Cambion Drift (Bounty de Father)",
+    "detalhes": "Recurso de Deimos. Geralmente em bounties de nível mais alto oferecidas por Father."
+  },
+  "vome_residue": {
+    "nome": "Resíduo de Vome",
+    "melhor_local": "Deimos - Cambion Drift (Durant's Reach ou áreas inundadas durante Vome)",
+    "detalhes": "Material de Deimos. Colhido em áreas específicas na superfície da Deriva de Cambion, principalmente durante o ciclo de Vome."
+  },
+  "adramal_alloy": {
+    "nome": "Liga Adramal",
+    "melhor_local": "Deimos - Cambion Drift (Mineração)",
+    "detalhes": "Comum. Mineral de Deimos."
+  },
+  "embolos": {
+    "nome": "Embolos",
+    "melhor_local": "Deimos - Cambion Drift (Mineração)",
+    "detalhes": "Incomum. Mineral de Deimos."
+  },
+  "thaumica": {
+    "nome": "Thaumica",
+    "melhor_local": "Deimos - Cambion Drift (Mineração)",
+    "detalhes": "Raro. Mineral de Deimos."
+  },
+  "fish_parts_deimos_sonnoid": {
+    "nome": "Carne de Sonnoid",
+    "melhor_local": "Deimos - Cambion Drift - Pesca (águas de muco)",
+    "detalhes": "Comum. Peixe de Deimos."
+  },
+  "fish_parts_deimos_duroid": {
+    "nome": "Entranhas de Duroid",
+    "melhor_local": "Deimos - Cambion Drift - Pesca (águas de muco)",
+    "detalhes": "Incomum. Peixe de Deimos."
+  },
+  "fish_parts_deimos_chitinous_gristle": {
+    "nome": "Gristle Quitinoso",
+    "melhor_local": "Deimos - Cambion Drift - Pesca (águas de muco)",
+    "detalhes": "Raro. Peixe de Deimos."
+  },
+  "kuva": {
+    "nome": "Kuva",
+    "melhor_local": "Fortaleza Kuva (Sifão Kuva/Inundação Kuva) ou Requiem Lich/Sister",
+    "detalhes": "Recurso essencial para rolar mods Riven e craftear armas Kuva. Obtido em missões de Sifão Kuva e Inundação Kuva, ou derrotando Requiem Liches e Sisters."
+  },
+  "nitain_extract": {
+    "nome": "Extrato de Nitain",
+    "melhor_local": "Ofertas de Nightwave Creds",
+    "detalhes": "**Não dropa em missões.** Obtido exclusivamente nas ofertas da Nightwave (créditos). A quantidade é limitada por semana."
+  },
+  "calda_de_sentient": {
+    "nome": "Caldos de Sentient",
+    "melhor_local": "Missões de Emissário Sentient (Quests Especiais), Orphix Venom, Murex",
+    "detalhes": "Recursos de Sentient. Obtidos em missões especiais relacionadas a Sentients (ex: Emissary, Orphix). Usados para crafteio de itens específicos Sentient."
+  },
+  "blood_samples": {
+    "nome": "Amostras de Sangue",
+    "melhor_local": "Planetas Infestados - Missões de Infestação (Ex: Eris - Kela de Thaym)",
+    "detalhes": "Drop de inimigos Infestados durante certos eventos de Pragas de Infestados. Usado para Hemocyte Cystolith e Ghoulsaw."
+  },
+  "granum_crowns_zenith": {
+    "nome": "Coroa Granum Zenith",
+    "melhor_local": "Void de Granum (Qualquer nível)",
+    "detalhes": "Obtida ao derrotar Treasurer no Void de Granum. Necessária para o Warframe Protea e certos itens."
+  },
+  "granum_crowns_exemplar": {
+    "nome": "Coroa Granum Exemplar",
+    "melhor_local": "Void de Granum (Nível Intermediário)",
+    "detalhes": "Obtida ao derrotar Treasurer no Void de Granum (Corrupted). Necessária para o Warframe Protea e certos itens."
+  },
+  "granum_crowns_tempered": {
+    "nome": "Coroa Granum Temperada",
+    "melhor_local": "Void de Granum (Nível Avançado)",
+    "detalhes": "Obtida ao derrotar Treasurer no Void de Granum (Sistine). Necessária para o Warframe Protea e certos itens."
+  },
+  "vestigios_de_void": {
+    "nome": "Vestígios de Void",
+    "melhor_local": "Qualquer missão Void Fissure (Recompensa de Missão)",
+    "detalhes": "Obtido ao completar missões Void Fissure com a relíquia equipada. Usado para refinar relíquias e aumentar a chance de drops raros de Prime Parts."
+  },
+  "voca": {
+    "nome": "Voca",
+    "melhor_local": "Rede Murmur - Netracells, Inimigos Murmur de alto nível",
+    "detalhes": "Recurso raro da Rede Murmur (Whispers in the Walls). Essencial para construir itens e arcanos da facção dos Entrati (Necracell)."
+  },
+  "entrati_lanthorn": {
+    "nome": "Lanterna Entrati",
+    "melhor_local": "Rede Murmur - Netracells, Inimigos Murmur (Anatomizer, Necramite)",
+    "detalhes": "Recurso incomum da Rede Murmur. Obtido ao derrotar certos inimigos Murmur e em Netracells. Necessário para itens da facção dos Entrati (Necracell)."
+  },
+  "pathos_prime_glands": {
+    "nome": "Glandulas Primevas de Pathos",
+    "melhor_local": "Duviri - Caça ao Dominus Thrax (Aventura e Circuito)",
+    "detalhes": "Recurso principal para itens do Duviri, obtido ao derrotar o Dominus Thrax."
+  },
+  "sorrowful_edict": {
+    "nome": "Édito Lamentoso",
+    "melhor_local": "Duviri - Circuito, Ondas de Extermínio, Caixas de Recurso",
+    "detalhes": "Recurso comum de Duviri. Usado para crafteio e upgrades de itens Duviri."
+  },
+  "woven_thorn": {
+    "nome": "Espinho Tecido",
+    "melhor_local": "Duviri - Colecionáveis de Plantas (Coleta Botânica), Encontros de Aventura",
+    "detalhes": "Recurso comum de Duviri. Usado para crafteio e upgrades de itens Duviri."
+  },
+  "aggristone": {
+    "nome": "Aggristone",
+    "melhor_local": "Duviri - Encontros de Oportunidade, Caixas de Recurso",
+    "detalhes": "Recurso comum de Duviri. Usado para crafteio e upgrades de itens Duviri."
+  },
+  "rune_marrow": {
+    "nome": "Medula Rúnica",
+    "melhor_local": "Duviri - Derrota de Inimigos Dominados, Caixas de Recurso",
+    "detalhes": "Recurso comum de Duviri. Usado para crafteio e upgrades de itens Duviri."
+  },
+  "cavum_synthesis": {
+    "nome": "Síntese Cavum",
+    "melhor_local": "Duviri - Mineração de Veias de Metal",
+    "detalhes": "Comum. Mineral de Duviri."
+  },
+  "eusocial_crystallite": {
+    "nome": "Cristalite Eussocial",
+    "melhor_local": "Duviri - Mineração de Veias de Gema",
+    "detalhes": "Incomum. Mineral de Duviri."
+  },
+  "sunken_oxxium": {
+    "nome": "Oxxium Submerso",
+    "melhor_local": "Duviri - Mineração de Veias de Gema",
+    "detalhes": "Raro. Mineral de Duviri."
+  },
+  "credits": {
+    "nome": "Créditos",
+    "melhor_local": "The Index (Netuno), Gabii (Ceres - Defesa), Assur (Urano - Sobrevivência)",
+    "detalhes": "A moeda principal do jogo. Essencial para tudo: crafteio, comércio, upgrades. The Index é o melhor lugar para farmar grandes quantidades rapidamente."
+  },
+  "endo": {
+    "nome": "Endo",
+    "melhor_local": "Arena (Sedna - Rathuum), Arbitrations, Sanctuary Onslaught, Dissolver Mods",
+    "detalhes": "Recurso usado para rank-up (aprimorar) mods. Essencial para aumentar o poder dos seus Warframes e armas."
+  },
+  "synthesis_scan": {
+    "nome": "Escaneamentos de Síntese",
+    "melhor_local": "Missões de Síntese do Simaris (Santuário Onslaught)",
+    "detalhes": "Não é um recurso de drop para crafteio, mas é a 'moeda' para o Sindicato de Síntese. Requer scans de alvos específicos fornecidos por Simaris."
+  },
+  "standing_sindicato": {
+    "nome": "Reputação de Sindicato",
+    "melhor_local": "Missões de Sindicato, Coleta de Medalhões, Doação de Relíquias (Cephalon Simaris)",
+    "detalhes": "Não é um item, mas uma 'moeda' vital. Obtida ao completar missões para sindicatos ou entregando medalhões. Usado para comprar mods, armas e componentes."
+  },
+  "ducats": {
+    "nome": "Ducats",
+    "melhor_local": "Venda de Prime Parts no Kiosk do Ducat",
+    "detalhes": "Moeda especial usada para comprar itens de Baro Ki'Teer, o Comerciante do Void. Obtida trocando Prime Parts extras ou indesejadas em qualquer Relay."
+  },
+  "platinum": {
+    "nome": "Platina",
+    "melhor_local": "Comprar com dinheiro real ou Troca com outros jogadores",
+    "detalhes": "Moeda premium do jogo. Usada para comprar Warframes, armas, slots, cosméticos, reforjar Rivens, etc. A forma mais comum de obter é através de trocas seguras com outros jogadores por itens valiosos."
+  }
+}
