@@ -149,11 +149,11 @@
     "melhor_local": "Deimos – Processando peixe Aquapulmo",
     "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
-  "injetor_de_detonite": {
+  "detonite_injector": {
     "nome": "Injetor de Detonite",
-    "melhor_local": "Dojo – Laboratório Químico (custo em ferrita, detritos, etc.)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
-  },
+    "melhor_local": "Dojo – Laboratório Químico",
+    "detalhes": "Usado por clãs Grineer; construído no dojo com recursos comuns"
+  }
   "devolved_namalon": {
     "nome": "Devolved Namalon",
     "melhor_local": "Deimos – Mineração no Cambion Drift (subsolo)",
@@ -216,8 +216,8 @@
   },
   "ferrita": {
     "nome": "Ferrita",
-    "melhor_local": "Mercúrio – Apollodorus (Sobrevivência)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Mercúrio – Apollodorus (Sobrevivência) ou Terra – Everest (Extração)",
+    "detalhes": "Comum em missões de Grineer em Mercúrio/Terra; Apollodorus tem ótima rotação com Nekros ou Hydroid"
   },
   "fersteel_liga": {
     "nome": "Fersteel Liga",
@@ -241,8 +241,8 @@
   },
   "forma": {
     "nome": "Forma",
-    "melhor_local": "Void – Fissuras com relíquias douradas (Lith, Meso, Neo, Axi) ou Recompensas Nightwave",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Fendas Void – Relíquias douradas (Lith/Meso/Neo) ou Nightwave",
+    "detalhes": "Forma pode ser obtida de quase todas as relíquias com chance de 12–18%, ou como recompensa semanal de Nightwave"
   },
   "gálio": {
     "nome": "Gálio",
@@ -409,10 +409,10 @@
     "melhor_local": "Cetus – Pescando Murkray (oceano, noite)",
     "detalhes": "Fígado de peixe raro, usado em refinamentos."
   },
-  "massa_de_mutagênico": {
+  "mutagen_mass": {
     "nome": "Massa de Mutagênico",
-    "melhor_local": "Dojo – Laboratório Biológico (custo em detritos infestados)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Dojo – Laboratório Biológico",
+    "detalhes": "Fabricável com Detritos Infestados e Nano Esporos no laboratório da clã"
   },
   "mytocardia_spore": {
     "nome": "Mytocardia Spore",
@@ -426,8 +426,8 @@
   },
   "nano_esporos": {
     "nome": "Nano Esporos",
-    "melhor_local": "Urano – Assur (Sobrevivência)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Urano – Assur (Sobrevivência), ótimo com Nekros ou Hydroid",
+    "detalhes": "Muito comum; pode dropar +4.000 em runs de 20min; ótimo para craft massivo"
   },
   "narmer_isoplast": {
     "nome": "Narmer Isoplast",
@@ -444,10 +444,10 @@
     "melhor_local": "Júpiter – Cameria (Sabotagem)",
     "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
-  "neuródios": {
+  "neurodios": {
     "nome": "Neuródios",
-    "melhor_local": "Lua – Tycho (Espionagem)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Lua – Tycho (Espionagem) ou Deimos – Magnacidium (Assassinato)",
+    "detalhes": "Tycho tem boa rotação com chance de 1–2 drops; Magnacidium dá 100% chance no boss"
   },
   "nistlepod": {
     "nome": "Nistlepod",
@@ -476,8 +476,8 @@
   },
   "célula_orokin": {
     "nome": "Célula Orokin",
-    "melhor_local": "Saturno – Telesto (Defesa) ou Derelict – Assassination (Phorid)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Saturno – Tethys (Survival com Nekros) ou Telesto (Exterminate + Cell Arrays)",
+    "detalhes": "Tethys: ~6–12 por 20 min; Telesto: 1–3 por run com boosters e coleta de containers"
   },
   "orokin_ducats": {
     "nome": "Orokin Ducats",
@@ -486,8 +486,8 @@
   },
   "oxium": {
     "nome": "Oxium",
-    "melhor_local": "Júpiter – IO (Defesa)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Júpiter – IO (Defesa) ou Oxium Ospreys em qualquer missão Corpus",
+    "detalhes": "Melhor usar Warframes com dano em área (Saryn, Mesa) para maximizar drops dos Ospreys"
   },
   "parasitic_tethermaw": {
     "nome": "Parasitic Tethermaw",
@@ -499,10 +499,10 @@
     "melhor_local": "Duviri – Dominus Thrax (Aventura & Circuito)",
     "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
-  "plastídios": {
+  "plastidios": {
     "nome": "Plastídios",
-    "melhor_local": "Urano – Ophelia (Sobrevivência)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Urano – Ophelia (Sobrevivência) ou Palus (Espionagem)",
+    "detalhes": "Drops em quantidade moderada; usar Warframe com AOE para limpar hordas"
   },
   "pacote_de_polímeros": {
     "nome": "Pacote de Polímeros",
@@ -546,8 +546,8 @@
   },
   "rubedo": {
     "nome": "Rubedo",
-    "melhor_local": "Phobos – Zeugma (Sobrevivência)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Phobos – Zeugma (Sobrevivência) ou Lua – Plato (Captura)",
+    "detalhes": "Phobos: rotação rápida em sobrevivência; Plato tem bons depósitos extras em exploração"
   },
   "rune_marrow": {
     "nome": "Rune Marrow",
