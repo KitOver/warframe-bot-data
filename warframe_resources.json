@@ -2,786 +2,787 @@
   "adramal_liga": {
     "nome": "Adramal Liga",
     "melhor_local": "Mineração em Deimos – Mina de Cambion Drift",
-    "detalhes": "Liga metálica refinada usada na construção de equipamentos avançados."
+    "detalhes": "- Missão alternativa: Bounties da Mãe (como recompensa rara)\n- Recomendações táticas: Use o minérios Laser de Mineração 'Nosam Cutter' para revelar veias escondidas; procure por veias vermelhas nas paredes e veias azuis no chão. Concentre-se nas cavernas.\n- Warframes/mods ideais: Volt (para mobilidade), Itzal (Archwing para exploração de cavernas), Titania (para voar rápido). Mods de Eficiência de Habilidade.\n- Quantidade por tempo estimada: ~variável (depende da sorte na mineração)\n- Ciclo ideal: Qualquer ciclo (Fass ou Vome) para mineração.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Liga metálica refinada usada na construção de equipamentos avançados."
   },
   "aggristone": {
     "nome": "Aggristone",
-    "melhor_local": "Duviri – Encontros de Oportunidade",
-    "detalhes": "Cristal raro encontrado em Duviri, geralmente durante encontros de oportunidade."
+    "melhor_local": "Duviri – Encontros de Oportunidade (especialmente em 'O Paradoxo Duviri' ou 'O Caminho Solo')",
+    "detalhes": "- Missão alternativa: Comerciantes de Duviri (para compra com Spirals ou Pathos Clamps, se disponível).\n- Recomendações táticas: Priorize missões que recompensam Aggristone. Foque em completar rapidamente os objetivos do encontro.\n- Warframes/mods ideais: Warframes de mobilidade ou defesa, dependendo do desafio.\n- Quantidade por tempo estimada: ~variável (depende da rotação dos encontros)\n- Ciclo ideal: Qualquer ciclo (Mediano, Frio, Sofrimento, Raiva, Alegria, etc.) para encontros.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Cristal raro encontrado em Duviri, geralmente durante encontros de oportunidade."
   },
   "liga_metálica": {
-    "nome": "Liga metálica",
-    "melhor_local": "Vênus – Tessera (Defesa)",
-    "detalhes": "Liga metálica refinada usada na construção de equipamentos avançados."
+    "nome": "Liga Metálica",
+    "melhor_local": "Vênus – Tessera (Extreminio)",
+    "detalhes": "- Missão alternativa: Cerberus (Netuno - Sobrevivência Corpus), Gabii (Ceres - Sobrevivência Grineer).\n- Recomendações táticas: Fique por 5-10 ondas em Defesa ou 10-20 minutos em Sobrevivência. Leve um Warframe que ajude no drop de loot.\n- Warframes/mods ideais: Nekros (Desecrate), Khora (Pilfering Strangledome), Hydroid Prime (Pilfering Swarm).\n- Quantidade por tempo estimada: ~variável, mas bom rendimento em missões de longa duração com frames de loot.\n- Ciclo ideal: Não aplica (recurso de planeta normal).\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Liga metálica refinada usada na construção de equipamentos avançados."
   },
   "anomaly_fragmento": {
-    "nome": "Anomaly Fragmento",
+    "nome": "Fragmento Anômalo",
     "melhor_local": "Railjack – Veil Proxima – Muni (Anomalia Sentient ativa)",
-    "detalhes": "Fragmento de material raro usado em tecnologia avançada."
+    "detalhes": "- Missão alternativa: Não há alternativa principal, é o único lugar para farmar.\n- Recomendações táticas: A anomalia aparece a cada 2h30min. Mate todos os Sentients e quebre os casulos. Use um Necramech para o combate no interior da Murex. Recomenda-se jogar em equipe.\n- Warframes/mods ideais: Volt (Speed/Escudo), Rhino (Roar), Necramech (especialmente Voidrig para dano).\n- Quantidade por tempo estimada: ~6-10 por run (dependendo do spawn de Sentients e casulos).\n- Ciclo ideal: A anomalia tem seu próprio temporizador.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Fragmento de material raro usado em tecnologia avançada."
   },
   "cristal_de_árgon": {
     "nome": "Cristal de Árgon",
     "melhor_local": "Void – Hepit (Captura) ou Mot (Sobrevivência, alta rotação de loot)",
-    "detalhes": "Cristal energético raro coletado em regiões específicas."
+    "detalhes": "- Missão alternativa: Qualquer missão no Void, ou recompensas de Fendas do Void.\n- Recomendações táticas: O Cristal de Árgon decai após 24 horas. Farme-o apenas quando for usar. Em Hepit (Captura), corra rapidamente até o final da missão e mate todos os inimigos no caminho. Em Mot (Sobrevivência), fique pelo menos 15-20 minutos.\n- Warframes/mods ideais: Volt (para velocidade em captura), Nekros (para drops extras em sobrevivência).\n- Quantidade por tempo estimada: ~1-3 por run em Captura, mais em Sobrevivência prolongada.\n- Ciclo ideal: Não aplica (recurso de planeta normal).\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Cristal energético raro coletado em regiões específicas, conhecido por sua instabilidade temporal."
   },
   "atmo_sistemas": {
     "nome": "Atmo Sistemas",
-    "melhor_local": "Orb Vallis – Bounties de Eudico (Tier 3)",
-    "detalhes": "Componentes avançados usados em construções de tecnologia de campo Atmos."
+    "melhor_local": "Orb Vallis – Bounties de Eudico (Tier 3-5, recompensas em rotação)",
+    "detalhes": "- Missão alternativa: Inimigos específicos em Orb Vallis (Bursas, Raknoids e Ambulas - chance baixa).\n- Recomendações táticas: Verifique as recompensas das Bounties da Eudico (Fortuna) e priorize as que oferecem Atmo Sistemas. Use um Warframe com dano em área para limpar inimigos rapidamente.\n- Warframes/mods ideais: Mesa (Regulators), Saryn (Miasma), Volt (Speed).\n- Quantidade por tempo estimada: ~variável (depende da rotação e sorte nas bounties).\n- Ciclo ideal: Não aplica (Orb Vallis tem seu próprio ciclo de dia/noite, mas não afeta drops diretamente).\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Componentes avançados usados em construções de tecnologia de campo Atmos."
   },
   "auroxium_liga": {
     "nome": "Auroxium Liga",
-    "melhor_local": "Mineração em Deimos – Cambion Drift",
-    "detalhes": "Liga metálica refinada usada na construção de equipamentos avançados."
+    "melhor_local": "Mineração em Deimos – Cambion Drift (veias azuis)",
+    "detalhes": "- Missão alternativa: Bounties da Mãe (recompensa rara).\n- Recomendações táticas: Use o minérios Laser de Mineração 'Nosam Cutter' para revelar veias escondidas; foque em veias azuis. Concentre-se em áreas abertas e cavernas. Leve um Warframe de mobilidade.\n- Warframes/mods ideais: Volt, Itzal, Titania.\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: Não aplica (mineração não é afetada pelo ciclo Fass/Vome).\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Liga metálica refinada usada na construção de equipamentos avançados."
   },
   "axidrol_liga": {
     "nome": "Axidrol Liga",
-    "melhor_local": "Mineração em Deimos – Cambion Drift (subsolo)",
-    "detalhes": "Liga metálica refinada usada na construção de equipamentos avançados."
+    "melhor_local": "Mineração em Deimos – Cambion Drift (veias azuis, principalmente em cavernas e subsolo)",
+    "detalhes": "- Missão alternativa: Bounties da Mãe (recompensa rara).\n- Recomendações táticas: Use o minérios Laser de Mineração 'Nosam Cutter'. Procure por veias azuis nas cavernas e passagens subterrâneas. É um pouco mais raro que Auroxium.\n- Warframes/mods ideais: Volt, Itzal, Titania.\n- Quantidade por tempo estimada: ~variável (mais raro).\n- Ciclo ideal: Não aplica (mineração não é afetada pelo ciclo Fass/Vome).\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Liga metálica refinada usada na construção de equipamentos avançados."
   },
   "tumor_infestado_benigno": {
     "nome": "Tumor Infestado Benigno",
-    "melhor_local": "Deimos – Pesca em Cambion Drift (peixes infestados: Vitreospina, Aquapulmo, Amniophysi)",
-    "detalhes": "Material extraído de peixes infestados em Deimos, usado para pesquisas biológicas."
+    "melhor_local": "Deimos – Processando peixes infestados (Vitreospina, Aquapulmo, Amniophysi)",
+    "detalhes": "- Missão alternativa: N/A. Depende da pesca e processamento.\n- Recomendações táticas: Use a lança de pesca adequada (Seramod ou Spari) e iscas específicas (Fass Residue/Vome Residue) para atrair os peixes necessários. Pesque nos lagos e rios do Cambion Drift.\n- Warframes/mods ideais: Ivara (para ficar invisível e pescar tranquilamente), Volt (para mobilidade).\n- Quantidade por tempo estimada: ~variável (depende da quantidade de peixes e sorte no processamento).\n- Ciclo ideal: O ciclo de Deimos (Fass/Vome) afeta o spawn de certos peixes, então verifique o ciclo para os peixes que você precisa.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Material extraído de peixes infestados em Deimos, usado para pesquisas biológicas e construções Infestadas."
   },
   "cápsula_bonewidow": {
     "nome": "Cápsula Bonewidow",
-    "melhor_local": "Recompensa de Bounties da Mãe em Deimos (Tier 5)",
-    "detalhes": "Contêiner de energia ou partes tecnológicas."
+    "melhor_local": "Recompensa de Bounties da Mãe em Deimos (Tier 4-5)",
+    "detalhes": "- Missão alternativa: Loja da Mãe (com Entrati Obols).\n- Recomendações táticas: Complete as bounties mais difíceis para ter a maior chance. Concentre-se em bounties que especificamente listam a Cápsula Bonewidow como recompensa.\n- Warframes/mods ideais: Warframes de dano ou suporte para completar bounties rapidamente (Ex: Wukong, Rhino, Mesa).\n- Quantidade por tempo estimada: ~variável (depende da sorte na bounty).\n- Ciclo ideal: Não aplica diretamente às bounties, mas os objetivos podem variar com o ciclo.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Contêiner de energia ou partes tecnológicas de Necramechs."
   },
   "carcaça_bonewidow": {
     "nome": "Carcaça Bonewidow",
-    "melhor_local": "Deimos – Bounties da Mãe (Tier 5 – recompensas de Necramech)",
-    "detalhes": "Carcaça externa de Necramechs ou equipamentos pesados."
+    "melhor_local": "Deimos – Bounties da Mãe (Tier 4-5 – recompensas de Necramech)",
+    "detalhes": "- Missão alternativa: Loja da Mãe (com Entrati Obols).\n- Recomendações táticas: Similar à Cápsula, foque nas bounties de maior nível que listam a carcaça como recompensa.\n- Warframes/mods ideais: Warframes de dano ou suporte para completar bounties rapidamente.\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: Não aplica diretamente.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Carcaça externa de Necramechs ou equipamentos pesados, componente essencial para a construção da Bonewidow."
   },
   "motor_bonewidow": {
     "nome": "Motor Bonewidow",
-    "melhor_local": "Deimos – Bounties da Mãe (Tier 5 – recompensas de Necramech)",
-    "detalhes": "Mecanismo de propulsão para dispositivos pesados."
+    "melhor_local": "Deimos – Bounties da Mãe (Tier 4-5 – recompensas de Necramech)",
+    "detalhes": "- Missão alternativa: Loja da Mãe (com Entrati Obols).\n- Recomendações táticas: Como os outros componentes de Bonewidow, priorize bounties de alto nível. Pode ser um drop mais raro.\n- Warframes/mods ideais: Warframes de dano ou suporte para completar bounties rapidamente.\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: Não aplica diretamente.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Mecanismo de propulsão para dispositivos pesados, parte do Necramech Bonewidow."
   },
   "módulo_de_arma_bonewidow": {
     "nome": "Módulo de Arma Bonewidow",
-    "melhor_local": "Deimos – Bounties da Mãe (Tier 5 – recompensas de Necramech)",
-    "detalhes": "Arma integrada usada pela Necramech Bonewidow em combate."
+    "melhor_local": "Deimos – Bounties da Mãe (Tier 4-5 – recompensas de Necramech)",
+    "detalhes": "- Missão alternativa: Loja da Mãe (com Entrati Obols).\n- Recomendações táticas: O mais raro dos componentes, pode exigir mais tentativas de bounty. Paciência é chave.\n- Warframes/mods ideais: Warframes de dano ou suporte para completar bounties rapidamente.\n- Quantidade por tempo estimada: ~variável (mais raro).\n- Ciclo ideal: Não aplica diretamente.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Arma integrada usada pela Necramech Bonewidow em combate, essencial para sua funcionalidade."
   },
   "sopro_de_eidolon": {
     "nome": "Sopro de Eidolon",
-    "melhor_local": "Cetus – Bounties Tier 40-60 (Plains of Eidolon), rota 2–3 (~21–50% por rodada)",
-    "detalhes": "Essência espiritual coletada nas Planícies de Eidolon. Usada em construções místicas."
+    "melhor_local": "Cetus – Bounties Tier 40-60 (Planícies de Eidolon), rota 2–3 (~21–50% por rodada)",
+    "detalhes": "- Missão alternativa: Captura de Eidolons (Teralyst/Gantulyst/Hydrolyst) – chance de drop. Também pode ser comprado na loja dos Ostrons.\n- Recomendações táticas: Faça as bounties mais difíceis da Konzu para maximizar as chances. Use um Warframe com bom dano em área para limpar os objetivos mais rápido.\n- Warframes/mods ideais: Saryn, Mesa, Rhino (para bounties).\n- Quantidade por tempo estimada: ~variável (depende da bounty e da rotação).\n- Ciclo ideal: Pode ser farmado de dia ou de noite. A noite é para caçar Eidolons, o que também dropa o item.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Essência espiritual coletada nas Planícies de Eidolon, usada em construções místicas e em projetos Ostron."
   },
   "bateria_de_múons_brickie": {
     "nome": "Bateria de Múons Brickie",
-    "melhor_local": "Orb Vallis – Derrotando inimigos Corpus perto do Spaceport",
-    "detalhes": "Unidade de armazenamento de energia portátil."
+    "melhor_local": "Orb Vallis – Derrotando inimigos Corpus específicos (Brickies) perto do Spaceport",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo de Brickies.\n- Recomendações táticas: Procure por grandes grupos de inimigos Brickies (robôs trabalhadores) nas áreas próximas ao Spaceport. Um Warframe com dano em área ou alta cadência de tiro ajuda a farmar rápido.\n- Warframes/mods ideais: Mesa, Saryn, AoE Warframes.\n- Quantidade por tempo estimada: ~variável (depende do spawn).\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Unidade de armazenamento de energia portátil, dropada por unidades de manutenção Corpus."
   },
   "cabochon_embolos": {
     "nome": "Cabochon Embolos",
-    "melhor_local": "Deimos – Mineração no Cambion Drift",
-    "detalhes": "Cristal facetado refinado a partir de Embolos. Utilizado para criar itens de Deimos."
+    "melhor_local": "Deimos – Lapidação de Embolos minerado no Cambion Drift (cavernas)",
+    "detalhes": "- Missão alternativa: N/A. Depende de minerar Embolos e lapidar.\n- Recomendações táticas: Minere veias azuis e vermelhas no Cambion Drift, especialmente em cavernas. Lapide os Embolos com Otak na Necralisk.\n- Warframes/mods ideais: Volt, Itzal, Titania (para mineração).\n- Quantidade por tempo estimada: ~variável (depende da mineração e sorte no lapidação).\n- Ciclo ideal: Não aplica à lapidação, mas a mineração não é afetada pelo ciclo.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Cristal facetado refinado a partir de Embolos. Utilizado para criar itens de Deimos, especialmente para Syndicates."
   },
   "toroide_calda": {
     "nome": "Toroide Calda",
-    "melhor_local": "Orb Vallis – Spaceport",
-    "detalhes": "Toroide obtido ao derrotar inimigos próximos ao Spaceport em Orb Vallis."
+    "melhor_local": "Orb Vallis – Spaceport (derrotando inimigos Corpus) ou Bounties (recompensa rara)",
+    "detalhes": "- Missão alternativa: Derrotar inimigos de alto nível na região do Spaceport. Pode aparecer em certos alertas de incursão ou de eventos.\n- Recomendações táticas: Concentre-se em matar inimigos de alto nível no Spaceport. Use um Warframe com dano em área ou para controle de multidão. Tenha um Booster de Recursos ativo se possível.\n- Warframes/mods ideais: Nekros (Desecrate), Khora (Pilfering Strangledome), Hydroid Prime (Pilfering Swarm).\n- Quantidade por tempo estimada: ~1-3 por rodada/tempo, com boosters pode ser mais.\n- Ciclo ideal: Não aplica, mas o dia/noite afeta o spawn de alguns inimigos em Orb Vallis, mas não diretamente o drop do Toroide.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Toroide obtido ao derrotar inimigos de alto nível próximos ao Spaceport em Orb Vallis, usado para Fortuna e Vox Solaris."
   },
   "carbides": {
     "nome": "Carbides",
-    "melhor_local": "Railjack – Missões em Plutão e Vênus",
-    "detalhes": "Material resistente encontrado em missões Railjack, essencial para construção de armas."
+    "melhor_local": "Railjack – Missões em Plutão e Vênus (derrotando inimigos Crewship e lutadores)",
+    "detalhes": "- Missão alternativa: Recompensas de Railjack Bounties.\n- Recomendações táticas: Complete missões de Railjack nas Proximas de Vênus e Plutão. Foque em destruir Crewships e matar inimigos internos. O Railjack pode ser um bom lugar para farmar.\n- Warframes/mods ideais: Qualquer Warframe com bom dano para limpar naves inimigas. Necramechs podem ser úteis.\n- Quantidade por tempo estimada: ~variável (depende da duração da missão e quantidade de inimigos).\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Material resistente encontrado em missões Railjack, essencial para construção e aprimoramento de componentes de Railjack e armas Kuva."
   },
   "vulto_de_cetus": {
     "nome": "Vulto de Cetus",
-    "melhor_local": "Planícies de Eidolon – Lago Principal (noite)",
-    "detalhes": "Peixe espectral encontrado nas águas de Eidolon durante a noite."
+    "melhor_local": "Planícies de Eidolon – Lago Principal (noite, usando isca 'Mawfish') ou rios em geral.",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo da pesca.\n- Recomendações táticas: Use a lança de pesca 'Lanzo' ou 'Tulok'. Use a isca 'Mawfish' e corante luminária para melhor visibilidade. Pesque em grandes corpos d'água durante a noite de Eidolon.\n- Warframes/mods ideais: Ivara (para invisibilidade).\n- Quantidade por tempo estimada: ~variável (depende da sorte e eficiência da pesca).\n- Ciclo ideal: **NOITE de Eidolon**. É crucial pescar durante a noite para o Vulto de Cetus.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Peixe espectral encontrado nas águas de Eidolon durante a noite, valioso para o processamento de recursos Ostron."
   },
   "charamote_sagan_módulo": {
-    "nome": "Charamote Sagan Módulo",
-    "melhor_local": "Duviri – Pescando Charamote (Área: Estepes)",
-    "detalhes": "Componente eletrônico usado em equipamentos especiais."
+    "nome": "Módulo Sagan Charamote",
+    "melhor_local": "Duviri – Processando Charamote (pescado nas Estepes)",
+    "detalhes": "- Missão alternativa: N/A. Depende da pesca e processamento.\n- Recomendações táticas: Use a lança de pesca de Duviri e a isca adequada para Charamote nas Estepes. Após pescar, processe o peixe na loja da Teshin ou similar.\n- Warframes/mods ideais: Qualquer Warframe serve, mas mobilidade é útil.\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: Não aplica diretamente à pesca, mas o clima de Duviri afeta o spawn de certos peixes.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Componente eletrônico usado em equipamentos especiais de Duviri, derivado do peixe Charamote."
   },
   "charc_electroplax": {
-    "nome": "Charc Electroplax",
+    "nome": "Electroplax Charc",
     "melhor_local": "Orb Vallis – Pescando Charc Eel (em lagos durante tempestades elétricas)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: N/A. Exclusivo da pesca.\n- Recomendações táticas: Use a lança de pesca 'Shockprod' ou 'Stunna'. Pesque em lagos de Orb Vallis durante tempestades elétricas (o clima é visível no mapa). Use isca 'Basic Bait'.\n- Warframes/mods ideais: N/A (foco na pesca e clima).\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: **TEMPESTADE ELÉTRICA** em Orb Vallis (ocorrência aleatória).\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos, obtido de enguias elétricas em Orb Vallis."
   },
   "circuitos": {
     "nome": "Circuitos",
-    "melhor_local": "Vênus – Malva (Defesa)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Vênus – Malva (Defesa) ou Cerberus (Netuno – Sobrevivência Corpus)",
+    "detalhes": "- Missão alternativa: Urano – Triton (Escavação Corpus), Júpiter – Io (Defesa Corpus).\n- Recomendações táticas: Missões de Defesa ou Sobrevivência contra Corpus são as melhores. Fique por 5-10 ondas em Defesa ou 10-20 minutos em Sobrevivência. Use Warframes de loot.\n- Warframes/mods ideais: Nekros (Desecrate), Khora (Pilfering Strangledome), Hydroid Prime (Pilfering Swarm).\n- Quantidade por tempo estimada: ~alto rendimento em missões de longa duração com frames de loot.\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Componentes eletrônicos essenciais para a construção da maioria dos equipamentos e Warframes, comuns em bases Corpus."
   },
   "condroc_wing": {
-    "nome": "Condroc Wing",
-    "melhor_local": "Planícies de Eidolon – Caçando Condrocs",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "nome": "Asa de Condroc",
+    "melhor_local": "Planícies de Eidolon – Caçando Condrocs (aves)",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo da caça.\n- Recomendações táticas: Use a arma silenciosa (Ivara, Equinox com Augment) ou qualquer arma com boa precisão para abater Condrocs no ar. Ative o modo 'Perception' do scanner para localizá-los mais facilmente. Podem ser encontrados durante o dia e a noite.\n- Warframes/mods ideais: Ivara (para caça furtiva), Volt (mobilidade).\n- Quantidade por tempo estimada: ~variável (depende do spawn e eficiência da caça).\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Asa retirada de Condrocs, aves de rapina encontradas nas Planícies de Eidolon, usada em construções Ostron."
   },
   "connla_sprout": {
-    "nome": "Connla Sprout",
-    "melhor_local": "Duviri – Encontros de Exploração",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "nome": "Broto de Connla",
+    "melhor_local": "Duviri – Encontros de Exploração (coleta de plantas e reagentes)",
+    "detalhes": "- Missão alternativa: Pode ser encontrado em certas cavernas ou áreas ocultas em Duviri. Trocas com Acrítis no Acampamento dos Cavalarianos.\n- Recomendações táticas: Explore o mapa de Duviri cuidadosamente. Use habilidades de scanner (Ex: Scanner de Síntese, Codex Scanner) para identificar plantas coletáveis. Warframes de mobilidade ajudam na exploração.\n- Warframes/mods ideais: Wukong (Cloud Walker), Titania (Razorwing Blitz).\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: O clima de Duviri pode afetar o spawn de plantas.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Broto raro encontrado em Duviri, utilizado para aprimoramentos e trocas com facções locais."
   },
   "módulo_de_controle": {
     "nome": "Módulo de Controle",
-    "melhor_local": "Netuno – Psamathe (Captura)",
-    "detalhes": "Componente eletrônico usado em equipamentos especiais."
+    "melhor_local": "Netuno – Psamathe (Captura) ou Lares (Mercúrio – Defesa Orokin)",
+    "detalhes": "- Missão alternativa: Vênus – Linea (Defesa Orokin), Europa – Paimon (Sobrevivência Orokin). Recompensas de Syndicates ou Fendas do Void.\n- Recomendações táticas: Em missões de Captura, corra rapidamente e mate o target. Em Sobrevivência/Defesa, fique mais tempo para mais drops. Warframes de loot aumentam a chance.\n- Warframes/mods ideais: Volt (para velocidade em captura), Nekros (para drops em sobrevivência).\n- Quantidade por tempo estimada: ~1-2 por run em captura rápida, mais em sobrevivência.\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Componente eletrônico crucial usado em equipamentos especiais e Warframes, encontrado principalmente em assentamentos Orokin."
   },
   "coprite_liga": {
     "nome": "Coprite Liga",
-    "melhor_local": "Deimos – Mineração no Cambion Drift (subsolo)",
-    "detalhes": "Liga metálica refinada usada na construção de equipamentos avançados."
+    "melhor_local": "Deimos – Mineração no Cambion Drift (veias vermelhas, principalmente no subsolo)",
+    "detalhes": "- Missão alternativa: Bounties da Mãe (recompensa rara).\n- Recomendações táticas: Use o minérios Laser de Mineração 'Nosam Cutter'. Foque em veias vermelhas, que geralmente dão recursos de gemas/metais. Concentre-se nas cavernas e nos túneis subterrâneos.\n- Warframes/mods ideais: Volt, Itzal, Titania (para mineração).\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Liga metálica refinada usada na construção de equipamentos avançados e na pesquisa Entrati."
   },
   "cranial_foremount": {
-    "nome": "Cranial Foremount",
-    "melhor_local": "Duviri – Recompensas da Aventura",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "nome": "Montagem Craniana",
+    "melhor_local": "Duviri – Recompensas da Aventura 'O Paradoxo Duviri' ou 'O Caminho Solo'",
+    "detalhes": "- Missão alternativa: N/A. Principalmente de recompensas de Aventura. Pode ser trocado com Acrítis.\n- Recomendações táticas: Complete as missões principais da Aventura de Duviri para obter este recurso. Concentre-se nos objetivos primários.\n- Warframes/mods ideais: Qualquer Warframe com bom desempenho em combate.\n- Quantidade por tempo estimada: Drop garantido em certas etapas da aventura.\n- Ciclo ideal: Não aplica (recompensa de quest/aventura).\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos de Duviri, possivelmente de restos de Kaithes ou outras criaturas."
   },
   "criótico": {
     "nome": "Criótico",
     "melhor_local": "Urano – Triton (Escavação)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Júpiter – Io (Defesa Corpus), Saturno – Piscinas (Escavação Grineer).\n- Recomendações táticas: Em Escavação, defenda os escavadores e colete o Criótico. Quanto mais escavadores você defender, mais Criótico receberá. Use Warframes para defender objetivos e controlar inimigos.\n- Warframes/mods ideais: Khora (Pilfering Strangledome para drops extras), Limbo (Cataclysm para proteção do escavador), Frost (Snow Globe).\n- Quantidade por tempo estimada: ~100-200 por rodada de 5 escavadores (com booster e loot frame pode ser mais).\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso criogênico raro utilizado na fabricação e aprimoramento de equipamentos de alta tecnologia e em certas pesquisas de clã."
   },
   "cuthol_tendrils": {
-    "nome": "Cuthol Tendrils",
-    "melhor_local": "Planícies de Eidolon – Pescando Cuthol (de noite)",
-    "detalhes": "Tentáculos retirados de peixes raros."
+    "nome": "Tentáculos de Cuthol",
+    "melhor_local": "Planícies de Eidolon – Pescando Cuthol (em lagoas de noite, com isca 'Fish Meat' ou 'Twilight Bait')",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo da pesca e processamento.\n- Recomendações táticas: Use a lança 'Tulok'. Pesque em lagoas maiores ou no lago principal durante a NOITE de Eidolon. Use isca 'Fish Meat' ou 'Twilight Bait'. Processe os Cuthols pescados na loja dos Ostrons.\n- Warframes/mods ideais: Ivara (para invisibilidade).\n- Quantidade por tempo estimada: ~variável (depende da sorte e eficiência da pesca).\n- Ciclo ideal: **NOITE de Eidolon** (crucial para o spawn de Cuthol).\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Tentáculos retirados de peixes raros e perigosos (Cuthol), usados em construções e sacrifícios Ostron."
   },
   "dendrite_blastoma": {
     "nome": "Dendrite Blastoma",
-    "melhor_local": "Deimos – Processando peixe Aquapulmo",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Deimos – Processando peixe Aquapulmo (pescado em Duviri)",
+    "detalhes": "- Missão alternativa: N/A. Depende da pesca e processamento.\n- Recomendações táticas: Pesque Aquapulmo nas águas de Deimos (usando a lança Seramod ou Spari e iscas específicas para peixes infestados). Processe o peixe na Necralisk.\n- Warframes/mods ideais: Ivara (invisibilidade).\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: O ciclo de Deimos (Fass/Vome) pode afetar o spawn de Aquapulmo, então verifique antes de pescar.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso biológico raro utilizado na fabricação e aprimoramento de equipamentos Infestados, derivado de peixes aquáticos de Deimos."
   },
   "detonite_injector": {
     "nome": "Injetor de Detonite",
-    "melhor_local": "Dojo – Laboratório Químico",
-    "detalhes": "Usado por clãs Grineer; construído no dojo com recursos comuns"
+    "melhor_local": "Dojo – Laboratório Químico (construção) ou Alertas/Incursões/Bounties (recompensa)",
+    "detalhes": "- Missão alternativa: Recompensas de Incursões, Alertas de Nightmare (raramente), Bounties em Planícies de Eidolon/Orb Vallis/Deimos (recompensa rara).\n- Recomendações táticas: Construir no Dojo é o método mais consistente, mas exige recursos do clã. Fique atento aos Alertas e Incursões que oferecem o item como recompensa.\n- Warframes/mods ideais: N/A (depende do método de obtenção).\n- Quantidade por tempo estimada: ~Variável (se for por drops), mas a construção no Dojo é mais previsível.\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Usado por clãs Grineer; construído no dojo com recursos comuns, ou obtido como recompensa rara em missões."
   },
   "devolved_namalon": {
-    "nome": "Devolved Namalon",
-    "melhor_local": "Deimos – Mineração no Cambion Drift (subsolo)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "nome": "Namalon Devolvido",
+    "melhor_local": "Deimos – Mineração no Cambion Drift (veias vermelhas, subsolo)",
+    "detalhes": "- Missão alternativa: Bounties da Mãe (recompensa rara).\n- Recomendações táticas: Minere veias vermelhas com o Laser de Mineração 'Nosam Cutter' em cavernas e áreas subterrâneas de Deimos. É um recurso raro.\n- Warframes/mods ideais: Volt, Itzal, Titania (para mineração).\n- Quantidade por tempo estimada: ~variável (raro).\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos Infestados, encontrado em veias de minério em Deimos."
   },
   "dracroot": {
     "nome": "Dracroot",
-    "melhor_local": "Duviri – Encontros Aleatórios",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Duviri – Coleta de plantas em Encontros Aleatórios e no mapa aberto",
+    "detalhes": "- Missão alternativa: Trocas com Acrítis no Acampamento dos Cavalarianos.\n- Recomendações táticas: Explore Duviri e procure por plantas brilhantes. Use o scanner para identificá-las. Warframes com mobilidade ajudam a cobrir mais terreno.\n- Warframes/mods ideais: Wukong, Titania.\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: O clima de Duviri pode afetar o spawn de plantas.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso orgânico raro encontrado em Duviri, utilizado para aprimoramentos e trocas."
   },
   "echo_voca": {
-    "nome": "Echo Voca",
-    "melhor_local": "Duviri – Encontros Aleatórios / Circuito",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "nome": "Eco Voca",
+    "melhor_local": "Duviri – Encontros Aleatórios / Circuito (recompensa de objetivos)",
+    "detalhes": "- Missão alternativa: Comerciantes de Duviri (para compra com Pathos Clamps ou Spirals).\n- Recomendações táticas: Complete objetivos e desafios durante as missões em Duviri e no Circuito. É uma moeda/recurso comum lá.\n- Warframes/mods ideais: Warframes de dano/suporte para completar objetivos.\n- Quantidade por tempo estimada: ~boa quantidade por run, especialmente no Circuito.\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos de Duviri, obtido através de exploração e desafios."
   },
   "eevani": {
     "nome": "Eevani",
-    "melhor_local": "Duviri – Encontros Aleatórios",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Duviri – Encontros Aleatórios (coleta de plantas raras)",
+    "detalhes": "- Missão alternativa: Trocas com Acrítis.\n- Recomendações táticas: Procure por Eevani em áreas menos exploradas ou de difícil acesso em Duviri. É uma planta mais rara.\n- Warframes/mods ideais: Warframes de mobilidade.\n- Quantidade por tempo estimada: ~variável (mais raro).\n- Ciclo ideal: O clima de Duviri pode afetar o spawn de plantas.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso orgânico raro utilizado na fabricação e aprimoramento de equipamentos de Duviri."
   },
   "efervon_amostra": {
-    "nome": "Efervon Amostra",
-    "melhor_local": "Duviri – Encontros Aleatórios (coleta de flores brilhantes)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "nome": "Amostra de Efervon",
+    "melhor_local": "Duviri – Encontros Aleatórios (coleta de flores brilhantes ou espólios de inimigos)",
+    "detalhes": "- Missão alternativa: N/A.\n- Recomendações táticas: Procure por flores bioluminescentes ou inimigos específicos em Duviri que possam dropar este item. Use scanner para identificá-las.\n- Warframes/mods ideais: Warframes de mobilidade.\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: O clima de Duviri pode afetar o spawn de plantas.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos de Duviri, com propriedades bioluminescentes."
   },
   "eidolon_fragmento": {
-    "nome": "Eidolon Fragmento",
-    "melhor_local": "Planícies de Eidolon – Derrotando Eidolons",
-    "detalhes": "Fragmento de material raro usado em tecnologia avançada."
+    "nome": "Fragmento de Eidolon",
+    "melhor_local": "Planícies de Eidolon – Derrotando Eidolons (Teralyst, Gantulyst, Hydrolyst) ou recompensas de Bounties.",
+    "detalhes": "- Missão alternativa: Recompensas de Bounties de Konzu (Tier 5).\n- Recomendações táticas: A melhor forma é caçar Eidolons durante a noite. Prepare um time com Warframes e Amps adequados. Um fragmento é garantido por caça.\n- Warframes/mods ideais: Volt (Shields), Harrow (Condemn/Covenant), Trinity (Blessing), Oberon (Renewal), Chroma (Vex Armor).\n- Quantidade por tempo estimada: ~1 por caça de Teralyst, mais por Gantulyst/Hydrolyst.\n- Ciclo ideal: **NOITE de Eidolon** (obrigatório para caçar Eidolons).\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Fragmento de material raro usado em tecnologia avançada dos Ostrons e na confecção de Amps e Arcanes, obtido de Eidolons abatidos."
   },
   "entrati_lanthorn": {
-    "nome": "Entrati Lanthorn",
-    "melhor_local": "Zariman – Missões e Voidplumes",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "nome": "Lanthorn Entrati",
+    "melhor_local": "Zariman – Missões de Extermínio ou Recompensa de Voidplumes (Voidplume Quill)",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo de Zariman.\n- Recomendações táticas: Derrote inimigos em missões de Zariman, especialmente Extermínio ou Sobrevivência. Quebre contêineres e caixas. Colete Voidplumes e troque por Voidplume Quills com a Cavalero, que podem ser trocados por Lanthorns.\n- Warframes/mods ideais: Nekros (Desecrate), Khora (Pilfering Strangledome) para drops extras de inimigos. Qualquer Warframe com dano em área.\n- Quantidade por tempo estimada: ~variável (pode ser raro).\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos de Zariman, com uma assinatura energética única."
   },
   "entrati_obols": {
-    "nome": "Entrati Obols",
-    "melhor_local": "Zariman – Missões e Voidplumes",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "nome": "Óbolos Entrati",
+    "melhor_local": "Zariman – Missões (coleta de Voidplumes) e Bounties da Cavalero",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo de Zariman.\n- Recomendações táticas: Complete bounties da Cavalero ou colete Voidplumes (Vane, Crest, Spine, Quills, Pinion) em missões de Zariman. Troque os Voidplumes por Óbolos Entrati na Cavalero.\n- Warframes/mods ideais: Warframes de mobilidade e dano para completar missões rapidamente.\n- Quantidade por tempo estimada: Depende da quantidade de Voidplumes coletados.\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso de reputação da família Entrati em Zariman, utilizado para comprar esquemas, arcanes e outros itens raros."
   },
   "esher_devar": {
     "nome": "Esher Devar",
-    "melhor_local": "Cetus – Mineração nas Planícies de Eidolon",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Cetus – Mineração nas Planícies de Eidolon (veias azuis)",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo da mineração.\n- Recomendações táticas: Use o Laser de Mineração 'Nosam Cutter'. Procure por veias azuis (minério) nas Planícies de Eidolon. As veias azuis são mais comuns que as vermelhas. Minere durante o dia para evitar Sentients.\n- Warframes/mods ideais: Volt, Itzal, Titania (para mobilidade).\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: Não aplica à mineração, mas o dia/noite afeta inimigos.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos Ostron, encontrado em depósitos de minério nas Planícies de Eidolon."
   },
   "exceptional_sentient_núcleo": {
-    "nome": "Exceptional Sentient Núcleo",
-    "melhor_local": "Missões Sentient – Anomalias no Railjack (Veil Proxima)",
-    "detalhes": "Parte energética central de criaturas ou equipamentos."
+    "nome": "Núcleo Sentient Excepcional",
+    "melhor_local": "Missões Sentient – Anomalias no Railjack (Veil Proxima) ou Sentients maiores nas Planícies de Eidolon",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo de Sentients.\n- Recomendações táticas: Derrote Sentients mais fortes, como Conculysts e Battalysts em Anomalias do Railjack, ou Eidolons nas Planícies de Eidolon. Warframes com habilidades que bypassam a adaptação Sentient são ideais.\n- Warframes/mods ideais: Limbo (Stasis), Nova (Molecular Prime), Mesa (Regulators), Voidrig Necramech.\n- Quantidade por tempo estimada: ~1-3 por Anomalia Sentient. Mais por Eidolons.\n- Ciclo ideal: A anomalia tem seu próprio timer. Para Eidolons, é NOITE.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Parte energética central de criaturas ou equipamentos Sentient, usada para trocas com Little Duck em Fortuna e para fabricar Amps."
   },
   "eye-eye_rotoblade": {
-    "nome": "Eye-Eye Rotoblade",
-    "melhor_local": "Duviri – Pescando Eye-Eye (Lagos de Duviri)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "nome": "Rotolâmina Olho-Olho",
+    "melhor_local": "Duviri – Processando Eye-Eye (pescado em lagos de Duviri)",
+    "detalhes": "- Missão alternativa: N/A. Depende da pesca e processamento.\n- Recomendações táticas: Use a lança de pesca de Duviri e a isca adequada para Eye-Eye. Pesque em lagos de Duviri. Processe os peixes para obter o recurso.\n- Warframes/mods ideais: N/A (foco na pesca).\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: O clima de Duviri pode afetar o spawn de peixes.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos de Duviri, derivado do peixe Eye-Eye."
   },
   "fate_pérola": {
-    "nome": "Fate Pérola",
-    "melhor_local": "Duviri – Encontros Aleatórios",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "nome": "Pérola do Destino",
+    "melhor_local": "Duviri – Recompensas de Encontros Aleatórios e desafios do Circuito",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo de Duviri.\n- Recomendações táticas: Complete os objetivos de "Encontros de Oportunidade" ou os desafios do "Circuito" para obter as Pérolas do Destino. Elas são recompensas de missão.\n- Warframes/mods ideais: Warframes de dano/suporte para completar objetivos.\n- Quantidade por tempo estimada: ~variável (depende da conclusão dos objetivos).\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos de Duviri, representando a sorte ou destino do viajante."
   },
   "ferrita": {
     "nome": "Ferrita",
     "melhor_local": "Mercúrio – Apollodorus (Sobrevivência) ou Terra – Everest (Extração)",
-    "detalhes": "Comum em missões de Grineer em Mercúrio/Terra; Apollodorus tem ótima rotação com Nekros ou Hydroid"
+    "detalhes": "- Missão alternativa: Qualquer missão em planetas Grineer de baixo nível (Mercúrio, Terra, Marte, Ceres).\n- Recomendações táticas: Utilizar frames de loot em missões com grande densidade de inimigos para maximizar a coleta. Fique por pelo menos 15-20 minutos em Sobrevivência ou até 4 extrações.\n- Warframes/mods ideais: Nekros (Desecrate), Khora (Pilfering Strangledome), Hydroid Prime (Pilfering Swarm).\n- Quantidade por tempo estimada: ~2.000-5.000 por run de 20 minutos (com booster e loot frame).\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Comum em missões de Grineer em Mercúrio/Terra; Apollodorus tem ótima rotação com Nekros ou Hydroid; um recurso fundamental para construções básicas."
   },
   "fersteel_liga": {
-    "nome": "Fersteel Liga",
-    "melhor_local": "Deimos – Mineração em Cambion Drift",
-    "detalhes": "Liga metálica refinada usada na construção de equipamentos avançados."
+    "nome": "Ferro-Aço Liga",
+    "melhor_local": "Deimos – Mineração em Cambion Drift (veias vermelhas e azuis)",
+    "detalhes": "- Missão alternativa: Bounties da Mãe (recompensa rara).\n- Recomendações táticas: Use o Laser de Mineração 'Nosam Cutter'. É um recurso comum da mineração em Deimos, encontrado em veias vermelhas e azuis. Explore cavernas.\n- Warframes/mods ideais: Volt, Itzal, Titania (para mineração).\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Liga metálica refinada usada na construção de equipamentos avançados e na pesquisa Entrati."
   },
   "fieldron": {
     "nome": "Fieldron",
-    "melhor_local": "Dojo – Laboratório de Energia (custo em mutagênicos e oxium)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Dojo – Laboratório de Energia (construção), Alertas/Incursões/Bounties (recompensa)",
+    "detalhes": "- Missão alternativa: Recompensas de Incursões, Alertas de Nightmare (raramente), Bounties em Orb Vallis/Deimos/Plains of Eidolon (recompensa rara).\n- Recomendações táticas: Construir no Dojo é o método mais consistente (custa Mutagênicos e Oxium). Fique atento aos Alertas e Incursões que oferecem o item como recompensa. É um recurso essencial para armas Grineer e itens do Dojo.\n- Warframes/mods ideais: N/A (depende do método de obtenção).\n- Quantidade por tempo estimada: Variável, mas a construção no Dojo é mais previsível.\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Um bloco condensado de energia Grineer, usado para a fabricação de armamentos e equipamentos de clã."
   },
   "óleo_de_peixe": {
     "nome": "Óleo de Peixe",
-    "melhor_local": "Cetus – Processando peixes pescados",
-    "detalhes": "Substância oleosa extraída de peixes, usada em construções."
+    "melhor_local": "Cetus – Processando peixes pescados (qualquer peixe)",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo da pesca e processamento.\n- Recomendações táticas: Pesque qualquer peixe nas Planícies de Eidolon (dia ou noite) usando qualquer lança e isca. Leve os peixes para Hai-Luk (pescador Ostron) em Cetus e processe-os para obter Óleo de Peixe e outros recursos.\n- Warframes/mods ideais: Ivara (para invisibilidade e pesca tranquila).\n- Quantidade por tempo estimada: Depende da quantidade de peixes processados.\n- Ciclo ideal: Não aplica diretamente ao óleo, mas ao spawn dos peixes.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Substância oleosa extraída de peixes, usada em construções Ostron e para criar iscas mais avançadas."
   },
   "escamas_de_peixe": {
     "nome": "Escamas de Peixe",
-    "melhor_local": "Cetus – Processando peixes pescados",
-    "detalhes": "Parte biológica de peixe usada em construções."
+    "melhor_local": "Cetus – Processando peixes pescados (qualquer peixe)",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo da pesca e processamento.\n- Recomendações táticas: Similar ao Óleo de Peixe, pesque qualquer peixe e processe-o com Hai-Luk em Cetus.\n- Warframes/mods ideais: Ivara (para invisibilidade).\n- Quantidade por tempo estimada: Depende da quantidade de peixes processados.\n- Ciclo ideal: Não aplica diretamente às escamas, mas ao spawn dos peixes.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Parte biológica de peixe usada em construções Ostron e para criar iscas e óleos."
   },
   "forma": {
     "nome": "Forma",
-    "melhor_local": "Fendas Void – Relíquias douradas (Lith/Meso/Neo) ou Nightwave",
-    "detalhes": "Forma pode ser obtida de quase todas as relíquias com chance de 12–18%, ou como recompensa semanal de Nightwave"
+    "melhor_local": "Fendas Void – Relíquias douradas (Lith/Meso/Neo/Axi) ou Nightwave (recompensa semanal)",
+    "detalhes": "- Missão alternativa: Tesouros de Mod (Ex: Orokin Derelict/Sanctuary Onslaught), Bounties (raro), Pacotes de Platinum.\n- Recomendações táticas: Abrir relíquias é o método mais comum e eficiente. Foque em Fendas do Void que oferecem as relíquias que você tem em abundância. Participe de eventos Nightwave para as recompensas semanais.\n- Warframes/mods ideais: Qualquer Warframe para Fendas do Void. Loki/Limbo/Limbo (para quebrar contêineres e speedrun).\n- Quantidade por tempo estimada: ~variável (depende da sorte nas relíquias).\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Forma pode ser obtida de quase todas as relíquias com chance de 12–18%, ou como recompensa semanal de Nightwave; usada para polarizar slots de mods em equipamentos."
   },
   "gálio": {
     "nome": "Gálio",
-    "melhor_local": "Marte – Spear (Captura)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Marte – Spear (Captura) ou Vênus – Kiliken (Mineração)",
+    "detalhes": "- Missão alternativa: Júpiter – Themisto (Extração), Ceres – Kiste (Extração).\n- Recomendações táticas: Em Captura, termine a missão o mais rápido possível. Em mineração, use um laser e procure por veias de minério. Warframes de loot aumentam a chance de drop de inimigos.\n- Warframes/mods ideais: Volt (para velocidade em captura), Nekros (para drops extras).\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos Grineer e Corpus."
   },
   "ganglion": {
     "nome": "Ganglion",
-    "melhor_local": "Lua – Missões contra Corrupted (Ex: Tycho, Espionagem)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Lua – Missões contra Corrupted (Ex: Tycho, Espionagem ou Pago, Extermínio)",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo da Lua.\n- Recomendações táticas: Derrote inimigos Corrupted na Lua. Missões de Extermínio ou Sobrevivência com bom spawn de inimigos são ideais. Warframes de loot aumentam as chances.\n- Warframes/mods ideais: Nekros (Desecrate), Khora (Pilfering Strangledome).\n- Quantidade por tempo estimada: ~variável (pode ser raro).\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso orgânico raro utilizado na fabricação e aprimoramento de equipamentos Orokin, encontrado nos restos de entidades Corrompidas na Lua."
   },
   "goblite_tears": {
-    "nome": "Goblite Tears",
-    "melhor_local": "Orb Vallis – Mineração em cavernas/montanhas",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "nome": "Lágrimas de Goblite",
+    "melhor_local": "Orb Vallis – Mineração em cavernas/montanhas (veias de gemas)",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo da mineração.\n- Recomendações táticas: Use o minérios Laser de Mineração 'Nosam Cutter' para minerar veias de gemas (brilhantes) em Orb Vallis, especialmente em cavernas e áreas montanhosas. É um recurso raro.\n- Warframes/mods ideais: Volt (mobilidade).\n- Quantidade por tempo estimada: ~variável (raro).\n- Ciclo ideal: Não aplica à mineração.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos de Fortuna, cristalizado a partir de minerais raros."
   },
   "goopolla_spleen": {
-    "nome": "Goopolla Spleen",
-    "melhor_local": "Cetus – Pescando Goopolla (margens de água, dia)",
-    "detalhes": "Órgão retirado de peixes para refino biológico."
+    "nome": "Baço de Goopolla",
+    "melhor_local": "Cetus – Processando Goopolla (pescado nas margens de água durante o dia)",
+    "detalhes": "- Missão alternativa: N/A. Depende da pesca e processamento.\n- Recomendações táticas: Use a lança de pesca 'Lanzo' ou 'Tulok'. Pesque Goopollas em águas rasas ou nas margens dos rios e lagos nas Planícies de Eidolon durante o DIA. Processe os peixes com Hai-Luk em Cetus.\n- Warframes/mods ideais: Ivara (para invisibilidade).\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: **DIA de Eidolon** (crucial para o spawn de Goopolla).\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Órgão retirado de peixes (Goopolla) para refino biológico e uso em construções Ostron."
   },
   "gorgaricus_spore": {
-    "nome": "Gorgaricus Spore",
-    "melhor_local": "Deimos – Colheita perto de árvores infestadas",
-    "detalhes": "Esporos orgânicos colhidos de seres infestados."
+    "nome": "Esporo de Gorgaricus",
+    "melhor_local": "Deimos – Colheita de plantas brilhantes (fungos) perto de árvores infestadas ou cavernas",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo da coleta de plantas.\n- Recomendações táticas: Procure por esporos brilhantes no chão e nas paredes em áreas infestadas de Deimos. Podem ser coletados com um scaner ou interagindo diretamente.\n- Warframes/mods ideais: N/A (foco na exploração).\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: Não aplica à coleta de esporos, mas o ambiente de Deimos é sempre Infestado.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Esporos orgânicos colhidos de seres infestados em Deimos, usados para pesquisa biológica e fabricação de itens Entrati."
   },
   "grokdrul": {
     "nome": "Grokdrul",
-    "melhor_local": "Plains of Eidolon – bounties Grineer (nível baixo, frequente em recompensas)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Planícies de Eidolon – Bounties Grineer (nível baixo, frequente em recompensas) ou contêineres/inimigos Grineer",
+    "detalhes": "- Missão alternativa: Qualquer missão Grineer nas Planícies de Eidolon. Quebrar contêineres e caixas.\n- Recomendações táticas: Complete bounties de baixo nível de Konzu. Derrote inimigos Grineer e quebre todos os contêineres. Warframes de loot são úteis.\n- Warframes/mods ideais: Nekros (Desecrate), Khora (Pilfering Strangledome).\n- Quantidade por tempo estimada: ~variável (bom rendimento com frames de loot).\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso bruto Grineer, comum nas Planícies de Eidolon, utilizado para a fabricação de armas e equipamentos Grineer."
   },
   "gyromag_sistemas": {
     "nome": "Gyromag Sistemas",
-    "melhor_local": "Orb Vallis – Bounties de Eudico (Tier 2+)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Orb Vallis – Bounties de Eudico (Tier 2+, recompensas em rotação)",
+    "detalhes": "- Missão alternativa: Inimigos específicos em Orb Vallis (chance de drop de Gyromags).\n- Recomendações táticas: Verifique as recompensas das Bounties da Eudico em Fortuna. É um recurso de nível intermediário a alto. Concentre-se em concluir as bounties de forma eficiente.\n- Warframes/mods ideais: Mesa, Saryn, Rhino.\n- Quantidade por tempo estimada: ~variável (depende da sorte na bounty).\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos de Fortuna, contendo tecnologia de levitação Corpus."
   },
   "heart_noctrul": {
-    "nome": "Heart Noctrul",
-    "melhor_local": "Planícies de Eidolon – Mineração (noite)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "nome": "Coração Noctrul",
+    "melhor_local": "Planícies de Eidolon – Mineração (veias de gemas, durante a noite)",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo da mineração noturna.\n- Recomendações táticas: Use o Laser de Mineração 'Nosam Cutter'. Procure por veias de gemas (brilhantes) nas Planícies de Eidolon durante a NOITE. As veias vermelhas têm mais chances de dar gemas raras.\n- Warframes/mods ideais: Volt, Itzal, Titania (para mobilidade).\n- Quantidade por tempo estimada: ~variável (raro).\n- Ciclo ideal: **NOITE de Eidolon** (obrigatório para o spawn de Noctrul).\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos Ostron, encontrado em depósitos de minério energizados durante a noite de Eidolon."
   },
   "hespazym_liga": {
     "nome": "Hespazym Liga",
-    "melhor_local": "Deimos – Mineração subterrânea (Cambion Drift)",
-    "detalhes": "Liga metálica refinada usada na construção de equipamentos avançados."
+    "melhor_local": "Deimos – Mineração subterrânea (Cambion Drift, veias azuis e vermelhas)",
+    "detalhes": "- Missão alternativa: Bounties da Mãe (recompensa rara).\n- Recomendações táticas: Use o Laser de Mineração 'Nosam Cutter'. É um recurso comum da mineração em Deimos, encontrado em veias azuis e vermelhas, especialmente em cavernas e passagens subterrâneas.\n- Warframes/mods ideais: Volt, Itzal, Titania (para mineração).\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Liga metálica refinada usada na construção de equipamentos avançados e na pesquisa Entrati."
   },
   "hexenon": {
     "nome": "Hexenon",
-    "melhor_local": "Júpiter – Ganimedes (Defesa)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Júpiter – Ganimedes (Defesa) ou Io (Defesa)",
+    "detalhes": "- Missão alternativa: Qualquer missão em Júpiter ou missões de Invasão contra Corpus.\n- Recomendações táticas: Fique por 15-20 minutos em Sobrevivência ou 15-20 ondas em Defesa em Júpiter. Warframes de loot são altamente recomendados para maximizar a coleta.\n- Warframes/mods ideais: Nekros (Desecrate), Khora (Pilfering Strangledome), Hydroid Prime (Pilfering Swarm), Saryn (Miasma).\n- Quantidade por tempo estimada: ~200-400 por run de 20 minutos (com booster e loot frame).\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos Corpus, com uma forte assinatura elétrica."
   },
   "höllvanian_pitchweave_fragment": {
-    "nome": "HöLlvanian Pitchweave Fragment",
-    "melhor_local": "Duviri – Encontros aleatórios / Circuito",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "nome": "Fragmento Pitchweave Höllvaniano",
+    "melhor_local": "Duviri – Encontros aleatórios / Circuito (recompensa ou drop de inimigos)",
+    "detalhes": "- Missão alternativa: Trocas com Acrítis no Acampamento dos Cavalarianos.\n- Recomendações táticas: Complete objetivos e derrote inimigos em Duviri e no Circuito. É um recurso de nível intermediário que pode ser obtido como recompensa de missão ou drop raro.\n- Warframes/mods ideais: Warframes de dano/suporte para completar objetivos.\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos de Duviri, conhecido por sua resistência e flexibilidade."
   },
   "intact_sentient_núcleo": {
-    "nome": "Intact Sentient Núcleo",
-    "melhor_local": "Veil Proxima – Anomalias Sentient / Eidolons (noite em Cetus)",
-    "detalhes": "Parte energética central de criaturas ou equipamentos."
+    "nome": "Núcleo Sentient Intacto",
+    "melhor_local": "Veil Proxima – Anomalias Sentient / Eidolons (noite em Cetus) / Lua (missões de Survival ou Extermínio contra Sentients)",
+    "detalhes": "- Missão alternativa: Derrotar Conculysts e Battalysts nas Anomalias Sentient do Railjack ou Eidolons nas Planícies de Eidolon. Também pode ser comprado na loja de Little Duck (Fortuna) com Toroides.\n- Recomendações táticas: Concentre-se em missões onde há Sentients. Em Eidolon, caçar o Teralyst é a forma mais básica de obter. Em Railjack, as anomalias são ótimas.\n- Warframes/mods ideais: Volt, Harrow, Trinity, Oberon, Mesa (para caçar Eidolons ou limpar Sentients).\n- Quantidade por tempo estimada: ~variável (depende do método).\n- Ciclo ideal: Para Eidolons, é NOITE. A anomalia tem seu próprio timer.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Parte energética central de criaturas ou equipamentos Sentient, usada para trocas com Little Duck em Fortuna e para fabricar Amps."
   },
   "iradita": {
     "nome": "Iradita",
-    "melhor_local": "Plains of Eidolon – mineração nas veias vermelhas + recompensas de bounties",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Planícies de Eidolon – Mineração nas veias vermelhas (gemas) + recompensas de bounties de Konzu",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo das Planícies de Eidolon.\n- Recomendações táticas: Use o Laser de Mineração 'Nosam Cutter'. Priorize veias vermelhas (gemas) que aparecem em rochas. Bounties de alto nível da Konzu também oferecem Iradita como recompensa. Minere durante o dia para evitar Sentients.\n- Warframes/mods ideais: Volt, Itzal, Titania (para mineração).\n- Quantidade por tempo estimada: ~variável (raro na mineração, bom em bounties).\n- Ciclo ideal: Não aplica à mineração, mas o dia/noite afeta inimigos.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos Ostron, encontrado em formações rochosas energizadas nas Planícies de Eidolon."
   },
   "isos": {
     "nome": "Isos",
-    "melhor_local": "Railjack – Missões em Plutão, Saturno ou Veil Proxima",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Railjack – Missões em Plutão, Saturno ou Veil Proxima (derrotando inimigos e quebrando contêineres)",
+    "detalhes": "- Missão alternativa: Recompensas de Railjack Bounties.\n- Recomendações táticas: Participe de missões de Railjack e derrote Crewships e caças inimigas. Quebre contêineres e módulos dentro das naves. É um recurso comum de Railjack.\n- Warframes/mods ideais: Qualquer Warframe com bom dano em área para limpar inimigos.\n- Quantidade por tempo estimada: ~bom rendimento em missões de longa duração.\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos de Railjack, essencial para manutenção e upgrades da nave."
   },
   "javlok_capacitor": {
-    "nome": "Javlok Capacitor",
-    "melhor_local": "Dojo – Laboratório de Energia",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "nome": "Capacitor Javlok",
+    "melhor_local": "Dojo – Laboratório de Energia (construção)",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo da construção do Dojo ou de eventos especiais/alertas (raramente).\n- Recomendações táticas: Construa no Laboratório de Energia do Dojo. Certifique-se de que seu clã tenha as pesquisas concluídas. Os custos de recursos para construção podem ser altos.\n- Warframes/mods ideais: N/A (depende da construção).\n- Quantidade por tempo estimada: N/A (construído, não farmado).\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos, um componente específico da arma Javlok."
   },
   "khut-khut_venom_sac": {
-    "nome": "Khut-Khut Venom Sac",
-    "melhor_local": "Deimos – Pescando Khut-Khut (cavernas)",
-    "detalhes": "Bolsa orgânica contendo enzimas ou toxinas."
+    "nome": "Saco de Veneno Khut-Khut",
+    "melhor_local": "Deimos – Processando Khut-Khut (pescado em cavernas infestadas)",
+    "detalhes": "- Missão alternativa: N/A. Depende da pesca e processamento.\n- Recomendações táticas: Use a lança de pesca 'Seramod' ou 'Spari'. Pesque Khut-Khut em cavernas ou túneis subterrâneos no Cambion Drift usando iscas específicas para peixes infestados. Processe na Necralisk.\n- Warframes/mods ideais: Ivara (para invisibilidade).\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: O ciclo de Deimos (Fass/Vome) pode afetar o spawn de Khut-Khut, então verifique.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Bolsa orgânica contendo enzimas ou toxinas, extraída do peixe Khut-Khut, usada em pesquisas Entrati e na fabricação de itens Infestados."
   },
   "kovnik": {
     "nome": "Kovnik",
-    "melhor_local": "Duviri – Encontros Aleatórios / Circuito",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Duviri – Encontros Aleatórios / Circuito (drop de inimigos ou recompensa)",
+    "detalhes": "- Missão alternativa: Trocas com Acrítis.\n- Recomendações táticas: Derrote inimigos em Duviri ou complete os desafios do Circuito. É um recurso comum a ser encontrado em Duviri.\n- Warframes/mods ideais: Qualquer Warframe com bom desempenho em combate.\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos de Duviri, representando a matéria-prima do reino do Paradox."
   },
   "kriller_thermal_laser": {
-    "nome": "Kriller Thermal Laser",
-    "melhor_local": "Orb Vallis – Pescando Kriller (águas frias, noite)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "nome": "Laser Térmico Kriller",
+    "melhor_local": "Orb Vallis – Processando Kriller (pescado em águas frias durante a noite)",
+    "detalhes": "- Missão alternativa: N/A. Depende da pesca e processamento.\n- Recomendações táticas: Use a lança de pesca 'Shockprod' ou 'Stunna'. Pesque Kriller em águas congeladas de Orb Vallis durante a NOITE. Use isca 'Coolant Bait'. Processe o peixe para obter o recurso.\n- Warframes/mods ideais: N/A (foco na pesca e clima).\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: **NOITE em Orb Vallis** (crucial para o spawn de Kriller).\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos de Fortuna, derivado do peixe Kriller."
   },
   "kuaka_spinal_claw": {
-    "nome": "Kuaka Spinal Claw",
-    "melhor_local": "Planícies de Eidolon – Caçando Kuakas (durante o dia)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "nome": "Garra Espinhal de Kuaka",
+    "melhor_local": "Planícies de Eidolon – Caçando Kuakas (pequenos mamíferos, durante o dia)",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo da caça.\n- Recomendações táticas: Use a arma tranquilizante do Sonar de Presas para caçar Kuakas, ou simplesmente mate-os (a taxa de drop é melhor com o tranquilizante, mas matando também dropa). Podem ser encontrados em áreas de grama. Use o modo 'Perception' do scanner.\n- Warframes/mods ideais: Ivara (para caça furtiva e tranquilizante), Equinox (Maim para limpar área).\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: **DIA de Eidolon** (Kuakas são mais comuns de dia).\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos Ostron, obtido de criaturas semelhantes a texugos nas Planícies de Eidolon."
   },
   "kuva": {
     "nome": "Kuva",
-    "melhor_local": "Fortaleza Kuva – Inundação Kuva",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Fortaleza Kuva – Inundação Kuva (missões de Extermínio/Sobrevivência/Captura/Defesa), Sifões Kuva",
+    "detalhes": "- Missão alternativa: Kuva Survival (Sobrevivência Kuva, rotação a cada 2h30m), recompensas de Steel Path.\n- Recomendações táticas: Inundações Kuva garantem 1206 Kuva por missão. Sifões Kuva dão menos, mas são mais frequentes. Use um Warframe com dano em área e eficiência de habilidade. Tenha um Booster de Recursos ativo.\n- Warframes/mods ideais: Nezha (Warding Halo/Fire Walker), Limbo (Cataclysm), Saryn (Miasma).\n- Quantidade por tempo estimada: ~1.2k por Inundação. Em Kuva Survival, cerca de 600-1000 por 5 minutos (com booster).\n- Ciclo ideal: As Inundações e Sifões Kuva têm sua própria rotação diária/horária.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos, comumente usado para rolar atributos de Riven Mods e construir itens Kuva."
   },
   "lamentus": {
     "nome": "Lamentus",
-    "melhor_local": "Duviri – Recompensas da Aventura / Circuito",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Duviri – Recompensas da Aventura 'O Paradoxo Duviri' / Circuito (recompensa de objetivos)",
+    "detalhes": "- Missão alternativa: Trocas com Acrítis.\n- Recomendações táticas: É uma recompensa de conclusão de missões e objetivos em Duviri. Priorize completar a história e os desafios do Circuito.\n- Warframes/mods ideais: Qualquer Warframe com bom desempenho em combate.\n- Quantidade por tempo estimada: Garantido em certas etapas da aventura, variável no Circuito.\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos de Duviri, associado à emoção da tristeza no ciclo de Duviri."
   },
   "longwinder_lathe_coagulant": {
-    "nome": "Longwinder Lathe Coagulant",
-    "melhor_local": "Orb Vallis – Pescando Longwinder (rios rápidos, dia)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "nome": "Coagulante Torno Longwinder",
+    "melhor_local": "Orb Vallis – Processando Longwinder (pescado em rios rápidos durante o dia)",
+    "detalhes": "- Missão alternativa: N/A. Depende da pesca e processamento.\n- Recomendações táticas: Use a lança de pesca 'Shockprod' ou 'Stunna'. Pesque Longwinder em rios de fluxo rápido em Orb Vallis durante o DIA. Use isca 'Servofish Bait'. Processe o peixe para obter o recurso.\n- Warframes/mods ideais: N/A (foco na pesca e clima).\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: **DIA em Orb Vallis** (crucial para o spawn de Longwinder).\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos de Fortuna, derivado do peixe Longwinder."
   },
   "lua_thrax_plasm": {
-    "nome": "Lua Thrax Plasm",
-    "melhor_local": "Lua – Missões com Thrax Centurions",
-    "detalhes": "Plasma energético concentrado."
+    "nome": "Plasma Thrax da Lua",
+    "melhor_local": "Lua – Derrotando Thrax Centurions em missões de Sobrevivência/Extermínio/Defesa (Ex: Circuito Void no Conjunction Survival)",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo de Thrax Centurions.\n- Recomendações táticas: Procure missões na Lua onde Thrax Centurions aparecem (geralmente depois de certo tempo em Sobrevivência, ou em objetivos específicos). Eles são resistentes a dano normal, então use sua Operador/Drifter e Amp para derrubar seus escudos.\n- Warframes/mods ideais: Limbo (Stasis), Nova (Molecular Prime), Volt (Escudo para Amp), Warframes com bom dano de habilidade.\n- Quantidade por tempo estimada: ~variável (depende do spawn de Thrax).\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Plasma energético concentrado, extraído de Thrax Centurions na Lua, usado em construções de armas e arcanes relacionados ao Tau System."
   },
   "mandachord": {
     "nome": "Mandachord",
-    "melhor_local": "Missão de Quest Octavia’s Anthem",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Missão de Quest Octavia’s Anthem (recompensa única)",
+    "detalhes": "- Missão alternativa: N/A. É um item de quest único.\n- Recomendações táticas: Complete a quest 'Octavia's Anthem'. Não pode ser farmado repetidamente.\n- Warframes/mods ideais: N/A.\n- Quantidade por tempo estimada: 1 por conta.\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Um instrumento musical e dispositivo de modulação de som, essencial para a construção da Warframe Octavia."
   },
   "maprico": {
     "nome": "Maprico",
-    "melhor_local": "Planícies de Eidolon – Coletado de arbustos laranja",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Planícies de Eidolon – Coletado de arbustos laranja (durante o dia)",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo da coleta de plantas.\n- Recomendações táticas: Procure por arbustos com frutas laranjas em áreas abertas das Planícies de Eidolon durante o DIA. Podem ser coletados manualmente ou com habilidades de área (Ex: Equinox Day Form, Titania).\n- Warframes/mods ideais: Equinox (Maim), Titania (Razorwing Blitz).\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: **DIA de Eidolon** (mais comum de dia).\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso orgânico raro utilizado na fabricação e aprimoramento de equipamentos Ostron, encontrado em formações vegetais nas Planícies de Eidolon."
   },
   "marquise_thyst": {
     "nome": "Marquise Thyst",
-    "melhor_local": "Cetus – Lapidação de Thyst minerado nas Planícies de Eidolon",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Cetus – Lapidação de Thyst minerado nas Planícies de Eidolon (veias vermelhas, noite)",
+    "detalhes": "- Missão alternativa: N/A. Depende da mineração e lapidação.\n- Recomendações táticas: Minere veias vermelhas (gemas raras) nas Planícies de Eidolon durante a NOITE usando o Laser de Mineração 'Nosam Cutter'. Leve o Thyst bruto para Old Man Suumbaat em Cetus para lapidar.\n- Warframes/mods ideais: Volt, Itzal, Titania (para mineração).\n- Quantidade por tempo estimada: ~variável (raro).\n- Ciclo ideal: **NOITE de Eidolon** (para mineração do Thyst bruto).\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos Ostron, uma gema refinada de alta qualidade."
   },
   "marquise_veridos": {
     "nome": "Marquise Veridos",
-    "melhor_local": "Cetus – Lapidação de Veridos minerado nas Planícies de Eidolon",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "melhor_local": "Cetus – Lapidação de Veridos minerado nas Planícies de Eidolon (veias vermelhas, dia)",
+    "detalhes": "- Missão alternativa: N/A. Depende da mineração e lapidação.\n- Recomendações táticas: Minere veias vermelhas (gemas raras) nas Planícies de Eidolon durante o DIA usando o Laser de Mineração 'Nosam Cutter'. Leve o Veridos bruto para Old Man Suumbaat em Cetus para lapidar.\n- Warframes/mods ideais: Volt, Itzal, Titania (para mineração).\n- Quantidade por tempo estimada: ~variável (raro).\n- Ciclo ideal: **DIA de Eidolon** (para mineração do Veridos bruto).\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos Ostron, uma gema refinada de alta qualidade."
   },
   "maw_fang": {
-    "nome": "Maw Fang",
-    "melhor_local": "Duviri – Jogo do Maw / Mini-jogos",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "nome": "Presa de Maw",
+    "melhor_local": "Duviri – Jogo do Maw / Mini-jogos (recompensa de pesca com o Kaithe)",
+    "detalhes": "- Missão alternativa: N/A. Exclusivo dos mini-jogos.\n- Recomendações táticas: Participe do "Jogo do Maw" em Duviri. O sucesso no mini-jogo garante o recurso. É um recurso de nível intermediário a alto.\n- Warframes/mods ideais: N/A (depende da habilidade no mini-jogo).\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos de Duviri, obtido de criaturas aquáticas ou do "Maw" ancestral."
   },
   "mawfish_bones": {
-    "nome": "Mawfish Bones",
-    "melhor_local": "Cetus – Pescando Mawfish (comum, durante o dia)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "nome": "Ossos de Mawfish",
+    "melhor_local": "Cetus – Processando Mawfish (pescado em rios e lagos, comum durante o dia)",
+    "detalhes": "- Missão alternativa: N/A. Depende da pesca e processamento.\n- Recomendações táticas: Pesque Mawfish em qualquer corpo d'água nas Planícies de Eidolon durante o DIA (comum). Use qualquer lança e isca básica. Processe o peixe com Hai-Luk em Cetus.\n- Warframes/mods ideais: Ivara (para invisibilidade).\n- Quantidade por tempo estimada: ~bom rendimento.\n- Ciclo ideal: **DIA de Eidolon** (Mawfish é mais comum de dia).\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos Ostron, extraído dos ossos de peixes Mawfish."
   },
   "mirewinder_parallel_biode": {
-    "nome": "Mirewinder Parallel Biode",
-    "melhor_local": "Duviri – Pescando Mirewinder (águas profundas)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "nome": "Biode Paralelo Mirewinder",
+    "melhor_local": "Duviri – Processando Mirewinder (pescado em águas profundas/cavernas)",
+    "detalhes": "- Missão alternativa: N/A. Depende da pesca e processamento.\n- Recomendações táticas: Use a lança de pesca de Duviri e a isca adequada para Mirewinder. Pesque em águas profundas ou áreas cavernosas. Processe o peixe para obter o recurso.\n- Warframes/mods ideais: N/A (foco na pesca).\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: O clima de Duviri pode afetar o spawn de peixes.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos de Duviri, derivado do peixe Mirewinder."
   },
+  {
   "mórficos": {
     "nome": "Mórficos",
     "melhor_local": "Mercúrio – Apollodorus (Sobrevivência)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Sedna – Hydron (Defesa) ou Plutão – Hieracon (Escavação)\n- Recomendações táticas: Use **Nekros** com *Profanação* para chance de drop extra; leve Warframes de controle de grupo ou dano em área para Sobrevivência.\n- Warframes/mods ideais: Nekros (Profanação), Khora (Prisão de Malha), Hydroid (Pilhagem Submersa com Aumento), Pilhador Despojos, Mod de Recurso (Booster de Recurso).\n- Quantidade por tempo estimada: 2-5 por 20 minutos (sem booster), 5-10+ (com booster e equipe focada).\n- Ciclo ideal: Não se aplica (missão de Sobrevivência/Defesa).\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "mortus_horn": {
     "nome": "Mortus Horn",
     "melhor_local": "Cetus – Pescando Mortus Lungfish (lagos, dia)",
-    "detalhes": "Chifre extraído de espécies raras."
+    "detalhes": "- Missão alternativa: N/A\n- Recomendações táticas: Use a **Lança de Pesca Iradonte** para maior eficiência. Foque em lagos menores durante o dia.\n- Warframes/mods ideais: Ivara (para ficar invisível e evitar alarmar os peixes), Titania (para voar e ter melhor visão).\n- Quantidade por tempo estimada: Varia conforme a sorte e uso de isca (Isca de Lungfish).\n- Ciclo ideal: Ciclo de dia em Cetus.\nDescrição real: Chifre extraído de espécies raras."
   },
   "murkray_liver": {
     "nome": "Murkray Liver",
     "melhor_local": "Cetus – Pescando Murkray (oceano, noite)",
-    "detalhes": "Fígado de peixe raro, usado em refinamentos."
+    "detalhes": "- Missão alternativa: N/A\n- Recomendações táticas: Use a **Lança de Pesca Peram** e **Isca de Murkray**. Procure águas mais profundas no oceano durante a noite.\n- Warframes/mods ideais: Ivara (para invisibilidade), Zephyr (para movimentação rápida na área).\n- Quantidade por tempo estimada: Varia bastante, pois Murkrays são raros e exigem isca específica.\n- Ciclo ideal: Ciclo de noite em Cetus.\nDescrição real: Fígado de peixe raro, usado em refinamentos."
   },
   "mutagen_mass": {
     "nome": "Massa de Mutagênico",
     "melhor_local": "Dojo – Laboratório Biológico",
-    "detalhes": "Fabricável com Detritos Infestados e Nano Esporos no laboratório da clã"
+    "detalhes": "- Missão alternativa: Recompensas de Bounties em Deimos.\n- Recomendações táticas: Para fabricação no Dojo, garanta que seu clã tenha a pesquisa concluída. Para farmar os componentes (Detritos Infestados e Nano Esporos), vá para Deimos (Sobrevivência) ou Urano (Assur - Nano Esporos).\n- Warframes/mods ideais: Para farm de componentes: Nekros (Profanação), Khora (Prisão de Malha).\n- Quantidade por tempo estimada: Varia conforme a taxa de coleta dos componentes e velocidade de fabricação.\n- Ciclo ideal: Não se aplica diretamente.\nDescrição real: Fabricável com Detritos Infestados e Nano Esporos no laboratório da clã."
   },
   "mytocardia_spore": {
     "nome": "Mytocardia Spore",
     "melhor_local": "Deimos – Pescando Barbisteo / Amniophysi",
-    "detalhes": "Esporos orgânicos colhidos de seres infestados."
+    "detalhes": "- Missão alternativa: N/A\n- Recomendações táticas: Use a **Lança de Pesca de Deimos (Seram ou Ebondril)** e **Isca de Fase ou Isca Moribunda** em águas infestadas. Barbisteo e Amniophysi são peixes encontrados nas cavernas ou águas subterrâneas de Deimos.\n- Warframes/mods ideais: Volt (para velocidade de movimento), Ivara (para furtividade).\n- Quantidade por tempo estimada: Depende da sorte e uso de iscas.\n- Ciclo ideal: Ciclo de Vome ou Fass em Deimos pode influenciar a aparição de peixes específicos.\nDescrição real: Esporos orgânicos colhidos de seres infestados."
   },
   "nacreous_pebble": {
     "nome": "Nacreous Pebble",
     "melhor_local": "Duviri – Coleta no campo / Recompensas",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Ofertas do Teshin no Circuito de Duviri.\n- Recomendações táticas: Explore bem as áreas, procure por pontos brilhantes no chão. Complete os objetivos do Circuito para aumentar suas recompensas.\n- Warframes/mods ideais: Loki (para invisibilidade e exploração), Volt (para velocidade).\n- Quantidade por tempo estimada: Varia, pois a coleta no campo é mais aleatória.\n- Ciclo ideal: Não se aplica, presente em todas as fases do Circuito de Duviri.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "nano_esporos": {
     "nome": "Nano Esporos",
     "melhor_local": "Urano – Assur (Sobrevivência), ótimo com Nekros ou Hydroid",
-    "detalhes": "Muito comum; pode dropar +4.000 em runs de 20min; ótimo para craft massivo"
+    "detalhes": "- Missão alternativa: Netuno – Yursa (Sobrevivência), Saturno – Piscinas de Contágio (Extermínio Infestado).\n- Recomendações táticas: **Nekros** com *Profanação* é essencial para maximizar drops. Use **Khora** com *Prisão de Malha* ou **Hydroid** com *Pilhagem Submersa* (com Aumento) para mais drops.\n- Warframes/mods ideais: Nekros (Profanação), Khora (Prisão de Malha), Hydroid (Pilhagem Submersa com Aumento), Pilhador Despojos, Booster de Recurso.\n- Quantidade por tempo estimada: Estimado entre 5–15 por 20 minutos com booster e equipe. **Muito comum; pode dropar +4.000 em runs de 20min; ótimo para craft massivo.**\n- Ciclo ideal: Não se aplica.\nDescrição real: Muito comum; pode dropar +4.000 em runs de 20min; ótimo para craft massivo."
   },
   "narmer_isoplast": {
     "nome": "Narmer Isoplast",
     "melhor_local": "Narmer – Missões de Resgate em Narmer (próximo a Erra)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Missões de Assalto Narmer (especificamente as de Resgate).\n- Recomendações táticas: Conclua os objetivos rapidamente para maximizar a eficiência. Use Warframes com mobilidade e capacidade de combate contra Sentients.\n- Warframes/mods ideais: Volt (para velocidade), Mesa (para dano), Titania (para mobilidade e dano aos Sentients).\n- Quantidade por tempo estimada: Varia por missão, geralmente 1-2 por run.\n- Ciclo ideal: Não se aplica, recurso de missão específica.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "necracoil": {
     "nome": "Necracoil",
     "melhor_local": "Deimos – Obtido com Necramech (desmantelando partes)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Derrotando Necramechs no Cambion Drift (Orphix Venom eventos).\n- Recomendações táticas: Elimine Necramechs no Cambion Drift para ter chances de drop. Use Necramechs próprios para desmantelar os derrotados.\n- Warframes/mods ideais: Revenant (para anular dano dos Necramechs), Rhino (para buffs de dano).\n- Quantidade por tempo estimada: Varia, pois depende do drop dos Necramechs.\n- Ciclo ideal: Não se aplica diretamente.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "sensores_neurais": {
     "nome": "Sensores Neurais",
     "melhor_local": "Júpiter – Cameria (Sabotagem)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Júpiter – Io (Defesa), Júpiter – Themisto (Extermínio) ou derrotando Prodman.\n- Recomendações táticas: Em Cameria, explore containers e armários. Em Io, o recurso pode dropar de inimigos Corpus. Focar em missões de alto nível em Júpiter.\n- Warframes/mods ideais: Nekros (Profanação), Limbo (para abrir containers), Hydroid (Pilhagem Submersa com Aumento).\n- Quantidade por tempo estimada: Varia bastante, de 1-3 por run em missões curtas, a 5-10+ em defesas prolongadas com booster.\n- Ciclo ideal: Não se aplica.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "neurodios": {
     "nome": "Neuródios",
     "melhor_local": "Lua – Tycho (Espionagem) ou Deimos – Magnacidium (Assassinato)",
-    "detalhes": "Tycho tem boa rotação com chance de 1–2 drops; Magnacidium dá 100% chance no boss"
+    "detalhes": "- Missão alternativa: Lua – Plato (Captura), Terra – Everest (Sobrevivência).\n- Recomendações táticas: **Tycho** (Lua) é uma ótima opção devido à rotação rápida das câmaras de dados e a chance de 1-2 drops. **Magnacidium** (Deimos) garante 100% de chance no boss. Em Plato, explore containers. Em Everest, foque em inimigos infestados.\n- Warframes/mods ideais: Para Espionagem: Loki, Ivara, Wukong. Para Assassinato: Warframes de alto dano. Para Sobrevivência: Nekros.\n- Quantidade por tempo estimada: Tycho: ~1-3 por run; Magnacidium: 1 por run. Varia com boosters.\n- Ciclo ideal: Não se aplica.\nDescrição real: Tycho tem boa rotação com chance de 1–2 drops; Magnacidium dá 100% chance no boss."
   },
   "nistlepod": {
     "nome": "Nistlepod",
     "melhor_local": "Plains of Eidolon – colheita de arbustos perto de água / pontos elevados como Mount Nang",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Recompensas de Bounties de Konzu (níveis mais baixos).\n- Recomendações táticas: Use o **Cutter de Plasma** para colher os arbustos. Procure em áreas com vegetação densa, especialmente perto de rios e lagos. Mount Nang é um bom ponto de coleta.\n- Warframes/mods ideais: Equinox (Mod de Aumento para coleta de plantas), Titania (para voar e alcançar pontos altos).\n- Quantidade por tempo estimada: Varia com a rota de coleta e densidade dos arbustos.\n- Ciclo ideal: Pode ser coletado durante o dia ou a noite.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "extrato_de_nitain": {
     "nome": "Extrato de Nitain",
     "melhor_local": "Nightwave – Ofertas de Créditos",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Alertas Incomuns (raros, mas podem aparecer). Caixa de Lótus (presente de Login diário, chance rara).\n- Recomendações táticas: Mantenha seus Créditos de Nightwave para comprar Nitain das ofertas, é a forma mais consistente.\n- Warframes/mods ideais: N/A\n- Quantidade por tempo estimada: Limitado pelas ofertas da Nightwave (5 por semana/reset).\n- Ciclo ideal: Ciclo de ofertas da Nightwave (semanal).\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "norg_brain": {
     "nome": "Norg Brain",
     "melhor_local": "Cetus – Pescando Norg (águas profundas, noite)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: N/A\n- Recomendações táticas: Use a **Lança de Pesca Peram** e **Isca de Norg**. Procure nas águas mais profundas do oceano durante a noite. Norgs são peixes maiores e mais difíceis de pescar.\n- Warframes/mods ideais: Ivara (para invisibilidade), Zephyr (para mobilidade).\n- Quantidade por tempo estimada: Varia, pois Norgs são raros e exigem isca específica.\n- Ciclo ideal: Ciclo de noite em Cetus.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "nullstones": {
     "nome": "Nullstones",
     "melhor_local": "Duviri – Encontros Aleatórios ou Circuito",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Ofertas do Teshin no Circuito de Duviri.\n- Recomendações táticas: Complete missões e desafios do Circuito. Explore os mapas em Duviri, pois podem ser encontrados como drops ou em pontos de coleta.\n- Warframes/mods ideais: Loki (para exploração), Volt (para velocidade).\n- Quantidade por tempo estimada: Varia por evento e missão.\n- Ciclo ideal: Não se aplica, presente em todas as fases do Circuito de Duviri.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "ocular_stem-root": {
     "nome": "Ocular Stem-Root",
     "melhor_local": "Duviri – Encontrado em pontos de coleta no campo",
-    "detalhes": "Raiz utilizada em infusões e construções naturais."
+    "detalhes": "- Missão alternativa: Recompensas de Encontros de Oportunidade em Duviri.\n- Recomendações táticas: Explore as áreas selvagens de Duviri. Procure por plantas e formações rochosas incomuns. Use o *Scanner de Síntese* para ajudar na localização.\n- Warframes/mods ideais: Equinox (para coleta de plantas), Titania (para mobilidade).\n- Quantidade por tempo estimada: Varia com a exploração e sorte.\n- Ciclo ideal: Pode ser coletado durante o dia ou a noite em Duviri.\nDescrição real: Raiz utilizada em infusões e construções naturais."
   },
   "célula_orokin": {
     "nome": "Célula Orokin",
     "melhor_local": "Saturno – Tethys (Survival com Nekros) ou Telesto (Exterminate + Cell Arrays)",
-    "detalhes": "Tethys: ~6–12 por 20 min; Telesto: 1–3 por run com boosters e coleta de containers"
+    "detalhes": "- Missão alternativa: Ceres – Gabii (Sobrevivência), Derivador do Cambion (Deimos - drops de Containers Orokin).\n- Recomendações táticas: Em Tethys, use **Nekros** com *Profanação* para maximizar drops dos inimigos Grineer. Em Telesto, procure pelos *Cell Arrays* (contêineres de Célula Orokin). Explore contêineres nas missões da Terra e Derivador do Cambion.\n- Warframes/mods ideais: Nekros (Profanação), Hydroid (Pilhagem Submersa com Aumento), Limbo (para abrir containers).\n- Quantidade por tempo estimada: **Tethys: ~6–12 por 20 min; Telesto: 1–3 por run com boosters e coleta de containers.** Estimado entre 5–15 por 20 minutos com booster e equipe.\n- Ciclo ideal: Não se aplica.\nDescrição real: Tethys: ~6–12 por 20 min; Telesto: 1–3 por run com boosters e coleta de containers."
   },
   "orokin_ducats": {
     "nome": "Orokin Ducats",
     "melhor_local": "Relays – Convertendo partes Prime nos Kiosques de Ducats",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: N/A\n- Recomendações táticas: Farmar relíquias do Void para obter partes Prime e vendê-las nos Kiosques de Ducats. Partes Prime comuns valem 15 Ducats, incomuns 25, raras 50 ou 100.\n- Warframes/mods ideais: Warframes eficientes em missões de Relíquias (Extermínio rápido, Captura).\n- Quantidade por tempo estimada: Varia conforme a quantidade e raridade das partes Prime obtidas.\n- Ciclo ideal: Não se aplica.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "oxium": {
     "nome": "Oxium",
     "melhor_local": "Júpiter – IO (Defesa) ou Oxium Ospreys em qualquer missão Corpus",
-    "detalhes": "Melhor usar Warframes com dano em área (Saryn, Mesa) para maximizar drops dos Ospreys"
+    "detalhes": "- Missão alternativa: Netuno – Protractor (Sobrevivência Corpus).\n- Recomendações táticas: Em Io, foque em derrotar os **Oxium Ospreys** que aparecem em grandes quantidades. Use Warframes com dano em área para limpar as ondas rapidamente e destruir os Ospreys antes que se autodestruam.\n- Warframes/mods ideais: Saryn (Miasma), Mesa (Pacificadora), Volt (Descarga), Nezha (Chamas Divinas), Khora (Prisão de Malha), Nekros (Profanação).\n- Quantidade por tempo estimada: Em Io, pode-se obter centenas de Oxium em 20 ondas. Varia com a sorte e o uso de boosters.\n- Ciclo ideal: Não se aplica.\nDescrição real: Melhor usar Warframes com dano em área (Saryn, Mesa) para maximizar drops dos Ospreys."
   },
   "parasitic_tethermaw": {
     "nome": "Parasitic Tethermaw",
     "melhor_local": "Deimos – Pescando Tethermaw (em cavernas, noite)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: N/A\n- Recomendações táticas: Use a **Lança de Pesca Ebondril** ou **Seram** e **Isca de Infecção**. Procure por Tethermaw em cavernas e túneis aquáticos infestados em Deimos, principalmente durante a noite (ciclo Fass).\n- Warframes/mods ideais: Ivara (invisibilidade), Volt (velocidade).\n- Quantidade por tempo estimada: Depende da sorte e uso de iscas.\n- Ciclo ideal: Ciclo de Fass em Deimos (noite).\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "braçadeira_de_pathos": {
     "nome": "Braçadeira de Pathos",
     "melhor_local": "Duviri – Dominus Thrax (Aventura & Circuito)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Ofertas do Teshin (raramente).\n- Recomendações táticas: Derrotar **Dominus Thrax** no final da Aventura de Duviri ou nas rodadas mais altas do Circuito. É um drop garantido.\n- Warframes/mods ideais: Warframes de alto dano ou controle de grupo para o chefe (Excalibur Umbra é forte em Duviri).\n- Quantidade por tempo estimada: 1 por derrota de Dominus Thrax.\n- Ciclo ideal: Não se aplica diretamente, pois depende de completar a aventura ou o circuito.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "plastidios": {
     "nome": "Plastídios",
     "melhor_local": "Urano – Ophelia (Sobrevivência) ou Palus (Espionagem)",
-    "detalhes": "Drops em quantidade moderada; usar Warframe com AOE para limpar hordas"
+    "detalhes": "- Missão alternativa: Éris – Akkad (Defesa), Saturno – Tethys (Sobrevivência).\n- Recomendações táticas: Em Ophelia, o drop rate é bom. Use Warframes de dano em área (**Saryn**, **Mesa**, **Volt**) para limpar hordas rapidamente e **Nekros** para Profanação. Em Palus, explore containers. Akkad é um local clássico para farm de plastídios em massa.\n- Warframes/mods ideais: Nekros (Profanação), Saryn (Miasma), Mesa (Pacificadora), Khora (Prisão de Malha), Hydroid (Pilhagem Submersa com Aumento), Pilhador Despojos.\n- Quantidade por tempo estimada: Drops em quantidade moderada; usar Warframe com AOE para limpar hordas. Centenas a milhares por run dependendo do tempo e uso de boosters.\n- Ciclo ideal: Não se aplica.\nDescrição real: Drops em quantidade moderada; usar Warframe com AOE para limpar hordas."
   },
   "pacote_de_polímeros": {
     "nome": "Pacote de Polímeros",
     "melhor_local": "Urano – Ophelia (Sobrevivência)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Urano – Assur (Sobrevivência), Netuno – Yursa (Sobrevivência).\n- Recomendações táticas: Urano é o melhor local. Combine com Warframes de farm como **Nekros** (Profanação) ou **Khora** (Prisão de Malha) para maximizar a coleta. Fique em uma área com bom spawn de inimigos.\n- Warframes/mods ideais: Nekros (Profanação), Khora (Prisão de Malha), Hydroid (Pilhagem Submersa com Aumento), Pilhador Despojos, Booster de Recurso.\n- Quantidade por tempo estimada: Centenas a milhares por run de 20 minutos com uma equipe e boosters.\n- Ciclo ideal: Não se aplica.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "purified_heciphron": {
     "nome": "Purified Heciphron",
     "melhor_local": "Deimos – Processando Heciphron minerado no Cambion Drift",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: N/A (É um recurso refinado).\n- Recomendações táticas: Minere **Heciphron Bruto** nas veias de minério do Cambion Drift (usando a ferramenta de mineração). Depois, leve o Heciphron Bruto para Otak no Necralisk para refiná-lo em Purified Heciphron.\n- Warframes/mods ideais: Para mineração: Nos Warframes, mods de mobilidade. Para refinamento: N/A.\n- Quantidade por tempo estimada: Depende da quantidade de Heciphron Bruto minerado.\n- Ciclo ideal: O minério aparece em ambos os ciclos (Vome/Fass).\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "pustulite": {
     "nome": "Pustulite",
     "melhor_local": "Deimos – Quebrando colônias infestadas no solo",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Drops de inimigos infestados em Deimos (menos comum).\n- Recomendações táticas: Procure por grandes formações esverdeadas no chão do Cambion Drift e atire nelas para quebrar. Essas colônias são a fonte primária. Use o *Extractor de Árvore* para coletar.\n- Warframes/mods ideais: Qualquer Warframe com dano em área para quebrar rapidamente as colônias. Titania (para mobilidade aérea e encontrar as colônias).\n- Quantidade por tempo estimada: Varia com a exploração e densidade das colônias.\n- Ciclo ideal: Pode ser coletado em ambos os ciclos (Vome/Fass).\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "pyrotic_liga": {
     "nome": "Pyrotic Liga",
     "melhor_local": "Deimos – Mineração em zonas vulcânicas (Cambion Drift)",
-    "detalhes": "Liga metálica refinada usada na construção de equipamentos avançados."
+    "detalhes": "- Missão alternativa: N/A (Recurso de mineração).\n- Recomendações táticas: Use a ferramenta de mineração e procure por veias de minério nas áreas mais quentes e vermelhas do Cambion Drift. A **Ferramenta de Mineração Nosam** é a mais eficiente.\n- Warframes/mods ideais: N/A (o Warframe não afeta a mineração diretamente, mas mobilidade pode ajudar).\n- Quantidade por tempo estimada: Varia com a sorte dos spawns de minério e a eficiência da mineração.\n- Ciclo ideal: O minério aparece em ambos os ciclos (Vome/Fass).\nDescrição real: Liga metálica refinada usada na construção de equipamentos avançados."
   },
   "radian_sentirum": {
     "nome": "Radian Sentirum",
     "melhor_local": "Deimos – Mineração em zonas cristalinas (Cambion Drift)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: N/A (Recurso de mineração).\n- Recomendações táticas: Use a ferramenta de mineração e procure por veias de cristal nas áreas de cavernas e formações rochosas escuras do Cambion Drift. A **Ferramenta de Mineração Nosam** é a mais eficiente.\n- Warframes/mods ideais: N/A.\n- Quantidade por tempo estimada: Varia com a sorte dos spawns de cristal e a eficiência da mineração.\n- Ciclo ideal: O cristal aparece em ambos os ciclos (Vome/Fass).\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "radiant_zodian": {
     "nome": "Radiant Zodian",
     "melhor_local": "Deimos – Mineração em zonas cristalinas (Cambion Drift)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: N/A (Recurso de mineração).\n- Recomendações táticas: Semelhante ao Radian Sentirum, use a ferramenta de mineração e procure por veias de cristal, mas com foco nas rochas de *Zodian*. A **Ferramenta de Mineração Nosam** é a mais eficiente.\n- Warframes/mods ideais: N/A.\n- Quantidade por tempo estimada: Varia com a sorte dos spawns de cristal e a eficiência da mineração.\n- Ciclo ideal: O cristal aparece em ambos os ciclos (Vome/Fass).\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "recaster_neural_relay": {
     "nome": "Recaster Neural Relay",
     "melhor_local": "Duviri – Encontros de Oportunidade ou Circuito",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Recompensas de Encontros de Duviri (menos comum).\n- Recomendações táticas: Participe ativamente dos Encontros Aleatórios e complete os objetivos para maximizar as chances de recompensa. O Circuito é uma fonte mais consistente.\n- Warframes/mods ideais: Qualquer Warframe com boas habilidades de combate e mobilidade.\n- Quantidade por tempo estimada: Varia por encontro e tipo de desafio.\n- Ciclo ideal: Não se aplica, presente em todas as fases do Circuito de Duviri.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "repeller_sistemas": {
     "nome": "Repeller Sistemas",
     "melhor_local": "Orb Vallis – Recompensas de Bounties (Tier 5)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Derrotando *Profit-Taker Orb* (chance rara).\n- Recomendações táticas: Complete as **Bounties de Tier 5** da Eudico no Orb Vallis. Essas bounties são de alto nível e oferecem boas recompensas.\n- Warframes/mods ideais: Warframes de alto dano ou com controle de grupo para as bounties (por exemplo, Mesa, Rhino, Octavia).\n- Quantidade por tempo estimada: Varia, pois é uma recompensa de bounty.\n- Ciclo ideal: Pode ser obtido durante o dia ou a noite no Orb Vallis.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "rubedo": {
     "nome": "Rubedo",
     "melhor_local": "Phobos – Zeugma (Sobrevivência) ou Lua – Plato (Captura)",
-    "detalhes": "Phobos: rotação rápida em sobrevivência; Plato tem bons depósitos extras em exploração"
+    "detalhes": "- Missão alternativa: Sobrevivência ou Defesa em mapas infestados ou Corpus. **Especialmente Terra – Mariana (Extermínio)** para coleta rápida de containers.\n- Recomendações táticas: Em Zeugma, use **Nekros** para *Profanação*. Em Plato, explore bem o mapa para encontrar os depósitos extras. Mariana (Terra) é excelente para corridas rápidas e coleta de Rubedo em containers.\n- Warframes/mods ideais: Nekros (Profanação), Limbo (para abrir containers), Hydroid (Pilhagem Submersa com Aumento).\n- Quantidade por tempo estimada: **Phobos: rotação rápida em sobrevivência; Plato tem bons depósitos extras em exploração.** Centenas a milhares por run dependendo do tempo e uso de boosters.\n- Ciclo ideal: Não se aplica.\nDescrição real: Phobos: rotação rápida em sobrevivência; Plato tem bons depósitos extras em exploração."
   },
   "rune_marrow": {
     "nome": "Rune Marrow",
     "melhor_local": "Duviri – Encontros / Circuito",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Ofertas do Teshin (raramente).\n- Recomendações táticas: Complete missões e desafios em Duviri, especialmente aqueles que envolvem o combate a inimigos ou a exploração de áreas específicas. Recompensa comum do Circuito.\n- Warframes/mods ideais: Qualquer Warframe com boas habilidades de combate e mobilidade.\n- Quantidade por tempo estimada: Varia por encontro e tipo de desafio.\n- Ciclo ideal: Não se aplica, presente em todas as fases do Circuito de Duviri.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "saggen_pérola": {
     "nome": "Saggen Pérola",
     "melhor_local": "Duviri – Coleta no campo em pontos brilhantes",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Recompensas de Encontros de Duviri.\n- Recomendações táticas: Explore o ambiente de Duviri e procure por pequenos pontos brilhantes no chão, especialmente em áreas abertas e perto de formações rochosas. Use o *Scanner de Síntese* para ajudar a visualizá-los.\n- Warframes/mods ideais: Loki (para exploração), Volt (para velocidade).\n- Quantidade por tempo estimada: Varia com a exploração e sorte.\n- Ciclo ideal: Pode ser coletado durante o dia ou a noite em Duviri.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "sucata": {
     "nome": "Sucata",
     "melhor_local": "Marte – Alator (Defesa)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Qualquer missão Grineer (ex: Marte – Ares (Sobrevivência)).\n- Recomendações táticas: Em Alator, concentre-se em derrotar inimigos Grineer. Use Warframes de dano em área para limpar as ondas rapidamente. **Nekros** (Profanação) é altamente recomendado para maximizar os drops.\n- Warframes/mods ideais: Nekros (Profanação), Khora (Prisão de Malha), Hydroid (Pilhagem Submersa com Aumento), Saryn (Miasma).\n- Quantidade por tempo estimada: Centenas a milhares por run de 20 minutos com uma equipe e boosters.\n- Ciclo ideal: Não se aplica.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "sapcaddy_venedo_case": {
     "nome": "Sapcaddy Venedo Case",
     "melhor_local": "Duviri – Pescando Sapcaddy (rios com névoa, noite)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: N/A\n- Recomendações táticas: Use a **Lança de Pesca de Duviri (Tymyr)** e **Isca de Sapcaddy** em rios com névoa ou fumaça, especialmente durante a noite em Duviri. Procure áreas mais calmas.\n- Warframes/mods ideais: Ivara (para invisibilidade), Titania (para mobilidade).\n- Quantidade por tempo estimada: Varia conforme a sorte e uso de iscas.\n- Ciclo ideal: Ciclo de noite em Duviri.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "scintillant": {
     "nome": "Scintillant",
     "melhor_local": "Deimos – Necralisk (flutuando) ou Bounties Tier 4+",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Recompensas de Missões de *Armageddon do Vazio* no Zariman (menos eficiente).\n- Recomendações táticas: Em Deimos, procure por orbes azuis flutuantes que emitem um som característico; atire neles para coletar. É mais consistente obter Scintillant como recompensa das **Bounties de Tier 4 ou 5 da Mãe** no Necralisk.\n- Warframes/mods ideais: Qualquer Warframe com boa capacidade de combate para as bounties. Loki ou Volt para explorar o Cambion Drift em busca dos orbes flutuantes.\n- Quantidade por tempo estimada: Varia por bounty ou pela sorte ao encontrar os orbes flutuantes.\n- Ciclo ideal: O recurso pode ser encontrado em ambos os ciclos (Vome/Fass) em Deimos, e as bounties estão sempre disponíveis.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "scrap": {
     "nome": "Scrap",
     "melhor_local": "Railjack – Drop de inimigos e destroços",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: N/A\n- Recomendações táticas: Complete missões de Railjack e destrua o máximo de naves inimigas e destroços (containers) possível. Quanto mais inimigos você derrotar e objetos destruir, maior a chance.\n- Warframes/mods ideais: Warframes com dano em área ou habilidades de limpar áreas rapidamente (ex: Ember, Saryn) ou com boas habilidades de piloto/artilheiro no Railjack.\n- Quantidade por tempo estimada: Varia com a duração e o tipo de missão Railjack.\n- Ciclo ideal: Não se aplica.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "scrubber_exa_brain": {
     "nome": "Scrubber Exa Brain",
     "melhor_local": "Duviri – Pescando Scrubber (águas profundas, dia)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: N/A\n- Recomendações táticas: Use a **Lança de Pesca de Duviri (Tymyr)** e **Isca de Scrubber** em águas profundas e cristalinas de Duviri, especialmente durante o dia. Procure em lagos maiores.\n- Warframes/mods ideais: Ivara (para invisibilidade), Titania (para mobilidade aérea e encontrar pontos de pesca).\n- Quantidade por tempo estimada: Varia conforme a sorte e uso de iscas.\n- Ciclo ideal: Ciclo de dia em Duviri.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "seram_beetle_shell": {
     "nome": "Seram Beetle Shell",
     "melhor_local": "Duviri – Derrotando beetles ou coleta no campo",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Recompensas de Encontros de Oportunidade em Duviri.\n- Recomendações táticas: Inimigos tipo 'beetle' (besouros) podem dropar este recurso. Procure também por pontos de coleta brilhantes no solo em áreas mais rochosas de Duviri.\n- Warframes/mods ideais: Qualquer Warframe com boas habilidades de dano em área.\n- Quantidade por tempo estimada: Varia, pois o drop de inimigos e a coleta são aleatórios.\n- Ciclo ideal: Pode ser encontrado durante o dia ou a noite em Duviri.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "seriglass_fragmento": {
     "nome": "Seriglass Fragmento",
     "melhor_local": "Deimos – Bounties Tier 5 ou ofertas Nightwave",
-    "detalhes": "Fragmento de material raro usado em tecnologia avançada."
+    "detalhes": "- Missão alternativa: Containers do Void no Zariman (chance rara).\n- Recomendações táticas: Complete as **Bounties de Tier 5 da Mãe** no Necralisk em Deimos, pois é uma recompensa comum. Fique atento às ofertas de créditos da **Nightwave**.\n- Warframes/mods ideais: Qualquer Warframe com boas habilidades para completar as bounties rapidamente.\n- Quantidade por tempo estimada: Varia por bounty ou pelas ofertas da Nightwave.\n- Ciclo ideal: Bounties estão sempre disponíveis. Ofertas da Nightwave seguem um ciclo semanal.\nDescrição real: Fragmento de material raro usado em tecnologia avançada."
   },
   "shrill_voca": {
     "nome": "Shrill Voca",
     "melhor_local": "Duviri – Encontros Aleatórios / Recompensas do Circuito",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Troca com o Yuvan nas Montanhas de Duviri (limitado).\n- Recomendações táticas: Complete os Encontros Aleatórios e os objetivos do Circuito de Duviri. Preste atenção aos Void Rifts que podem aparecer e recompense com Vocas.\n- Warframes/mods ideais: Qualquer Warframe com boas habilidades para completar as missões.\n- Quantidade por tempo estimada: Varia por encontro e rodada do Circuito.\n- Ciclo ideal: Não se aplica, presente em todas as fases do Circuito de Duviri.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "silphsela": {
     "nome": "Silphsela",
     "melhor_local": "Duviri – Coletado em árvores luminosas em Encontros",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Recompensas de Encontros de Oportunidade em Duviri.\n- Recomendações táticas: Procure por árvores que emitem um brilho sutil em Duviri. Elas são mais visíveis em áreas mais escuras ou durante a noite. Interaja com elas para coletar.\n- Warframes/mods ideais: Titania (para mobilidade aérea e alcance de árvores mais altas), Equinox (para coleta de plantas).\n- Quantidade por tempo estimada: Varia com a exploração e sorte ao encontrar as árvores.\n- Ciclo ideal: Pode ser coletado durante o dia ou a noite em Duviri.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "smooth_phasmin": {
     "nome": "Smooth Phasmin",
     "melhor_local": "Deimos – Mineração em zonas lisas e minerais roxos",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: N/A (Recurso de mineração).\n- Recomendações táticas: Use a ferramenta de mineração e procure por veias de minério em superfícies lisas e áreas com formações roxas no Cambion Drift. A **Ferramenta de Mineração Nosam** é a mais eficiente.\n- Warframes/mods ideais: N/A.\n- Quantidade por tempo estimada: Varia com a sorte dos spawns de minério e a eficiência da mineração.\n- Ciclo ideal: O minério aparece em ambos os ciclos (Vome/Fass).\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "toroide_sola": {
     "nome": "Toroide Sola",
     "melhor_local": "Orb Vallis – Templo do Lucro",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Drop de inimigos **Coolant Raknoids** e **Moi** nas proximidades do Templo do Lucro.\n- Recomendações táticas: Derrote inimigos nas áreas ao redor do Templo do Lucro no Orb Vallis. Pode ser um farm demorado, mas é a fonte principal. Use uma equipe para aumentar a eficiência.\n- Warframes/mods ideais: Khora (Prisão de Malha), Nekros (Profanação), Hydroid (Pilhagem Submersa com Aumento) para aumentar a chance de drops.\n- Quantidade por tempo estimada: Varia, depende da sorte e da velocidade de abate dos inimigos.\n- Ciclo ideal: Pode ser farmado durante o dia ou a noite no Orb Vallis.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "spectral_debris": {
     "nome": "Spectral Debris",
     "melhor_local": "Railjack – Missões de defesa em Derelict",
-    "detalhes": "Detritos tecnológicos recuperados de batalhas."
+    "detalhes": "- Missão alternativa: Derrotando inimigos ou destruindo objetos em missões de Railjack.\n- Recomendações táticas: Em missões de Defesa Railjack em Derelict, muitos inimigos e destroços aparecem, aumentando a chance de drop. Priorize missões de maior dificuldade.\n- Warframes/mods ideais: Warframes com dano em área ou habilidades de limpar áreas rapidamente no Railjack.\n- Quantidade por tempo estimada: Varia com a duração e o tipo de missão Railjack.\n- Ciclo ideal: Não se aplica.\nDescrição real: Detritos tecnológicos recuperados de batalhas."
   },
   "spinal_núcleo_section": {
     "nome": "Spinal Núcleo Section",
     "melhor_local": "Deimos – Pescando Barbisteo ou Vomefish",
-    "detalhes": "Parte energética central de criaturas ou equipamentos."
+    "detalhes": "- Missão alternativa: N/A\n- Recomendações táticas: Use a **Lança de Pesca Ebondril** ou **Seram** e **Isca Moribunda** ou **Isca de Vome** para pescar Barbisteo (cavernas) ou Vomefish (rios infestados). O Vomefish é encontrado durante o ciclo de Vome, e o Barbisteo durante o ciclo de Fass.\n- Warframes/mods ideais: Ivara (invisibilidade), Volt (velocidade).\n- Quantidade por tempo estimada: Varia conforme a sorte e uso de iscas.\n- Ciclo ideal: Ciclo de Vome ou Fass em Deimos, dependendo do peixe alvo.\nDescrição real: Parte energética central de criaturas ou equipamentos."
   },
   "sporulate_sac": {
     "nome": "Sporulate Sac",
     "melhor_local": "Deimos – Processando peixe Aquapulmo / Barbisteo",
-    "detalhes": "Bolsa orgânica contendo enzimas ou toxinas."
+    "detalhes": "- Missão alternativa: N/A (É um recurso refinado).\n- Recomendações táticas: Pesque **Aquapulmo** (rios subterrâneos, ciclo Fass) ou **Barbisteo** (cavernas, ciclo Fass) em Deimos. Leve-os para Otak no Necralisk para processar e obter Sporulate Sac.\n- Warframes/mods ideais: Para pesca: Ivara, Volt. Para processamento: N/A.\n- Quantidade por tempo estimada: Depende da quantidade de peixe pescado e processado.\n- Ciclo ideal: Ciclo de Fass em Deimos.\nDescrição real: Bolsa orgânica contendo enzimas ou toxinas."
   },
   "star_amarast": {
     "nome": "Star Amarast",
     "melhor_local": "Cetus – Mineração nas Planícies de Eidolon (rochas vermelhas)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: N/A (Recurso de mineração).\n- Recomendações táticas: Use a **Ferramenta de Mineração Nosam** e procure por veias de minério vermelhas nas Planícies de Eidolon. As rochas vermelhas são mais raras e exigem precisão para maximizar o rendimento.\n- Warframes/mods ideais: N/A (o Warframe não afeta a mineração diretamente, mas mobilidade pode ajudar).\n- Quantidade por tempo estimada: Varia com a sorte dos spawns de minério e a eficiência da mineração.\n- Ciclo ideal: Pode ser minerado durante o dia ou a noite.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "star_crimzian": {
     "nome": "Star Crimzian",
     "melhor_local": "Cetus – Mineração nas Planícies de Eidolon (rochas azuis)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: N/A (Recurso de mineração).\n- Recomendações táticas: Use a **Ferramenta de Mineração Nosam** e procure por veias de minério azuis nas Planícies de Eidolon. As rochas azuis são mais raras e exigem precisão para maximizar o rendimento.\n- Warframes/mods ideais: N/A.\n- Quantidade por tempo estimada: Varia com a sorte dos spawns de minério e a eficiência da mineração.\n- Ciclo ideal: Pode ser minerado durante o dia ou a noite.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "stellated_necrathene": {
     "nome": "Stellated Necrathene",
     "melhor_local": "Deimos – Cambion Drift – Bounties / Exploração",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Mineração de gemas raras no Cambion Drift.\n- Recomendações táticas: Complete as **Bounties da Mãe** no Necralisk (especialmente as de Tier mais alto). Também pode ser encontrado em veias de gema raras durante a mineração no Cambion Drift (requer a Ferramenta de Mineração Avançada).\n- Warframes/mods ideais: Para bounties: Warframes de combate. Para mineração: N/A.\n- Quantidade por tempo estimada: Varia por bounty ou sorte na mineração.\n- Ciclo ideal: O recurso pode ser obtido em ambos os ciclos (Vome/Fass).\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "tasoma_extrato": {
     "nome": "Tasoma Extrato",
     "melhor_local": "Lua – Encontrado em cavernas ocultas (Exploração livre)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: N/A\n- Recomendações táticas: Explore as missões da Lua e procure por entradas de cavernas ou áreas secretas. Pode ser encontrado em containers ou em depósitos específicos dentro dessas áreas. Use o **Loot Radar** e **Enemy Sense** para ajudar a localizar itens.\n- Warframes/mods ideais: Limbo (para abrir containers), Loki (para exploração furtiva), Vauban (para detectar loot).\n- Quantidade por tempo estimada: Varia muito, pois depende da sorte na exploração.\n- Ciclo ideal: Não se aplica.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "lágrima_azurite": {
     "nome": "Lágrima Azurite",
     "melhor_local": "Cetus – Lapidação de Azurite minerado",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: N/A (É um recurso refinado).\n- Recomendações táticas: Minere **Azurite Bruto** nas Planícies de Eidolon. Leve o Azurite Bruto para Old Man Suumbat em Cetus para refiná-lo em Lágrima Azurite.\n- Warframes/mods ideais: Para mineração: N/A. Para refinamento: N/A.\n- Quantidade por tempo estimada: Depende da quantidade de Azurite Bruto minerado.\n- Ciclo ideal: O minério pode ser minerado durante o dia ou a noite.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "techrot_chitin": {
     "nome": "Techrot Chitin",
     "melhor_local": "Duviri – Drop de inimigos 'Techrot' ou recompensas",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Recompensas de Encontros de Oportunidade em Duviri.\n- Recomendações táticas: Derrote inimigos do tipo 'Techrot' que são encontrados nas áreas tecnológicas de Duviri. Também pode ser obtido como recompensa por completar objetivos do Circuito.\n- Warframes/mods ideais: Qualquer Warframe com boas habilidades de combate e dano.\n- Quantidade por tempo estimada: Varia, pois depende do drop de inimigos e das recompensas.\n- Ciclo ideal: Pode ser encontrado durante o dia ou a noite em Duviri.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "techrot_motherboard": {
     "nome": "Techrot Motherboard",
     "melhor_local": "Duviri – Drop de inimigos 'Techrot' ou recompensas",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Recompensas de Encontros de Oportunidade em Duviri.\n- Recomendações táticas: Derrote inimigos do tipo 'Techrot' que são encontrados nas áreas tecnológicas de Duviri. Também pode ser obtido como recompensa por completar objetivos do Circuito.\n- Warframes/mods ideais: Qualquer Warframe com boas habilidades de combate e dano.\n- Quantidade por tempo estimada: Varia, pois depende do drop de inimigos e das recompensas.\n- Ciclo ideal: Pode ser encontrado durante o dia ou a noite em Duviri.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "telúrio": {
     "nome": "Telúrio",
     "melhor_local": "Urano – Ophelia (Sobrevivência)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Missões de Railjack (especialmente em Urano e Netuno), ou missões submersas em Urano.\n- Recomendações táticas: Em Ophelia, o Telúrio tem uma chance de dropar de qualquer inimigo. Use **Nekros** com *Profanação* para aumentar os drops. Missões de Railjack em Urano e Netuno também são ótimas fontes, pois o Telúrio dropa de inimigos e containers espaciais.\n- Warframes/mods ideais: Nekros (Profanação), Khora (Prisão de Malha), Hydroid (Pilhagem Submersa com Aumento) para missões de Sobrevivência. Para Railjack, qualquer Warframe que possa contribuir para a limpeza de inimigos.\n- Quantidade por tempo estimada: Varia, mas pode-se obter 1-3 por run em missões curtas ou 5-10+ em Railjack/Sobrevivência de 20min com boosters.\n- Ciclo ideal: Não se aplica.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "tempered_bapholite": {
     "nome": "Tempered Bapholite",
     "melhor_local": "Deimos – Forja de Bapholite minerado (Necralisk)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: N/A (É um recurso refinado).\n- Recomendações táticas: Minere **Bapholite Bruto** nas veias de minério do Cambion Drift (usando a ferramenta de mineração). Depois, leve o Bapholite Bruto para Otak no Necralisk para forjá-lo em Tempered Bapholite.\n- Warframes/mods ideais: Para mineração: N/A. Para forjamento: N/A.\n- Quantidade por tempo estimada: Depende da quantidade de Bapholite Bruto minerado.\n- Ciclo ideal: O minério aparece em ambos os ciclos (Vome/Fass).\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "tepa_nodule": {
     "nome": "Tepa Nodule",
     "melhor_local": "Orb Vallis – Coletado próximo a rochas e géis congelados",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Recompensas de Bounties de Eudico (níveis mais baixos).\n- Recomendações táticas: Explore o Orb Vallis e procure por depósitos visíveis perto de formações rochosas ou cristais de gelo. O *Cutter de Plasma* é usado para colher. Use o *Loot Radar* para ajudar a localizar.\n- Warframes/mods ideais: Loki (para exploração furtiva), Volt (para velocidade).\n- Quantidade por tempo estimada: Varia com a exploração e densidade dos depósitos.\n- Ciclo ideal: Pode ser coletado durante o dia ou a noite no Orb Vallis.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "thaumic_distillate": {
     "nome": "Thaumic Distillate",
     "melhor_local": "Deimos – Cambion Drift – Bounties / Exploração",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Drop de inimigos específicos no Cambion Drift (menos comum).\n- Recomendações táticas: Complete as **Bounties da Mãe** no Necralisk, especialmente as de Tier mais alto. Também pode ser encontrado em certas formações biológicas no Cambion Drift. Use o *Extractor de Árvore* para coletar.\n- Warframes/mods ideais: Para bounties: Warframes de combate. Para exploração: Titania (mobilidade), Equinox (para coleta).\n- Quantidade por tempo estimada: Varia por bounty ou sorte na exploração.\n- Ciclo ideal: O recurso pode ser obtido em ambos os ciclos (Vome/Fass).\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "lama_térmica": {
     "nome": "Lama Térmica",
     "melhor_local": "Orb Vallis – Bounties de Eudico (Tier 1‑2)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Drops de inimigos de baixo nível no Orb Vallis.\n- Recomendações táticas: Complete as **Bounties de Nível Inferior (Tier 1-2)** oferecidas por Eudico no Orb Vallis. Essas bounties são mais fáceis e rápidas de concluir.\n- Warframes/mods ideais: Qualquer Warframe eficaz em missões de baixo nível.\n- Quantidade por tempo estimada: Varia por bounty e pela sorte.\n- Ciclo ideal: Pode ser obtido durante o dia ou a noite no Orb Vallis.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "thrax_plasm": {
     "nome": "Thrax Plasm",
     "melhor_local": "Zariman – Derrotando Thrax ou recompensas do Void Armageddon",
-    "detalhes": "Plasma energético concentrado."
+    "detalhes": "- Missão alternativa: Quebrando Void Orbs ou Containers do Void no Zariman.\n- Recomendações táticas: **Derrote os inimigos Thrax** que aparecem nas missões do Zariman. Participe ativamente das missões de *Void Armageddon* para garantir recompensas de Thrax Plasm. Use *Loot Radar* para encontrar os Void Orbs e Containers.\n- Warframes/mods ideais: Qualquer Warframe com bom dano em área para limpar inimigos Thrax rapidamente.\n- Quantidade por tempo estimada: Varia, mas pode-se obter em boas quantidades em missões de Sobrevivência/Defesa do Zariman.\n- Ciclo ideal: Não se aplica, recurso de missão específica.\nDescrição real: Plasma energético concentrado."
   },
   "tink_dissipator_coil": {
     "nome": "Tink Dissipator Coil",
     "melhor_local": "Duviri – Pescando Tinks (áreas tecnológicas, raro)",
-    "detalhes": "Componente em espiral utilizado em sistemas elétricos."
+    "detalhes": "- Missão alternativa: N/A\n- Recomendações táticas: Use a **Lança de Pesca de Duviri (Tymyr)** e **Isca de Tink** em áreas tecnológicas ou ruínas de Duviri, onde esses peixes raros podem ser encontrados. Podem ser difíceis de pescar.\n- Warframes/mods ideais: Ivara (para invisibilidade), Titania (para mobilidade e encontrar os Tinks).\n- Quantidade por tempo estimada: Varia, pois Tinks são raros e exigem isca específica.\n- Ciclo ideal: Pode ser pescado durante o dia ou a noite em Duviri.\nDescrição real: Componente em espiral utilizado em sistemas elétricos."
   },
   "titanium": {
     "nome": "Titanium",
     "melhor_local": "Railjack – Drop em missões destruindo naves ou containers",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Mineração em algumas áreas de Railjack (menos eficiente).\n- Recomendações táticas: Conclua missões de Railjack e foque na destruição de naves inimigas e dos containers espaciais (*Resource Containers*). Quanto mais itens você destruir, maior a chance de obter Titanium.\n- Warframes/mods ideais: Warframes que otimizam a experiência de Railjack (ex: Amesha para mobilidade, Nautilus para coleta de loot).\n- Quantidade por tempo estimada: Varia com a duração e o tipo de missão Railjack.\n- Ciclo ideal: Não se aplica.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "tralok_eyes": {
     "nome": "Tralok Eyes",
     "melhor_local": "Cetus – Pescando Tralok (oceano, dia/noite)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: N/A\n- Recomendações táticas: Use a **Lança de Pesca Peram** e **Isca de Tralok** ou **Isca Luminosa** em áreas oceânicas das Planícies de Eidolon. Traloks podem aparecer tanto de dia quanto de noite.\n- Warframes/mods ideais: Ivara (para invisibilidade), Zephyr (para mobilidade).\n- Quantidade por tempo estimada: Varia, pois Traloks são mais comuns que Murkrays, mas ainda requerem isca.\n- Ciclo ideal: Pode ser pescado durante o dia ou a noite em Cetus.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "trapezium_xenorhast": {
     "nome": "Trapezium Xenorhast",
     "melhor_local": "Deimos – Lapidação de Xenorhast minerado",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: N/A (É um recurso refinado).\n- Recomendações táticas: Minere **Xenorhast Bruto** nas veias de minério do Cambion Drift. Depois, leve o Xenorhast Bruto para Otak no Necralisk para lapidá-lo em Trapezium Xenorhast.\n- Warframes/mods ideais: Para mineração: N/A. Para lapidação: N/A.\n- Quantidade por tempo estimada: Depende da quantidade de Xenorhast Bruto minerado.\n- Ciclo ideal: O minério aparece em ambos os ciclos (Vome/Fass).\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "travocyte_liga": {
     "nome": "Travocyte Liga",
     "melhor_local": "Deimos – Forjado no Necralisk com Travocyte Alloy",
-    "detalhes": "Liga metálica refinada usada na construção de equipamentos avançados."
+    "detalhes": "- Missão alternativa: N/A (É um recurso refinado).\n- Recomendações táticas: Minere **Travocyte Alloy Bruto** nas veias de minério do Cambion Drift (ex: minerais mais escuros). Depois, leve-o para Otak no Necralisk para forjá-lo em Travocyte Liga.\n- Warframes/mods ideais: Para mineração: N/A. Para forjamento: N/A.\n- Quantidade por tempo estimada: Depende da quantidade de Travocyte Alloy Bruto minerado.\n- Ciclo ideal: O minério aparece em ambos os ciclos (Vome/Fass).\nDescrição real: Liga metálica refinada usada na construção de equipamentos avançados."
   },
   "tromyzon_entroplasma": {
     "nome": "Tromyzon Entroplasma",
     "melhor_local": "Orb Vallis – Pescando Tromyzon (rios calmos, dia)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: N/A\n- Recomendações táticas: Use a **Lança de Pesca Shockprod** e **Isca de Tromyzon** em rios calmos e áreas menos movimentadas do Orb Vallis, especialmente durante o dia. Procure em locais de pesca designados.\n- Warframes/mods ideais: Ivara (para invisibilidade), Khora (para controle de peixe com Presa de Malha).\n- Quantidade por tempo estimada: Varia conforme a sorte e uso de iscas.\n- Ciclo ideal: Ciclo de dia no Orb Vallis.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "toroide_vega": {
     "nome": "Toroide Vega",
     "melhor_local": "Orb Vallis – Base de Pesquisa",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Drop de inimigos **Porgus**, **Kyma** e **Moi** nas proximidades da Base de Pesquisa.\n- Recomendações táticas: Derrote inimigos nas áreas ao redor da Base de Pesquisa no Orb Vallis. Pode ser um farm demorado. Use uma equipe para aumentar a eficiência.\n- Warframes/mods ideais: Khora (Prisão de Malha), Nekros (Profanação), Hydroid (Pilhagem Submersa com Aumento) para aumentar a chance de drops.\n- Quantidade por tempo estimada: Varia, depende da sorte e da velocidade de abate dos inimigos.\n- Ciclo ideal: Pode ser farmado durante o dia ou a noite no Orb Vallis.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "venerdo_liga": {
     "nome": "Venerdo Liga",
     "melhor_local": "Orb Vallis – Mineração em zonas cristalinas",
-    "detalhes": "Liga metálica refinada usada na construção de equipamentos avançados."
+    "detalhes": "- Missão alternativa: N/A (Recurso de mineração).\n- Recomendações táticas: Use a ferramenta de mineração e procure por veias de minério em áreas com formações cristalinas no Orb Vallis. A **Ferramenta de Mineração Nosam** é a mais eficiente.\n- Warframes/mods ideais: N/A.\n- Quantidade por tempo estimada: Varia com a sorte dos spawns de minério e a eficiência da mineração.\n- Ciclo ideal: O minério aparece durante o dia ou a noite.\nDescrição real: Liga metálica refinada usada na construção de equipamentos avançados."
   },
   "voidgel_orb": {
     "nome": "Voidgel Orb",
     "melhor_local": "Zariman – Missões ou containers do Void",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Drop de Eximus Void no Zariman.\n- Recomendações táticas: Procure por orbes azuis brilhantes que flutuam nas missões do Zariman e atire neles para coletar. Também pode ser obtido de *Containers do Void* ou como drop raro de inimigos *Eximus Void*.\n- Warframes/mods ideais: Loki (para exploração furtiva), Limbo (para abrir containers).\n- Quantidade por tempo estimada: Varia com a exploração e a sorte.\n- Ciclo ideal: Não se aplica, recurso de ambiente específico.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "voidplume_pinion": {
     "nome": "Voidplume Pinion",
     "melhor_local": "Zariman – Missões & Voidplumes",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Troca com o Yonta no Chrysalith (Zariman).\n- Recomendações táticas: Encontre e colete os **Voidplumes** que aparecem nas missões do Zariman. Existem diferentes tipos de Voidplumes (Vane, Crest, Quill, Pinion, Quills, Vestige), e o Pinion é um dos mais comuns.\n- Warframes/mods ideais: Loki (para exploração furtiva e coleta), Volt (para velocidade).\n- Quantidade por tempo estimada: Varia com a exploração do mapa.\n- Ciclo ideal: Não se aplica, recurso de ambiente específico.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "voidplume_quill": {
     "nome": "Voidplume Quill",
     "melhor_local": "Zariman – Missões & Voidplumes",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Troca com o Yonta no Chrysalith (Zariman).\n- Recomendações táticas: Encontre e colete os **Voidplumes** que aparecem nas missões do Zariman. Existem diferentes tipos de Voidplumes (Vane, Crest, Quill, Pinion, Quills, Vestige), e o Quill é um dos mais comuns.\n- Warframes/mods ideais: Loki (para exploração furtiva e coleta), Volt (para velocidade).\n- Quantidade por tempo estimada: Varia com a exploração do mapa.\n- Ciclo ideal: Não se aplica, recurso de ambiente específico.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "voidrig_capsule": {
     "nome": "Voidrig Capsule",
     "melhor_local": "Deimos – Bounties Tier 5 da Mãe (Necramech Voidrig)",
-    "detalhes": "Contêiner de energia ou partes tecnológicas."
+    "detalhes": "- Missão alternativa: Derrotando *Necramechs* no Cambion Drift (chance rara).\n- Recomendações táticas: É uma recompensa garantida das **Bounties de Tier 5 da Mãe** que envolvem o Necramech Voidrig. Foque nessas bounties para farmar as partes.\n- Warframes/mods ideais: Warframes de alto dano ou controle de grupo para as bounties (ex: Xaku, Mesa, Rhino).\n- Quantidade por tempo estimada: Varia por bounty e sorte.\n- Ciclo ideal: Bounties estão sempre disponíveis.\nDescrição real: Contêiner de energia ou partes tecnológicas."
   },
   "voidrig_casing": {
     "nome": "Voidrig Casing",
     "melhor_local": "Deimos – Bounties Tier 5 da Mãe (Necramech Voidrig)",
-    "detalhes": "Carcaça externa de Necramechs ou equipamentos pesados."
+    "detalhes": "- Missão alternativa: Derrotando *Necramechs* no Cambion Drift (chance rara).\n- Recomendações táticas: É uma recompensa garantida das **Bounties de Tier 5 da Mãe** que envolvem o Necramech Voidrig. Foque nessas bounties para farmar as partes.\n- Warframes/mods ideais: Warframes de alto dano ou controle de grupo para as bounties (ex: Xaku, Mesa, Rhino).\n- Quantidade por tempo estimada: Varia por bounty e sorte.\n- Ciclo ideal: Bounties estão sempre disponíveis.\nDescrição real: Carcaça externa de Necramechs ou equipamentos pesados."
   },
   "voidrig_engine": {
     "nome": "Voidrig Engine",
     "melhor_local": "Deimos – Bounties Tier 5 da Mãe (Necramech Voidrig)",
-    "detalhes": "Mecanismo de propulsão para dispositivos pesados."
+    "detalhes": "- Missão alternativa: Derrotando *Necramechs* no Cambion Drift (chance rara).\n- Recomendações táticas: É uma recompensa garantida das **Bounties de Tier 5 da Mãe** que envolvem o Necramech Voidrig. Foque nessas bounties para farmar as partes.\n- Warframes/mods ideais: Warframes de alto dano ou controle de grupo para as bounties (ex: Xaku, Mesa, Rhino).\n- Quantidade por tempo estimada: Varia por bounty e sorte.\n- Ciclo ideal: Bounties estão sempre disponíveis.\nDescrição real: Mecanismo de propulsão para dispositivos pesados."
   },
   "voidrig_weapon_pod": {
     "nome": "Voidrig Weapon Pod",
     "melhor_local": "Deimos – Bounties Tier 5 da Mãe (Necramech Voidrig)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Derrotando *Necramechs* no Cambion Drift (chance rara).\n- Recomendações táticas: É uma recompensa garantida das **Bounties de Tier 5 da Mãe** que envolvem o Necramech Voidrig. Foque nessas bounties para farmar as partes.\n- Warframes/mods ideais: Warframes de alto dano ou controle de grupo para as bounties (ex: Xaku, Mesa, Rhino).\n- Quantidade por tempo estimada: Varia por bounty e sorte.\n- Ciclo ideal: Bounties estão sempre disponíveis.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "yao_shrub": {
     "nome": "Yao Shrub",
     "melhor_local": "Duviri – Coleta de plantas em áreas verdes/florestas",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: Recompensas de Encontros de Oportunidade em Duviri.\n- Recomendações táticas: Explore as áreas verdes e florestadas de Duviri. Procure por pequenos arbustos brilhantes ou interativos. Use o *Scanner de Síntese* para ajudar na localização.\n- Warframes/mods ideais: Equinox (para coleta de plantas), Titania (para mobilidade e alcance de pontos escondidos).\n- Quantidade por tempo estimada: Varia com a exploração e densidade dos arbustos.\n- Ciclo ideal: Pode ser coletado durante o dia ou a noite em Duviri.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "yogwun_stomach": {
     "nome": "Yogwun Stomach",
     "melhor_local": "Cetus – Pescando Yogwun (lagoas, dia/noite)",
-    "detalhes": "Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
+    "detalhes": "- Missão alternativa: N/A\n- Recomendações táticas: Use a **Lança de Pesca Iradonte** ou **Peram** e **Isca de Yogwun** em lagoas e rios das Planícies de Eidolon. Yogwuns são peixes médios e podem ser pescados tanto de dia quanto de noite.\n- Warframes/mods ideais: Ivara (para invisibilidade), Zephyr (para mobilidade).\n- Quantidade por tempo estimada: Varia conforme a sorte e uso de iscas.\n- Ciclo ideal: Pode ser pescado durante o dia ou a noite em Cetus.\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos."
   },
   "gptus": {
-  "nome": "Cephalon GPTus",
-  "melhor_local": "Unknown",
-  "detalhes": "O oráculo de dados da origem estelar! Muito poderoso para os Tennos. Conhece os caminhos de cada recurso com precisão cósmica"
+    "nome": "Cephalon GPTus",
+    "melhor_local": "Unknown",
+    "detalhes": "- Missão alternativa: —\n- Recomendações táticas: —\n- Warframes/mods ideais: —\n- Quantidade por tempo estimada: —\n- Ciclo ideal: —\n  → Pode verificar com (/ciclo_geral)\n\nDescrição real: O oráculo de dados da origem estelar! Muito poderoso para os Tennos. Conhece os caminhos de cada recurso com precisão cósmica"
   }
 }
