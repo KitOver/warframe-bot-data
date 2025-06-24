@@ -212,7 +212,7 @@
   "fate_pérola": {
     "nome": "Pérola do Destino",
     "melhor_local": "Duviri – Recompensas de Encontros Aleatórios e desafios do Circuito",
-    "detalhes": "- Missão alternativa: N/A. Exclusivo de Duviri.\n- Recomendações táticas: Complete os objetivos de "Encontros de Oportunidade" ou os desafios do "Circuito" para obter as Pérolas do Destino. Elas são recompensas de missão.\n- Warframes/mods ideais: Warframes de dano/suporte para completar objetivos.\n- Quantidade por tempo estimada: ~variável (depende da conclusão dos objetivos).\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos de Duviri, representando a sorte ou destino do viajante."
+    "detalhes": "- Missão alternativa: N/A. Exclusivo de Duviri.\n- Recomendações táticas: Complete os objetivos de (Encontros de Oportunidade) ou os desafios do (Circuito) para obter as Pérolas do Destino. Elas são recompensas de missão.\n- Warframes/mods ideais: Warframes de dano/suporte para completar objetivos.\n- Quantidade por tempo estimada: ~variável (depende da conclusão dos objetivos).\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos de Duviri, representando a sorte ou destino do viajante."
   },
   "ferrita": {
     "nome": "Ferrita",
@@ -382,7 +382,7 @@
   "maw_fang": {
     "nome": "Presa de Maw",
     "melhor_local": "Duviri – Jogo do Maw / Mini-jogos (recompensa de pesca com o Kaithe)",
-    "detalhes": "- Missão alternativa: N/A. Exclusivo dos mini-jogos.\n- Recomendações táticas: Participe do "Jogo do Maw" em Duviri. O sucesso no mini-jogo garante o recurso. É um recurso de nível intermediário a alto.\n- Warframes/mods ideais: N/A (depende da habilidade no mini-jogo).\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos de Duviri, obtido de criaturas aquáticas ou do "Maw" ancestral."
+    "detalhes": "- Missão alternativa: N/A. Exclusivo dos mini-jogos.\n- Recomendações táticas: Participe do (Jogo do Maw) em Duviri. O sucesso no mini-jogo garante o recurso. É um recurso de nível intermediário a alto.\n- Warframes/mods ideais: N/A (depende da habilidade no mini-jogo).\n- Quantidade por tempo estimada: ~variável.\n- Ciclo ideal: Não aplica.\n  → Pode verificar com (/ciclo_geral)\nDescrição real: Recurso raro utilizado na fabricação e aprimoramento de equipamentos de Duviri, obtido de criaturas aquáticas ou do (Maw) ancestral."
   },
   "mawfish_bones": {
     "nome": "Ossos de Mawfish",
