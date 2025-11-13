@@ -1,0 +1,482 @@
+[
+{
+"mod": "Galvanized Chamber",
+"descricao": "+80% Multishot (aplicado a todas as armas primárias). Ao matar inimigos, bônus adicional de +30% Multishot por acumulação (dura 20s, até 5 acumulações).",
+"tipo": "Primária",
+"raridade": "Raro",
+"melhor_farm": "Recompensa do modo Arbitrations (Rotation C).",
+"fontes": ["Warframe Wiki - Galvanized Chamber", "Warframe Drop Tables - Arbitrations"]
+},
+{
+"mod": "Galvanized Aptitude",
+"descricao": "+80% dano por status único infligido no inimigo (semelhante a Condition Overload para armas primárias).",
+"tipo": "Primária",
+"raridade": "Raro",
+"melhor_farm": "Recompensa de Arbitrations (Rotation C).",
+"fontes": ["Warframe Wiki - Galvanized Aptitude", "Warframe Drop Tables - Arbitrations"]
+},
+{
+"mod": "Galvanized Scope",
+"descricao": "+120% de Chance de Crítico ao mirar após Headshot. Bônus adicional em kill (stackável).",
+"tipo": "Primária (Rifles)",
+"raridade": "Raro",
+"melhor_farm": "Recompensa de Arbitrations (Rotation C).",
+"fontes": ["Warframe Wiki - Galvanized Scope"]
+},
+{
+"mod": "Galvanized Hell",
+"descricao": "+110% Multishot para Shotguns. Em kill, ganha +30% Multishot por acumulação (dura 20s, até 5 acumulações).",
+"tipo": "Primária (Shotgun)",
+"raridade": "Raro",
+"melhor_farm": "Recompensa de Arbitrations (Rotation C).",
+"fontes": ["Warframe Wiki - Galvanized Hell", "Warframe Drop Tables - Arbitrations"]
+},
+{
+"mod": "Galvanized Acceleration",
+"descricao": "Aumenta a velocidade de projétil das Shotguns (até +80%) e em kill adiciona mais +30% (stackável).",
+"tipo": "Primária (Shotgun)",
+"raridade": "Raro",
+"melhor_farm": "Recompensa de Arbitrations (Rotation C).",
+"fontes": ["Warframe Wiki - Galvanized Acceleration"]
+},
+{
+"mod": "Galvanized Crosshairs",
+"descricao": "+120% de Chance de Crítico ao mirar após Headshot. Bônus adicional por kill (stackável).",
+"tipo": "Secundária",
+"raridade": "Raro",
+"melhor_farm": "Recompensa de Arbitrations (Rotation C).",
+"fontes": ["Warframe Wiki - Galvanized Crosshairs"]
+},
+{
+"mod": "Galvanized Diffusion",
+"descricao": "+110% Multishot para armas secundárias. Em kill, +30% Multishot por acumulação (até 5 stacks, dura 20s).",
+"tipo": "Secundária",
+"raridade": "Raro",
+"melhor_farm": "Recompensa de Arbitrations (Rotation C).",
+"fontes": ["Warframe Wiki - Galvanized Diffusion", "Warframe Drop Tables - Arbitrations"]
+},
+{
+"mod": "Galvanized Shot",
+"descricao": "+80% dano por status único infligido ao inimigo. Efeito stackável em kills, até 3x.",
+"tipo": "Secundária",
+"raridade": "Raro",
+"melhor_farm": "Recompensa de Arbitrations (Rotation C).",
+"fontes": ["Warframe Wiki - Galvanized Shot"]
+}
+{
+"mod": "Hunter Adrenaline",
+"descricao": "Converte 45% do dano sofrido em Energia (escala com o dano recebido).",
+"tipo": "Warframe",
+"raridade": "Raro",
+"melhor_farm": "Bounties no Plains of Eidolon (Cetus) — Tier 4 e 5; chance maior em Ghouls Bounty.",
+"fontes": ["Warframe Wiki - Hunter Adrenaline", "Bounties de Cetus / Plains of Eidolon"]
+},
+{
+"mod": "Hunter Recovery",
+"descricao": "Companheiro (Animal) regenera 30% da Vida do Warframe ao causar dano corpo a corpo.",
+"tipo": "Companheiro (Kavat/Kubrow)",
+"raridade": "Raro",
+"melhor_farm": "Bounties de Cetus (Tier 4 e 5) — principalmente em Ghouls.",
+"fontes": ["Warframe Wiki - Hunter Recovery", "Bounties de Cetus / Plains of Eidolon"]
+},
+{
+"mod": "Hunter Synergy",
+"descricao": "Acertos críticos do Companheiro aumentam a Chance de Crítico da arma do Warframe em 30% por 10 segundos.",
+"tipo": "Companheiro (Kavat/Kubrow)",
+"raridade": "Raro",
+"melhor_farm": "Bounties de Cetus (Plains of Eidolon) — especialmente em Ghouls Event.",
+"fontes": ["Warframe Wiki - Hunter Synergy", "Plains of Eidolon Bounties"]
+},
+{
+"mod": "Hunter Command",
+"descricao": "Ataques corpo a corpo do Warframe fazem o Companheiro atacar o mesmo alvo, com 45% de chance de provocar isso.",
+"tipo": "Warframe / Companheiro",
+"raridade": "Incomum",
+"melhor_farm": "Bounties de Cetus — Recompensas de Tier 3-5.",
+"fontes": ["Warframe Wiki - Hunter Command", "Warframe Plains of Eidolon Drop Tables"]
+},
+{
+"mod": "Hunter Track",
+"descricao": "+60% de Duração do efeito de Status em inimigos sangrando (Bleed).",
+"tipo": "Warframe",
+"raridade": "Incomum",
+"melhor_farm": "Bounties de Cetus (Plains of Eidolon).",
+"fontes": ["Warframe Wiki - Hunter Track", "Cetus Bounty Rewards"]
+},
+{
+"mod": "Hunter Munitions",
+"descricao": "Tiros críticos de armas primárias aplicam um efeito de *Slash* com 30% de chance.",
+"tipo": "Primária",
+"raridade": "Raro",
+"melhor_farm": "Recompensa de Eidolon Ghouls Bounties (Cetus).",
+"fontes": ["Warframe Wiki - Hunter Munitions", "Warframe Drop Tables"]
+}
+{
+"mod": "Gladiator Aegis",
+"descricao": "+90% de Armadura e +30% de Chance de Bloqueio ao usar arma corpo a corpo.",
+"tipo": "Warframe",
+"raridade": "Raro",
+"melhor_farm": "Drop de enemigos no *Cambion Drift* (Deimos) — Isolation Vaults e Bounties Tier 4–5.",
+"fontes": ["Warframe Wiki - Gladiator Aegis", "Deimos Bounties Drop Tables"]
+},
+{
+"mod": "Gladiator Finesse",
+"descricao": "Converte 15% de Energia perdida em Saúde (similar ao Quick Thinking).",
+"tipo": "Warframe",
+"raridade": "Raro",
+"melhor_farm": "Deimos Bounties (Tier 4–5) — obtido em recompensas de vaults.",
+"fontes": ["Warframe Wiki - Gladiator Finesse", "Deimos Bounties"]
+},
+{
+"mod": "Gladiator Resolve",
+"descricao": "+180% de Vida máxima.",
+"tipo": "Warframe",
+"raridade": "Raro",
+"melhor_farm": "Deimos Bounties (Tier 3–5).",
+"fontes": ["Warframe Wiki - Gladiator Resolve", "Deimos Bounties Drop Tables"]
+},
+{
+"mod": "Gladiator Might",
+"descricao": "+30% Dano Crítico corpo a corpo.",
+"tipo": "Melee",
+"raridade": "Raro",
+"melhor_farm": "Deimos Bounties (Tier 3–5).",
+"fontes": ["Warframe Wiki - Gladiator Might", "Deimos Drop Tables"]
+},
+{
+"mod": "Gladiator Rush",
+"descricao": "+60% de Duração do Combo (mantém combo ativo por mais tempo).",
+"tipo": "Melee",
+"raridade": "Raro",
+"melhor_farm": "Deimos Bounties (Tier 2–4).",
+"fontes": ["Warframe Wiki - Gladiator Rush", "Warframe Deimos Bounties"]
+},
+{
+"mod": "Gladiator Vice",
+"descricao": "+30% Velocidade de Ataque corpo a corpo (Attack Speed).",
+"tipo": "Melee",
+"raridade": "Raro",
+"melhor_farm": "Deimos Bounties (Tier 4–5) — especialmente na rotação de Mother.",
+"fontes": ["Warframe Wiki - Gladiator Vice", "Warframe Deimos Drop Tables"]
+}
+{
+"mod": "Augur Accord",
+"descricao": "+180% de Escudos máximos.",
+"tipo": "Warframe",
+"raridade": "Raro",
+"melhor_farm": "Bounties em Plains of Eidolon (Cetus) — Tier 4 e 5.",
+"fontes": ["Warframe Wiki - Augur Accord", "Cetus Bounty Drop Tables"]
+},
+{
+"mod": "Augur Message",
+"descricao": "+24% de Duração das habilidades.",
+"tipo": "Warframe",
+"raridade": "Raro",
+"melhor_farm": "Bounties em Plains of Eidolon (Cetus) — Tier 3–5.",
+"fontes": ["Warframe Wiki - Augur Message", "Cetus Bounties / Plains of Eidolon"]
+},
+{
+"mod": "Augur Reach",
+"descricao": "+30% de Alcance (Range) nas habilidades.",
+"tipo": "Warframe",
+"raridade": "Raro",
+"melhor_farm": "Bounties em Plains of Eidolon (Cetus) — Tier 3–5.",
+"fontes": ["Warframe Wiki - Augur Reach", "Cetus Bounties Drop Tables"]
+},
+{
+"mod": "Augur Secrets",
+"descricao": "+24% de Força de Habilidade (Ability Strength).",
+"tipo": "Warframe",
+"raridade": "Raro",
+"melhor_farm": "Bounties em Plains of Eidolon (Cetus) — Tier 4 e 5.",
+"fontes": ["Warframe Wiki - Augur Secrets", "Warframe Plains of Eidolon Drop Tables"]
+},
+{
+"mod": "Augur Pact",
+"descricao": "+90% de Dano em armas secundárias.",
+"tipo": "Secundária",
+"raridade": "Raro",
+"melhor_farm": "Bounties em Plains of Eidolon (Cetus) — Tier 3–5.",
+"fontes": ["Warframe Wiki - Augur Pact", "Cetus Bounties / Warframe Drop Tables"]
+},
+{
+"mod": "Augur Seeker",
+"descricao": "+90% de Duração de Status em armas secundárias.",
+"tipo": "Secundária",
+"raridade": "Raro",
+"melhor_farm": "Bounties em Plains of Eidolon (Cetus) — Tier 3–5.",
+"fontes": ["Warframe Wiki - Augur Seeker", "Cetus Bounties / Plains of Eidolon"]
+}
+{
+"mod": "Vigilante Armaments",
+"descricao": "+60% Multishot para armas primárias.",
+"tipo": "Primária",
+"raridade": "Raro",
+"melhor_farm": "The Plains of Eidolon – recompensas de Bounties (Konzu, Tier 3–5).",
+"fontes": ["Warframe Wiki - Vigilante Armaments", "Cetus Bounties Drop Tables"]
+},
+{
+"mod": "Vigilante Fervor",
+"descricao": "+45% Velocidade de Disparo (Fire Rate) para armas primárias.",
+"tipo": "Primária",
+"raridade": "Raro",
+"melhor_farm": "Bounties em Plains of Eidolon (Konzu, Tier 3–5).",
+"fontes": ["Warframe Wiki - Vigilante Fervor", "Cetus Bounties"]
+},
+{
+"mod": "Vigilante Offense",
+"descricao": "Projéteis das armas primárias perfuram inimigos (+1.2 Punch Through).",
+"tipo": "Primária",
+"raridade": "Raro",
+"melhor_farm": "Plains of Eidolon Bounties (Konzu, Tier 4–5).",
+"fontes": ["Warframe Wiki - Vigilante Offense", "Cetus Bounties / Drop Tables"]
+},
+{
+"mod": "Vigilante Supplies",
+"descricao": "Converte munição de um tipo em outro e aumenta o armazenamento total de munição (+30%).",
+"tipo": "Companion / Exilus de Primária",
+"raridade": "Raro",
+"melhor_farm": "Bounties em Plains of Eidolon (Tier 3–5).",
+"fontes": ["Warframe Wiki - Vigilante Supplies", "Cetus Bounties Drop Tables"]
+},
+{
+"mod": "Vigilante Pursuit",
+"descricao": "Mostra inimigos no minimapa (Radar de inimigos +30m).",
+"tipo": "Companion",
+"raridade": "Comum",
+"melhor_farm": "Drop aleatório de inimigos em Plains of Eidolon e recompensas de bounties Tier 1–3.",
+"fontes": ["Warframe Wiki - Vigilante Pursuit", "Cetus Bounties / Plains of Eidolon"]
+},
+{
+"mod": "Vigilante Vigor",
+"descricao": "+60% de Regeneração de Escudo em companions sentinelas.",
+"tipo": "Companion",
+"raridade": "Raro",
+"melhor_farm": "Bounties em Plains of Eidolon (Konzu, Tier 3–5).",
+"fontes": ["Warframe Wiki - Vigilante Vigor", "Cetus Drop Tables"]
+}
+{
+"mod": "Blood Rush",
+"descricao": "+40% de Chance de Crítico corpo a corpo por multiplicador de combo.",
+"tipo": "Melee",
+"raridade": "Raro",
+"melhor_farm": "Deimos – Bounties da Mother (Tier 4–5, rotação A).",
+"fontes": ["Warframe Wiki - Blood Rush (2025)", "Cambion Drift Drop Tables"]
+},
+{
+"mod": "Weeping Wounds",
+"descricao": "+40% de Chance de Status corpo a corpo por multiplicador de combo.",
+"tipo": "Melee",
+"raridade": "Raro",
+"melhor_farm": "Deimos – Bounties da Mother (Tier 3–4, rotação A).",
+"fontes": ["Warframe Wiki - Weeping Wounds (2025)", "Cambion Drift Drop Tables"]
+},
+{
+"mod": "Condition Overload",
+"descricao": "+80% de Dano corpo a corpo por efeito de status ativo no alvo.",
+"tipo": "Melee",
+"raridade": "Raro",
+"melhor_farm": "Deimos – Bounties da Mother (Tier 4–5).",
+"fontes": ["Warframe Wiki - Condition Overload (2025)", "Deimos Bounties Drop Tables"]
+},
+{
+"mod": "Body Count",
+"descricao": "+12s de duração do combo corpo a corpo.",
+"tipo": "Melee",
+"raridade": "Raro",
+"melhor_farm": "Deimos – Bounties (Tier 3–4).",
+"fontes": ["Warframe Wiki - Body Count (2025)"]
+},
+{
+"mod": "Maiming Strike",
+"descricao": "+90% de Chance de Crítico em ataques de deslize (Slide Attacks).",
+"tipo": "Melee",
+"raridade": "Raro",
+"melhor_farm": "Deimos – Bounties (Tier 4–5).",
+"fontes": ["Warframe Wiki - Maiming Strike (2025)"]
+},
+{
+"mod": "Argon Scope",
+"descricao": "+135% de Chance de Crítico ao mirar (9s) após um Headshot.",
+"tipo": "Primária (Rifles e Snipers)",
+"raridade": "Raro",
+"melhor_farm": "Deimos – Bounties (Tier 4–5).",
+"fontes": ["Warframe Wiki - Argon Scope (2025)"]
+},
+{
+"mod": "Bladed Rounds",
+"descricao": "+120% de Dano Crítico ao mirar após matar um inimigo (9s).",
+"tipo": "Primária",
+"raridade": "Raro",
+"melhor_farm": "Deimos – Bounties (Tier 3–5).",
+"fontes": ["Warframe Wiki - Bladed Rounds (2025)"]
+},
+{
+"mod": "Hydraulic Crosshairs",
+"descricao": "+135% de Chance de Crítico ao mirar (9s) após Headshot.",
+"tipo": "Secundária",
+"raridade": "Raro",
+"melhor_farm": "Deimos – Bounties (Tier 4–5).",
+"fontes": ["Warframe Wiki - Hydraulic Crosshairs (2025)"]
+},
+{
+"mod": "Nano-Applicator",
+"descricao": "+60% de Chance de Status por 9s após Headshot enquanto mira.",
+"tipo": "Secundária",
+"raridade": "Raro",
+"melhor_farm": "Deimos – Bounties (Tier 3–5).",
+"fontes": ["Warframe Wiki - Nano-Applicator (2025)"]
+}
+{
+"mod": "Nira’s Anguish",
+"descricao": "+15% Bullet Jump / +15% Aim Glide & Wall Latch Duration.",
+"tipo": "Warframe",
+"raridade": "Comum",
+"melhor_farm": "Bounties Narmer (fase pós-The New War) — por exemplo em Plains of Eidolon ou Orb Vallis. 5",
+"fontes": ["WARFRAME Wiki - Nira’s Anguish", "Set Mods – Nira’s Set"]
+},
+{
+"mod": "Nira’s Hatred",
+"descricao": "+35% Health / +15% Ability Duration.",
+"tipo": "Warframe",
+"raridade": "Incomum",
+"melhor_farm": "Bounties Narmer após completar The New War — Plains of Eidolon ou Orb Vallis. 6",
+"fontes": ["WARFRAME Wiki - Nira’s Hatred", "Set Mods – Nira’s Set"]
+},
+{
+"mod": "Nira’s Contempt",
+"descricao": "+90% Melee Damage / +60% Status Chance (para Whips).",
+"tipo": "Melee (Whip)",
+"raridade": "Raro",
+"melhor_farm": "Bounties Narmer (The New War) — modos de “Archon Set Mods”. 7",
+"fontes": ["WARFRAME Wiki - Nira’s Contempt", "Set Mods – Nira’s Set"]
+}
+{
+"mod": "Loyal Retriever",
+"descricao": "13% de hipótese que cada recurso ou créditos apanhados pelo Companion sejam duplicados.",
+"tipo": "Companion Mod (Beast)",
+"raridade": "Raro",
+"melhor_farm": "Vendedor Master Teasonai em Cetus — Conservation Tags Terra (Earth).",
+"fontes": ["WARFRAME Wiki - Loyal Retriever", "Reddit – Retriever Mods discussion"]
+},
+{
+"mod": "Prosperous Retriever",
+"descricao": "18% de hipótese que cada crédito apanhado pelo Companion seja duplicado.",
+"tipo": "Companion Mod (Beast)",
+"raridade": "Raro",
+"melhor_farm": "Vendedor The Business em Fortuna — Conservation Tags Vênus (Venus).",
+"fontes": ["Reddit – Retriever Mods discussion", "WARFRAME Wiki Category Retriever Mods"]
+},
+{
+"mod": "Resourceful Retriever",
+"descricao": "18% de hipótese que cada *recurso* apanhado pelo Companion seja duplicado.",
+"tipo": "Companion Mod (Beast)",
+"raridade": "Raro",
+"melhor_farm": "Vendedor Son em Necralisk (Deimos) — Conservation Tags Deimos (Deimos).",
+"fontes": ["WARFRAME Wiki - Resourceful Retriever", "Shacknews guide – How to get Resourceful Retriever"]
+}
+{
+"mod": "Manifold Bond",
+"descricao": "Companion Precept Mods aplicam efeitos de Status das armas do Companion. Ao matar inimigos com 3 ou mais efeitos de Status únicos, reduz o cooldown das habilidades do companion em 3s.",
+"tipo": "Companion Bond Mod (Robotic Only)",
+"raridade": "Raro",
+"melhor_farm": "Vendedor em Cetus (Rank 3 Ostron) — Master Teasonai — 20 000 Ostron Standing.",
+"fontes": ["WARFRAME Wiki – Manifold Bond", "Destructoid Guide – How to get Manifold Bond"] 
+},
+{
+"mod": "Restorative Bond",
+"descricao": "Orbs de Saúde restauram +60 de vida e reduzem o tempo de Recovery do Companion em 3s.",
+"tipo": "Companion Bond Mod",
+"raridade": "Raro",
+"melhor_farm": "Vendedor em Cetus (Rank 3 Ostron) — Master Teasonai.",
+"fontes": ["TheGamer – Best Companion Bond Mods", "WARFRAME Wiki – Restorative Bond"]
+},
+{
+"mod": "Covert Bond",
+"descricao": "Kills por Finisher ou Mercy concedem ao Companion 10s de invisibilidade que ataques não cancelam (máx 60s).",
+"tipo": "Companion Bond Mod",
+"raridade": "Raro",
+"melhor_farm": "Vendedor em Cetus (Rank 3 Ostron) — Master Teasonai.",
+"fontes": ["TheGamer – Companion Bond Mods Explained", "WARFRAME Wiki – Covert Bond"]
+},
+{
+"mod": "Mystic Bond",
+"descricao": "Depois do Companion usar 5 vezes habilidades com cooldown, podes lançar uma habilidade do Warframe sem gastar Energia.",
+"tipo": "Companion Bond Mod",
+"raridade": "Raro",
+"melhor_farm": "Vendedor em Cetus (Rank 3 Ostron) — Master Teasonai.",
+"fontes": ["TheGamer – Bond Mods List", "WARFRAME Wiki – Mystic Bond"]
+},
+{
+"mod": "Tandem Bond",
+"descricao": "Companion ataques corpo a corpo aumentam a contagem de Combo do Warframe em +6. Pesadas (Heavy Attacks) aumentam dano do Companion corpo a corpo em 30% × Combo Multiplier por 30s.",
+"tipo": "Companion Bond Mod (Beast Only)",
+"raridade": "Raro",
+"melhor_farm": "Vendedor em Cetus (Rank 3 Ostron) — Master Teasonai.",
+"fontes": ["TheGamer – Best Bond Mods", "WARFRAME Wiki – Tandem Bond"]
+},
+{
+"mod": "Aerial Bond",
+"descricao": "Kills enquanto estás no Ar reduzem o Recovery do Companion em 3s (9s se headshot). Enquanto estás no ar, o Companion gera um campo de Frio que dá até +35% Chance de Status e raio de 10m, por 3s após aterrar.",
+"tipo": "Companion Bond Mod",
+"raridade": "Raro",
+"melhor_farm": "Vendedor em Fortuna (Rank 3 Solaris United) — The Business.",
+"fontes": ["WARFRAME Wiki – Aerial Bond", "HighGroundGaming – How to get Bond Mods"]
+},
+{
+"mod": "Astral Bond",
+"descricao": "Dano feito pelo Operator ou Drifter concede +60% de dano +30% Void ao Companion durante 10s. Dano de Void pelo Companion concede +30% Amp & Eficiência de Energia ao Operator/Drifter por 5s.",
+"tipo": "Companion Bond Mod",
+"raridade": "Raro",
+"melhor_farm": "Vendedor em Fortuna (Rank 3 Solaris United) — The Business.",
+"fontes": ["WARFRAME Wiki – Astral Bond", "HighGroundGaming – Bond Mods Guide"]
+},
+{
+"mod": "Momentous Bond",
+"descricao": "Matar inimigos Eximus concede bonus de dano elemental aleatório ao Companion por 30s e reduz o Recovery do Companion em 12s.",
+"tipo": "Companion Bond Mod",
+"raridade": "Raro",
+"melhor_farm": "Vendedor em Fortuna (Rank 3 Solaris United) — The Business.",
+"fontes": ["TheGamer – Best Companion Bond Mods", "WARFRAME Wiki – Momentous Bond"]
+},
+{
+"mod": "Reinforced Bond",
+"descricao": "Se o Companion exceder 1200 escudos máximos ou Overshields, então as tuas armas têm +60% Velocidade de Disparo. Reload restaura 150 Overshields ao Companion.",
+"tipo": "Companion Bond Mod",
+"raridade": "Raro",
+"melhor_farm": "Vendedor em Fortuna (Rank 3 Solaris United) — The Business.",
+"fontes": ["TheGamer – Bond Mods Explained", "WARFRAME Wiki – Reinforced Bond"]
+},
+{
+"mod": "Tenacious Bond",
+"descricao": "Headshot kills reduzem o Recovery do Companion em 3s. Se o Companion tiver Chance de Crítico >50%, ganhas +0.6× Multiplicador de Dano Crítico Final.",
+"tipo": "Companion Bond Mod",
+"raridade": "Raro",
+"melhor_farm": "Vendedor em Fortuna (Rank 3 Solaris United) — The Business.",
+"fontes": ["TheGamer – Best Bond Mods", "WARFRAME Wiki – Tenacious Bond"]
+},
+{
+"mod": "Contagious Bond",
+"descricao": "Quando o Companion mata inimigos com Status Effect, espalha 50% do tick desse Status para outros inimigos num raio de 9m.",
+"tipo": "Companion Bond Mod",
+"raridade": "Raro",
+"melhor_farm": "Vendedor no Necralisk (Rank 3 Entrati) — Son.",
+"fontes": ["HighGroundGaming – Bond Mods List", "WARFRAME Wiki – Contagious Bond"]
+},
+{
+"mod": "Seismic Bond",
+"descricao": "Enquanto uma habilidade canalizada está ativa, ataques corpo a corpo do Companion criam onda de choque de 4m com 30% do seu dano. Os inimigos atingidos concedem +3% Eficiência de Habilidade ao Warframe por 12s (até 10 stacks).",
+"tipo": "Companion Bond Mod",
+"raridade": "Raro",
+"melhor_farm": "Vendedor no Necralisk (Rank 3 Entrati) — Son.",
+"fontes": ["TheGamer – Best Companion Bond Mods", "WARFRAME Wiki – Seismic Bond"]
+},
+{
+"mod": "Duplex Bond",
+"descricao": "Depois de gastar 100 Energia, duplica o Companion por 30s (até 3 clones). Os clones não usam habilidades nem mods, mas matam inimigos que podem largar Orbs de Energia com 50% de chance.",
+"tipo": "Companion Bond Mod",
+"raridade": "Raro",
+"melhor_farm": "Vendedor no Necralisk (Rank 3 Entrati) — Son.",
+"fontes": ["HighGroundGaming – Bond Mods Guide", "WARFRAME Wiki – Duplex Bond"]
+}
+]
