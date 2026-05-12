@@ -842,14 +842,14 @@
   {
     "mod": "Battle Forge",
     "descricao": "Reduce Forge Cooldown by 120s\\nCooldown: 480s",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Tactical",
     "melhor_farm": "Drop de **Elite Exo Outrider** — verifica drops.warframestat.us para missão exata (chance: 635.00%)",
     "dificuldade_de_obter": "Difícil"
   },
   {
     "mod": "Battle Stations",
     "descricao": "Boost Turret Damage by 75% for 30s\\nCooldown: 240s",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Tactical",
     "melhor_farm": "Drop de **Elite Exo Outrider** — verifica drops.warframestat.us para missão exata (chance: 635.00%)",
     "dificuldade_de_obter": "Difícil"
   },
@@ -1157,7 +1157,7 @@
   {
     "mod": "Breach Quanta",
     "descricao": "Temporarily stall Hull Breach for 55s\\nCooldown: 300s",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Battle",
     "melhor_farm": "Drop de **Orm Basilisk** — verifica drops.warframestat.us para missão exata (chance: 2529.00%)",
     "dificuldade_de_obter": "Médio"
   },
@@ -1731,7 +1731,7 @@
   {
     "mod": "Conic Nozzle",
     "descricao": "+38.3% Railjack Speed",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Integrated",
     "melhor_farm": "Drop de **Kosma Cutter** — verifica drops.warframestat.us para missão exata (chance: 417.00%)",
     "dificuldade_de_obter": "Difícil"
   },
@@ -1948,7 +1948,7 @@
   {
     "mod": "Crimson Fugue",
     "descricao": "+35% Turret Damage per enemy destroyed, for 8s (Maximum 5 stacks)",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Battle",
     "melhor_farm": "Drop de **Taro Weaver** — verifica drops.warframestat.us para missão exata (chance: 417.00%)",
     "dificuldade_de_obter": "Difícil"
   },
@@ -2025,7 +2025,7 @@
   {
     "mod": "Cruising Speed",
     "descricao": "+110% Railjack Speed when no enemies within 3000m",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Integrated",
     "melhor_farm": "Drop de **Kosma Cutter** — verifica drops.warframestat.us para missão exata (chance: 2292.00%)",
     "dificuldade_de_obter": "Médio"
   },
@@ -2144,7 +2144,7 @@
   {
     "mod": "Death Blossom",
     "descricao": "Turret Cooldowns removed for 30s\\nCooldown: 300s",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Battle",
     "melhor_farm": "Drop de **Elite Exo Taktis** — verifica drops.warframestat.us para missão exata (chance: 112.00%)",
     "dificuldade_de_obter": "Difícil"
   },
@@ -3180,7 +3180,7 @@
   {
     "mod": "Flow Burn",
     "descricao": "+38% Speed and Boost Speed for 13s\\nCooldown: 240s",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Battle",
     "melhor_farm": "Drop de **Corpus Ramsled** — melhor local: Júpiter — Io (Defesa) ou Vênus — Tessera (Extermínio) com Nekros (chance: 3106.00%)",
     "dificuldade_de_obter": "Médio"
   },
@@ -3250,7 +3250,7 @@
   {
     "mod": "Form Up",
     "descricao": "Recall all Crew Members to the Railjack and Heal them for 100%\\nCooldown: 240s",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Battle",
     "melhor_farm": "Drop de **Elite Exo Outrider** — verifica drops.warframestat.us para missão exata (chance: 635.00%)",
     "dificuldade_de_obter": "Difícil"
   },
@@ -3628,7 +3628,7 @@
   {
     "mod": "Granum's Nemesis",
     "descricao": "x1.41 Turret Damage vs Corpus",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Integrated",
     "melhor_farm": "Drop de **Elite Exo Cutter** — verifica drops.warframestat.us para missão exata (chance: 2000.00%)",
     "dificuldade_de_obter": "Médio"
   },
@@ -4160,7 +4160,7 @@
   {
     "mod": "Hyperstrike",
     "descricao": "+112.5% Turret Damage",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Integrated",
     "melhor_farm": "Drop de **Elite Axio Weaver** — verifica drops.warframestat.us para missão exata (chance: 4103.00%)",
     "dificuldade_de_obter": "Fácil"
   },
@@ -4265,7 +4265,7 @@
   {
     "mod": "Indomitable Matrix",
     "descricao": "<LOWER_IS_BETTER>-18% Breach Chance\\n+22% Shield Recharge during Breach\\n+30% Armor when below 53% Hull",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Integrated",
     "melhor_farm": "Drop de **Elite Orm Weaver** — verifica drops.warframestat.us para missão exata (chance: 7857.00%)",
     "dificuldade_de_obter": "Fácil"
   },
@@ -4391,7 +4391,7 @@
   {
     "mod": "Ion Burn",
     "descricao": "+67.5% Railjack Boost Speed",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Integrated",
     "melhor_farm": "Drop de **Elite Vorac Weaver** — verifica drops.warframestat.us para missão exata (chance: 7989.00%)",
     "dificuldade_de_obter": "Fácil"
   },
@@ -4433,7 +4433,7 @@
   {
     "mod": "Ironclad Matrix",
     "descricao": "+33.75% Hull and Armor | +38.25% Max Shields and Shield Recharge",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Integrated",
     "melhor_farm": "Drop de **Elite Taro Harpi** — verifica drops.warframestat.us para missão exata (chance: 1384.00%)",
     "dificuldade_de_obter": "Médio"
   },
@@ -5903,7 +5903,7 @@
   {
     "mod": "Onslaught Matrix",
     "descricao": "+22% Turret Damage while 100% Hull\\n20% chance to Reflect 38% Damage while over 80% Shields\\n+9% Battle Mod Efficiency",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Integrated",
     "melhor_farm": "Drop de **Taro Weaver** — verifica drops.warframestat.us para missão exata (chance: 2292.00%)",
     "dificuldade_de_obter": "Médio"
   },
@@ -5952,7 +5952,7 @@
   {
     "mod": "Orgone Tuning Matrix",
     "descricao": "+33.75% Forge Capacity | <LOWER_IS_BETTER>-22.5% Forge Cooldown | +22.5% Elemental Resistance | +27% Turret Heat Capacity ",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Integrated",
     "melhor_farm": "Drop de **Elite Orm Basilisk** — verifica drops.warframestat.us para missão exata (chance: 1510.00%)",
     "dificuldade_de_obter": "Médio"
   },
@@ -6078,7 +6078,7 @@
   {
     "mod": "Particle Ram",
     "descricao": "Railjack Ram that deals damage to anything it touches when moving forward.",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Battle",
     "melhor_farm": "Drop de **Elite Exo Flak** — verifica drops.warframestat.us para missão exata (chance: 137.00%)",
     "dificuldade_de_obter": "Difícil"
   },
@@ -6169,7 +6169,7 @@
   {
     "mod": "Phoenix Blaze",
     "descricao": "Wreathes the Railjack in fire, increasing Turret Damage and Speed.",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Battle",
     "melhor_farm": "Drop de **Gyre Cutter** — verifica drops.warframestat.us para missão exata (chance: 1106.00%)",
     "dificuldade_de_obter": "Médio"
   },
@@ -6477,7 +6477,7 @@
   {
     "mod": "Predator",
     "descricao": "+75% Turret Critical Chance",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Integrated",
     "melhor_farm": "Drop de **Taro Weaver** — verifica drops.warframestat.us para missão exata (chance: 2292.00%)",
     "dificuldade_de_obter": "Médio"
   },
@@ -7079,7 +7079,7 @@
   {
     "mod": "Protective Shots",
     "descricao": "+30% Turret Damage when Shields are above 75%",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Integrated",
     "melhor_farm": "Drop de **Taro Weaver** — verifica drops.warframestat.us para missão exata (chance: 2292.00%)",
     "dificuldade_de_obter": "Médio"
   },
@@ -7268,7 +7268,7 @@
   {
     "mod": "Raider Matrix",
     "descricao": "+22% Archwing Speed and Damage\\n+36% Archwing Shield and Armor\\n+67% Captured Crewship Speed and Damage",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Integrated",
     "melhor_farm": "Drop de **Kosma Cutter** — verifica drops.warframestat.us para missão exata (chance: 2292.00%)",
     "dificuldade_de_obter": "Médio"
   },
@@ -8059,14 +8059,14 @@
   {
     "mod": "Section Density",
     "descricao": "+75% Turret Critical Damage",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Integrated",
     "melhor_farm": "Drop de **Taro Weaver** — verifica drops.warframestat.us para missão exata (chance: 2292.00%)",
     "dificuldade_de_obter": "Médio"
   },
   {
     "mod": "Security Override",
     "descricao": "Auto-hacks consoles over 2s. 30% chance to mind control basic robotic enemies and turrets in 30m for 14s after Hacking.",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Tactical",
     "melhor_farm": "Sem dados de drop disponíveis — consulta https://drops.warframestat.us ou https://warframe.wiki.gg/wiki/Security_Override",
     "dificuldade_de_obter": "Fácil"
   },
@@ -8178,7 +8178,7 @@
   {
     "mod": "Sentient Scalpel",
     "descricao": "x1.41 Turret Damage vs Sentients",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Integrated",
     "melhor_farm": "Drop de **Splintrix** — verifica drops.warframestat.us para missão exata (chance: 5000.00%)",
     "dificuldade_de_obter": "Fácil"
   },
@@ -8885,7 +8885,7 @@
   {
     "mod": "Squad Renew",
     "descricao": "Heal all Railjack squad members by 100%.\\nCooldown: 300s",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Battle",
     "melhor_farm": "Drop de **Elite Axio Harpi** — verifica drops.warframestat.us para missão exata (chance: 112.00%)",
     "dificuldade_de_obter": "Difícil"
   },
@@ -9578,7 +9578,7 @@
   {
     "mod": "Tether",
     "descricao": "Ensnares enemies, increasing vulnerability to Railjack weaponry.",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Battle",
     "melhor_farm": "Drop de **Elite Exo Outrider** — verifica drops.warframestat.us para missão exata (chance: 635.00%)",
     "dificuldade_de_obter": "Difícil"
   },
@@ -9851,7 +9851,7 @@
   {
     "mod": "Turret Velocity",
     "descricao": "+32.2% Turret Range | +70% Turret Projectile Speed",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Integrated",
     "melhor_farm": "Drop de **Elite Exo Outrider** — verifica drops.warframestat.us para missão exata (chance: 135.00%)",
     "dificuldade_de_obter": "Difícil"
   },
@@ -10005,7 +10005,7 @@
   {
     "mod": "Vapor Trail",
     "descricao": "Add 11 Boost Speed. Consumes 10 Energy/s",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Integrated",
     "melhor_farm": "Sem dados de drop disponíveis — consulta https://drops.warframestat.us ou https://warframe.wiki.gg/wiki/Vapor_Trail",
     "dificuldade_de_obter": "Fácil"
   },
@@ -10544,7 +10544,7 @@
   {
     "mod": "Waveband Disruptor",
     "descricao": "+76.5% chance for Turret Critical Hits to ignore enemy Shields",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Integrated",
     "melhor_farm": "Drop de **Elite Vorac Harpi** — verifica drops.warframestat.us para missão exata (chance: 1849.00%)",
     "dificuldade_de_obter": "Médio"
   },
@@ -10614,7 +10614,7 @@
   {
     "mod": "Worm's Torment",
     "descricao": "x1.41 Turret Damage vs Grineer",
-    "tipo": "Warframe",
+    "tipo": "Railjack – Integrated",
     "melhor_farm": "Drop de **Elite Exo Cutter** — verifica drops.warframestat.us para missão exata (chance: 2000.00%)",
     "dificuldade_de_obter": "Médio"
   },
@@ -10673,5 +10673,131 @@
     "tipo": "Warframe",
     "melhor_farm": "Drop de **Pyr Captain** — verifica drops.warframestat.us para missão exata (chance: 2000.00%)",
     "dificuldade_de_obter": "Médio"
+  },
+  {
+    "mod": "Photon Drill",
+    "descricao": "+45% Photon Artillery Damage and Critical Chance.",
+    "tipo": "Railjack – Integrated",
+    "melhor_farm": "Drop de missões de Railjack (Veil Proxima, Sentient Anomaly) — verifica drops.warframestat.us",
+    "dificuldade_de_obter": "Difícil"
+  },
+  {
+    "mod": "Hull Weave",
+    "descricao": "+27% Maximum Hull Integrity.",
+    "tipo": "Railjack – Integrated",
+    "melhor_farm": "Drop de missões de Railjack — verifica drops.warframestat.us",
+    "dificuldade_de_obter": "Fácil"
+  },
+  {
+    "mod": "Bulkhead",
+    "descricao": "+60% Maximum Hull Integrity.",
+    "tipo": "Railjack – Integrated",
+    "melhor_farm": "Drop de missões de Railjack (Vênus Proxima e Saturno Proxima) — verifica drops.warframestat.us",
+    "dificuldade_de_obter": "Médio"
+  },
+  {
+    "mod": "Last Stand",
+    "descricao": "+4% Chance to destroy Hull Breaches and Fires on death of enemies nearby.",
+    "tipo": "Railjack – Integrated",
+    "melhor_farm": "Drop de inimigos em missões de Railjack — verifica drops.warframestat.us",
+    "dificuldade_de_obter": "Médio"
+  },
+  {
+    "mod": "Windup",
+    "descricao": "+75% Turret Spin-Up Speed and Aim Speed.",
+    "tipo": "Railjack – Integrated",
+    "melhor_farm": "Drop de missões de Railjack — verifica drops.warframestat.us",
+    "dificuldade_de_obter": "Médio"
+  },
+  {
+    "mod": "Shield Array",
+    "descricao": "+75% Maximum Shields.",
+    "tipo": "Railjack – Integrated",
+    "melhor_farm": "Drop de missões de Railjack (Vênus Proxima) — verifica drops.warframestat.us",
+    "dificuldade_de_obter": "Fácil"
+  },
+  {
+    "mod": "Polar Coil",
+    "descricao": "+60% Shield Recharge Rate.",
+    "tipo": "Railjack – Integrated",
+    "melhor_farm": "Drop de missões de Railjack — verifica drops.warframestat.us",
+    "dificuldade_de_obter": "Fácil"
+  },
+  {
+    "mod": "Symmetry Furnace",
+    "descricao": "Increases Forge capacity by +30%.",
+    "tipo": "Railjack – Integrated",
+    "melhor_farm": "Drop de missões de Railjack — verifica drops.warframestat.us",
+    "dificuldade_de_obter": "Médio"
+  },
+  {
+    "mod": "Boost Plate",
+    "descricao": "+30% Railjack Boost Speed.",
+    "tipo": "Railjack – Integrated",
+    "melhor_farm": "Drop de missões de Railjack — verifica drops.warframestat.us",
+    "dificuldade_de_obter": "Fácil"
+  },
+  {
+    "mod": "Zetki Turrets",
+    "descricao": "Increases Turret heat dissipation and fire rate.",
+    "tipo": "Railjack – Integrated",
+    "melhor_farm": "Craft no Dry Dock ou drop de inimigos — verifica drops.warframestat.us",
+    "dificuldade_de_obter": "Médio"
+  },
+  {
+    "mod": "Lavan Engines",
+    "descricao": "Increases Railjack boost speed and agility.",
+    "tipo": "Railjack – Integrated",
+    "melhor_farm": "Craft no Dry Dock ou drop de inimigos — verifica drops.warframestat.us",
+    "dificuldade_de_obter": "Médio"
+  },
+  {
+    "mod": "Vidar Reactors",
+    "descricao": "Increases Railjack Reactor output, improving Battle and Tactical mod capacity.",
+    "tipo": "Railjack – Integrated",
+    "melhor_farm": "Craft no Dry Dock ou drop de inimigos — verifica drops.warframestat.us",
+    "dificuldade_de_obter": "Difícil"
+  },
+  {
+    "mod": "Slipstream",
+    "descricoe": "Increases Railjack Boost Speed and agility while boosting.",
+    "tipo": "Railjack – Integrated",
+    "melhor_farm": "Drop de missões de Railjack — verifica drops.warframestat.us",
+    "dificuldade_de_obter": "Médio"
+  },
+  {
+    "mod": "Crewship Sabotage",
+    "descricao": "Target a Crewship within 3000m and destroy its reactor.\\nCooldown: 300s",
+    "tipo": "Railjack – Battle",
+    "melhor_farm": "Drop de missões de Railjack — verifica drops.warframestat.us",
+    "dificuldade_de_obter": "Difícil"
+  },
+  {
+    "mod": "Tactical Refresh",
+    "descricao": "Reduce all Battle Mod cooldowns by 50%.\\nCooldown: 180s",
+    "tipo": "Railjack – Tactical",
+    "melhor_farm": "Drop de missões de Railjack — verifica drops.warframestat.us",
+    "dificuldade_de_obter": "Difícil"
+  },
+  {
+    "mod": "Archwing Warhead",
+    "descricoa": "Deploy a squad member directly onto the enemy Crewship hull via launch pod.\\nCooldown: 120s",
+    "tipo": "Railjack – Tactical",
+    "melhor_farm": "Drop de missões de Railjack — verifica drops.warframestat.us",
+    "dificuldade_de_obter": "Médio"
+  },
+  {
+    "mod": "Archwing Deployment",
+    "descricao": "Instantly deploy all squad members in Archwing mode outside the Railjack.\\nCooldown: 90s",
+    "tipo": "Railjack – Tactical",
+    "melhor_farm": "Drop de missões de Railjack — verifica drops.warframestat.us",
+    "dificuldade_de_obter": "Médio"
+  },
+  {
+    "mod": "Scan Vulnerability",
+    "descricao": "Reveal weak points on all enemies within 3000m, increasing damage taken by 30% for 20s.\\nCooldown: 180s",
+    "tipo": "Railjack – Tactical",
+    "melhor_farm": "Drop de missões de Railjack — verifica drops.warframestat.us",
+    "dificuldade_de_obter": "Difícil"
   }
 ]
