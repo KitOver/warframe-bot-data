@@ -1,16 +1,4 @@
 {
-  "_NOTAS_DE_REVISAO": {
-    "versao": "2.0 – Revisado com base na wiki oficial wiki.warframe.com",
-    "ultima_atualizacao": "Maio 2026 (Update 38.x – Warframe 1999 / The Hex)",
-    "correcoes_principais": [
-      "ERRO GRAVE: efervon_amostra, techrot_chitin, techrot_motherboard e hollvanian_pitchweave_fragment estavam com localização 'Duviri' – corrigidos para Höllvania (Warframe 1999)",
-      "ERRO: gálio tinha 'Vênus – Kiliken' – Gálio NÃO existe em Vênus, apenas Marte e Urano",
-      "REMOVIDO: 'Techrot Bone' e 'Techrot Cog' – recursos que NÃO EXISTEM no jogo",
-      "REMOVIDO: 'Höllvanian Plating' – nome não confirmado na wiki oficial",
-      "REMOVIDO: 'Liga Metálica' – duplicata de 'Chapa de Liga' (ambos = Alloy Plate)",
-      "ORDEM: todos os recursos reorganizados de A–Z pelo nome em PT-BR"
-    ]
-  },
   "adramal_liga": {
     "nome": "Liga Adramal",
     "melhor_local": "Deimos – Mineração em Cambion Drift (veias vermelhas, especialmente em cavernas)",
@@ -386,9 +374,6 @@
     "melhor_local": "Orb Vallis – Processando Kriller (pescado em águas frias durante a NOITE)",
     "detalhes": "- Missão alternativa: N/A. Depende da pesca e processamento.\n- Recomendações táticas: Use a lança 'Shockprod' ou 'Stunna'. Pesque Kriller em águas congeladas de Orb Vallis durante a NOITE com isca 'Coolant Bait'.\n- Warframes ideais: N/A (foco na pesca e clima).\n- Quantidade estimada: ~variável.\n- Ciclo ideal: NOITE em Orb Vallis (crucial para Kriller).\nDescrição: Recurso raro derivado do peixe Kriller de Orb Vallis."
   },
-  "luz_jade": {
-    "_ver": "jade_light"
-  },
   "marca_koumei": {
     "nome": "Marca de Koumei",
     "melhor_local": "Duviri – 'O Caminho de Koumei' (missão dedicada) e Circuito de Duviri",
@@ -413,9 +398,6 @@
     "nome": "Módulo de Controle",
     "melhor_local": "Netuno – Psamathe (Captura) | Europa – Paimon (Sobrevivência Orokin)",
     "detalhes": "- Missão alternativa: Vênus – Linea (Defesa Orokin), recompensas de Syndicates ou Fissuras do Void.\n- Recomendações táticas: Em Captura, corra rapidamente e mate o alvo. Em Sobrevivência/Defesa, fique mais tempo para mais drops. Nekros ajuda em missões mais longas.\n- Warframes ideais: Volt (velocidade em Captura), Nekros (drops em Sobrevivência).\n- Quantidade estimada: ~1–2 por Captura rápida; mais em Sobrevivência.\n- Ciclo ideal: Não se aplica.\nDescrição: Componente eletrônico crucial de assentamentos Orokin, usado em Warframes e equipamentos especiais."
-  },
-  "módulo_sagan_charamote": {
-    "_ver": "charamote_módulo_sagan"
   },
   "mórficos": {
     "nome": "Mórficos",
@@ -446,9 +428,6 @@
     "nome": "Nistlepod",
     "melhor_local": "Planícies de Eidolon – Colheita de arbustos (dia e noite), especialmente perto de água e em Mount Nang",
     "detalhes": "- Missão alternativa: Recompensas de Bounties de Konzu (níveis baixos).\n- Recomendações táticas: Use o Cutter de Plasma para colher arbustos. Procure em áreas com vegetação densa perto de rios e lagos. Mount Nang tem boa concentração.\n- Warframes ideais: Equinox (augment para coleta de plantas), Titania (mobilidade para pontos altos).\n- Quantidade estimada: Varia com a rota de coleta.\n- Ciclo ideal: Disponível dia e noite.\nDescrição: Recurso orgânico das Planícies de Eidolon, usado em construções Ostron."
-  },
-  "nixeus_plasm_trax": {
-    "_NOTA": "Lua Thrax Plasm – ver entrada 'plasma_thrax_lua'"
   },
   "óleo_peixe": {
     "nome": "Óleo de Peixe",
@@ -539,9 +518,6 @@
     "nome": "Fragmento de Seriglass",
     "melhor_local": "Deimos – Bounties Tier 5 da Mãe | Ofertas da Nightwave",
     "detalhes": "- Missão alternativa: Containers do Void no Zariman (chance rara).\n- Recomendações táticas: Complete as Bounties de Tier 5 da Mãe no Necralisk — é uma recompensa comum. Fique atento às ofertas de créditos da Nightwave.\n- Warframes ideais: Qualquer Warframe para bounties rapidamente.\n- Quantidade estimada: Varia por bounty ou ofertas da Nightwave.\n- Ciclo ideal: Bounties sempre disponíveis; Nightwave tem reset semanal.\nDescrição: Fragmento de material raro, obtido em Deimos ou via Nightwave."
-  },
-  "sistemas_atmo": {
-    "_ver": "atmo_sistemas"
   },
   "sopro_eidolon": {
     "nome": "Sopro de Eidolon",
@@ -718,16 +694,10 @@
     "melhor_local": "Deimos – Cambion Drift – Bounties da Mãe (Tier alto) | Mineração de gemas raras no Cambion Drift",
     "detalhes": "- Missão alternativa: Mineração de gemas raras no Cambion Drift.\n- Recomendações táticas: Complete Bounties da Mãe de Tier mais alto. Também encontrado em veias de gema raras durante a mineração (requer Ferramenta de Mineração Avançada).\n- Warframes ideais: Para bounties: Warframes de combate. Para mineração: Volt.\n- Quantidade estimada: Varia por bounty ou sorte.\n- Ciclo ideal: Disponível em ambos os ciclos.\nDescrição: Recurso raro de mineração de Deimos."
   },
-  "eye_eye_rotolâmina_2": {
-    "_ver": "eye_eye_rotolâmina"
-  },
   "fígado_murkray": {
     "nome": "Fígado de Murkray",
     "melhor_local": "Planícies de Eidolon – Processando Murkray (oceano, NOITE, com isca de Murkray)",
     "detalhes": "- Missão alternativa: N/A.\n- Recomendações táticas: Use a Lança Peram e isca de Murkray. Procure águas mais profundas do oceano durante a NOITE. Murkrays são raros e exigem isca específica.\n- Warframes ideais: Ivara (invisibilidade), Zephyr (mobilidade).\n- Quantidade estimada: Varia bastante.\n- Ciclo ideal: NOITE de Eidolon.\nDescrição: Fígado de peixe raro Murkray, usado em refinamentos Ostron."
-  },
-  "fragmento_archon_tauforged_2": {
-    "_ver": "fragmento_archon_tauforged"
   },
   "garra_tralok": {
     "nome": "Olhos de Tralok",
@@ -818,12 +788,6 @@
     "nome": "Phasmin Suave",
     "melhor_local": "Deimos – Mineração em zonas com minerais roxos no Cambion Drift",
     "detalhes": "- Missão alternativa: N/A (recurso de mineração).\n- Recomendações táticas: Use a ferramenta de mineração em superfícies lisas e áreas com formações roxas no Cambion Drift. A Ferramenta Nosam é a mais eficiente.\n- Warframes ideais: N/A.\n- Quantidade estimada: Varia com sorte dos spawns.\n- Ciclo ideal: Disponível em ambos os ciclos.\nDescrição: Mineral raro de Deimos usado em equipamentos avançados."
-  },
-  "placa_revestimento_hollvania": {
-    "_ver": "hollvanian_plating"
-  },
-  "presa_maw": {
-    "_ver": "maw_fang"
   },
   "pyrotic_liga": {
     "nome": "Liga Pyrótica",
@@ -920,9 +884,6 @@
     "melhor_local": "Lua – Cavernas ocultas e áreas secretas em qualquer missão da Lua",
     "detalhes": "- Missão alternativa: N/A.\n- Recomendações táticas: Explore missões da Lua e procure entradas de cavernas ou áreas secretas. Use Loot Radar e Enemy Sense para localizar itens ocultos.\n- Warframes ideais: Limbo (abrir containers), Loki (exploração furtiva).\n- Quantidade estimada: Varia muito — depende da sorte na exploração.\n- Ciclo ideal: Não se aplica.\nDescrição: Extrato raro de recursos orgânicos das cavernas da Lua."
   },
-  "techrot_chitin_ref": {
-    "_ver": "quitina_techrot"
-  },
   "tempered_bapholite": {
     "nome": "Bapholite Temperado",
     "melhor_local": "Deimos – Minerando Bapholite bruto no Cambion Drift + Forjando com Otak na Necralisk",
@@ -938,15 +899,11 @@
     "melhor_local": "Deimos – Processando peixes infestados (Vitreospina, Aquapulmo, Amniophysi)",
     "detalhes": "- Missão alternativa: N/A. Depende da pesca e processamento.\n- Recomendações táticas: Use lança adequada (Seramod ou Spari) com iscas específicas (Fass Residue/Vome Residue) para atrair os peixes. Pesque nos lagos e rios do Cambion Drift. Processe com Otak na Necralisk.\n- Warframes ideais: Ivara (invisibilidade), Volt (mobilidade).\n- Quantidade estimada: ~variável.\n- Ciclo ideal: O ciclo Fass/Vome afeta o spawn dos peixes alvo.\nDescrição: Material extraído de peixes infestados de Deimos, usado em pesquisas biológicas e construções Infestadas."
   },
-  "venedo_sapcaddy": {
-    "_ver": "sapcaddy_estojo"
-  },
   "yao_shrub": {
     "nome": "Arbusto Yao",
     "melhor_local": "Duviri – Coleta de plantas em áreas verdes e florestadas",
     "detalhes": "- Missão alternativa: Recompensas de Encontros de Oportunidade em Duviri.\n- Recomendações táticas: Explore as áreas verdes e florestadas de Duviri. Procure arbustos brilhantes ou interativos. Use o Scanner de Síntese para ajudar.\n- Warframes ideais: Equinox (coleta de plantas), Titania (mobilidade).\n- Quantidade estimada: Varia.\n- Ciclo ideal: Disponível dia e noite.\nDescrição: Recurso orgânico de Duviri, usado em fabricação de equipamentos do Paradox."
   },
-  "_NOTA_UPDATE_41": "Recursos adicionados do Update 41: The Old Peace (Uriel) – lançado a 10 de dezembro de 2025. Requerem conclusão da quest 'The Old Peace'. Acesso via Dark Refractory no mapa estelar.",
   "agnovidisc": {
     "nome": "Agnovidisc",
     "melhor_local": "The Perita Rebellion – Drop de inimigos e recompensas de objetivos em qualquer missão Recall",
